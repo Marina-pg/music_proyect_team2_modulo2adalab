@@ -1,0 +1,451 @@
+id,nombre,popularity,artista,pais,genero
+0,Breakin' Dishes,81,Rihanna,BY,rnb
+1,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,BY,NULL
+2,Фонари,49,Gorod 312,BY,russian
+3,Save Me,1,"Morandi, Helene",BY,NULL
+4,Headlock,83,Imogen Heap,BY,electronic
+5,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,BY,NULL
+6,Poker Face,79,Lady Gaga,BY,pop
+7,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,BY,NULL
+8,Just Dance,77,"Lady Gaga, Colby O'Donis",BY,NULL
+9,Womanizer (Director's Cut),0,Britney Spears,BY,my dance room
+10,Как на войне,51,Agatha Christie,BY,NULL
+11,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,BY,NULL
+12,Вне зоны доступа,48,Gorod 312,BY,russian
+13,B.Y.O.B.,0,System Of A Down,BY,alternative metal
+14,Такая любовь,45,Akula,BY,russian
+15,Nossa História - Ao Vivo,0,Edson & Hudson,BY,NULL
+16,Feel Good Inc.,82,Gorillaz,BY,alternative
+17,Até O Sol Quis Ver,0,Exaltasamba,BY,Pagode
+18,Vanished,65,Crystal Castles,BY,electronic
+19,"Dança Do Bole, Bole - Live",0,Exaltasamba,BY,NULL
+20,Gimme More,78,Britney Spears,BY,pop
+21,Samba Menina / Ay Cosita Linda - Ao Vivo,0,Moinho,BY,NULL
+22,Вахтерам,50,Boombox,BY,Hip-Hop
+23,"É Para Ficar - Live from Ilha de Magia, Florianópolis, Brazil/2008",0,Exaltasamba,BY,NULL
+24,Smack That,79,"Akon, Eminem",BY,NULL
+25,Por La Herida De Un Amor,0,Gilberto Santa Rosa,BY,salsa
+26,Кажется,46,UMA2RMAN,BY,pop
+27,Yeah! - T4 Performance,0,USHER,BY,NULL
+28,Animal I Have Become,68,Three Days Grace,BY,rock
+29,My Name Is,0,Eminem,BY,rap
+30,Monster,74,Skillet,BY,rock
+31,"Ainda Ontem Chorei De Saudade - Live From Villa Country, São Paulo, Brazil/2007",0,Edson & Hudson,BY,NULL
+32,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",BY,NULL
+33,Ass Like That - Super Clean Version,0,Eminem,BY,NULL
+34,Знаешь ли ты,47,MakSim,BY,russian
+35,Bons Momentos - Ao Vivo,0,Inimigos Da HP,BY,NULL
+36,До скорой встречи!,46,Zveri,BY,russian
+37,A Gente Vai - Ao Vivo,0,Edson & Hudson,BY,NULL
+38,Supermassive Black Hole,75,Muse,BY,alternative rock
+39,How We Do,0,The Game,BY,Hip-Hop
+40,LoveGame,69,Lady Gaga,BY,dance
+41,Assovia - Ao Vivo,0,Edson & Hudson,BY,NULL
+42,My Game,46,Basta,BY,NULL
+43,How Come/Git Up - (Edited Version),0,D12,BY,NULL
+44,Город Сочи,45,Sergey Trofimov,BY,NULL
+45,Meu Eu em Você (Video),0,Victor & Leo,BY,NULL
+46,Fine,60,Lemon Demon,BY,Love it
+47,Dead Homiez,0,Ice Cube,BY,hip hop
+48,Выдыхай,44,Noize MC,BY,noize mc
+49,Can I Have It Like That,0,"Pharrell, Gwen Stefani",BY,NULL
+50,Breakin' Dishes,81,Rihanna,BG,rnb
+51,Get Around Town,0,Revolver,BG,rock
+52,Da Si Plashtal,39,Emanuela,BG,Get Down
+53,Save Me,1,"Morandi, Helene",BG,NULL
+54,Dai Mi Vsichko,40,Andrea,BG,cover
+55,Nothing to Lose,0,Operator,BG,rock
+56,Headlock,83,Imogen Heap,BG,electronic
+57,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,BG,NULL
+58,Heartless,80,Kanye West,BG,Kanye West
+59,Odio,1,Revolver,BG,spanish
+60,505,81,Arctic Monkeys,BG,indie rock
+61,Clapton: Tears in Heaven/video,1,The Choirboys,BG,NULL
+62,Dyavolsko zhelanie,37,Preslava,BG,NULL
+63,Historia universal (El amor no es lo que piensas),0,DELUXE,BG,indie
+64,Poker Face,79,Lady Gaga,BG,pop
+65,Coming Home,0,Sasha,BG,pop
+66,Feel Good Inc.,82,Gorillaz,BG,alternative
+67,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,BG,NULL
+68,Gimme More,78,Britney Spears,BG,pop
+69,Colillas en el sueño,0,DELUXE,BG,NULL
+70,Don't Stop The Music,78,Rihanna,BG,dance
+71,Goodbye,0,Sasha,BG,pop
+72,Smack That,79,"Akon, Eminem",BG,NULL
+73,Stars of CCTV - Live at the Astoria,0,Hard-Fi,BG,NULL
+74,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",BG,NULL
+75,Tendremos que esperar,0,DELUXE,BG,spanish pop
+76,"Dve, Tri, Chetiri",36,Toni Storaro,BG,social degradation
+77,Mi rendición,0,Revolver,BG,Rock en Espanol
+78,Flashing Lights,80,"Kanye West, Dwele",BG,NULL
+79,J'étais comme eux,0,Demon One,BG,NULL
+80,Just Dance,77,"Lady Gaga, Colby O'Donis",BG,NULL
+81,Si es tan solo amor,0,Revolver,BG,blues guitar
+82,Promiscuous,80,"Nelly Furtado, Timbaland",BG,NULL
+83,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,BG,NULL
+84,SexyBack (feat. Timbaland),77,"Justin Timberlake, Timbaland",BG,NULL
+85,Start Of Something New,0,"Troy, Vanessa Hudgens",BG,NULL
+86,Can't Tell Me Nothing,77,Kanye West,BG,Hip-Hop
+87,No va más,0,Revolver,BG,rich spanish pop
+88,Just A Lil Bit,73,50 Cent,BG,50 Cent
+89,Slowly,0,Sasha,BG,pop
+90,Animal I Have Become,68,Three Days Grace,BG,rock
+91,Soulcrusher,0,Operator,BG,Grunge
+92,Maneater,78,Nelly Furtado,BG,pop
+93,Womanizer (Director's Cut),0,Britney Spears,BG,my dance room
+94,Bad Romance,79,Lady Gaga,BG,pop
+95,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,BG,NULL
+96,Monster,74,Skillet,BG,rock
+97,B.Y.O.B.,0,System Of A Down,BG,alternative metal
+98,Right Round,75,"Flo Rida, Kesha",BG,NULL
+99,Nossa História - Ao Vivo,0,Edson & Hudson,BG,NULL
+100,Viva La Vida,82,Coldplay,CZ,Coldplay
+101,Get Around Town,0,Revolver,CZ,rock
+102,Breakin' Dishes,81,Rihanna,CZ,rnb
+103,Save Me,1,"Morandi, Helene",CZ,NULL
+104,Malá dáma,50,Kabát,CZ,Eurovision
+105,Clapton: Tears in Heaven/video,1,The Choirboys,CZ,NULL
+106,Poker Face,79,Lady Gaga,CZ,pop
+107,Soulcrusher,0,Operator,CZ,Grunge
+108,Hot N Cold,72,Katy Perry,CZ,pop
+109,Nothing to Lose,0,Operator,CZ,rock
+110,Just Dance,77,"Lady Gaga, Colby O'Donis",CZ,NULL
+111,Slowly,0,Sasha,CZ,pop
+112,Don't Stop The Music,78,Rihanna,CZ,dance
+113,Please Please Please,0,Sasha,CZ,pop
+114,Feel Good Inc.,82,Gorillaz,CZ,alternative
+115,Please Please Please,0,Sasha,CZ,pop
+116,Burlaci,47,Kabát,CZ,rock
+117,There She Goes,0,Sasha,CZ,pop
+118,I Gotta Feeling,77,Black Eyed Peas,CZ,pop
+119,Zizen - Live,0,Kabát,CZ,NULL
+120,"You're Gonna Go Far, Kid",76,The Offspring,CZ,punk rock
+121,Closer - Director's Cut,0,Nine Inch Nails,CZ,NULL
+122,505,81,Arctic Monkeys,CZ,indie rock
+123,Square One - Live from Austin City Limits,0,Coldplay,CZ,NULL
+124,What I've Done,77,Linkin Park,CZ,rock
+125,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,CZ,NULL
+126,Heartless,80,Kanye West,CZ,Kanye West
+127,Odio,1,Revolver,CZ,spanish
+128,Headlock,83,Imogen Heap,CZ,electronic
+129,Historia universal (El amor no es lo que piensas),0,DELUXE,CZ,indie
+130,Monster,74,Skillet,CZ,rock
+131,Coming Home,0,Sasha,CZ,pop
+132,Meet Me Halfway,74,Black Eyed Peas,CZ,black eyed peas
+133,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,CZ,NULL
+134,This Is The Life,72,Amy Macdonald,CZ,female vocalists
+135,Colillas en el sueño,0,DELUXE,CZ,NULL
+136,Bad Romance,79,Lady Gaga,CZ,pop
+137,Goodbye,0,Sasha,CZ,pop
+138,Mám Jizvu Na Rtu,45,Jaromir Nohavica,CZ,singer-songwriter
+139,Stars of CCTV - Live at the Astoria,0,Hard-Fi,CZ,NULL
+140,Zamilovaný / Nešťastná,44,"Rybičky 48, Bára Zemanová",CZ,NULL
+141,Tendremos que esperar,0,DELUXE,CZ,spanish pop
+142,Hips Don't Lie (feat. Wyclef Jean),80,"Shakira, Wyclef Jean",CZ,NULL
+143,Mi rendición,0,Revolver,CZ,Rock en Espanol
+144,Na hotelu V Olomouci,44,"Petr Hapka, Szidi Tobias",CZ,NULL
+145,J'étais comme eux,0,Demon One,CZ,NULL
+146,We Are The People,76,Empire Of The Sun,CZ,electronic
+147,Si es tan solo amor,0,Revolver,CZ,blues guitar
+148,Flashing Lights,80,"Kanye West, Dwele",CZ,NULL
+149,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,CZ,NULL
+150,Breakin' Dishes,81,Rihanna,SK,rnb
+151,Slowly,0,Sasha,SK,pop
+152,Don't Stop The Music,78,Rihanna,SK,dance
+153,Save Me,1,"Morandi, Helene",SK,NULL
+154,Viva La Vida,82,Coldplay,SK,Coldplay
+155,Goodbye,0,Sasha,SK,pop
+156,Heartless,80,Kanye West,SK,Kanye West
+157,Coming Home,0,Sasha,SK,pop
+158,Poker Face,79,Lady Gaga,SK,pop
+159,Please Please Please,0,Sasha,SK,pop
+160,Just Dance,77,"Lady Gaga, Colby O'Donis",SK,NULL
+161,J'étais comme eux,0,Demon One,SK,NULL
+162,Feel Good Inc.,82,Gorillaz,SK,alternative
+163,Stars of CCTV - Live at the Astoria,0,Hard-Fi,SK,NULL
+164,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",SK,NULL
+165,My Name Is,0,Eminem,SK,rap
+166,505,81,Arctic Monkeys,SK,indie rock
+167,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,SK,NULL
+168,Smack That,79,"Akon, Eminem",SK,NULL
+169,Odio,1,Revolver,SK,spanish
+170,Headlock,83,Imogen Heap,SK,electronic
+171,Clapton: Tears in Heaven/video,1,The Choirboys,SK,NULL
+172,Malá dáma,50,Kabát,SK,Eurovision
+173,Historia universal (El amor no es lo que piensas),0,DELUXE,SK,indie
+174,Maneater,78,Nelly Furtado,SK,pop
+175,Get Around Town,0,Revolver,SK,rock
+176,Zlatokopky,44,Rytmus,SK,hip hop
+177,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,SK,NULL
+178,I Gotta Feeling,77,Black Eyed Peas,SK,pop
+179,Colillas en el sueño,0,DELUXE,SK,NULL
+180,Hot N Cold,72,Katy Perry,SK,pop
+181,Tendremos que esperar,0,DELUXE,SK,spanish pop
+182,Meet Me Halfway,74,Black Eyed Peas,SK,black eyed peas
+183,Mi rendición,0,Revolver,SK,Rock en Espanol
+184,Silný refrén,45,Horkýže Slíže,SK,rock
+185,Si es tan solo amor,0,Revolver,SK,blues guitar
+186,Flashing Lights,80,"Kanye West, Dwele",SK,NULL
+187,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,SK,NULL
+188,We Are The People,76,Empire Of The Sun,SK,electronic
+189,Start Of Something New,0,"Troy, Vanessa Hudgens",SK,NULL
+190,Hips Don't Lie (feat. Wyclef Jean),80,"Shakira, Wyclef Jean",SK,NULL
+191,No va más,0,Revolver,SK,rich spanish pop
+192,Gimme More,78,Britney Spears,SK,pop
+193,Soulcrusher,0,Operator,SK,Grunge
+194,Promiscuous,80,"Nelly Furtado, Timbaland",SK,NULL
+195,Womanizer (Director's Cut),0,Britney Spears,SK,my dance room
+196,Robím čo chcem,41,H16,SK,hip hop
+197,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,SK,NULL
+198,Hotel Room Service,72,Pitbull,SK,dance
+199,B.Y.O.B.,0,System Of A Down,SK,alternative metal
+200,Breakin' Dishes,81,Rihanna,HU,rnb
+201,Get Around Town,0,Revolver,HU,rock
+202,Viva La Vida,82,Coldplay,HU,Coldplay
+203,Save Me,1,"Morandi, Helene",HU,NULL
+204,Poker Face,79,Lady Gaga,HU,pop
+205,Clapton: Tears in Heaven/video,1,The Choirboys,HU,NULL
+206,Heartless,80,Kanye West,HU,Kanye West
+207,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,HU,NULL
+208,Don't Stop The Music,78,Rihanna,HU,dance
+209,Odio,1,Revolver,HU,spanish
+210,Merre Visz Az Út,44,L.L. Junior,HU,NULL
+211,Historia universal (El amor no es lo que piensas),0,DELUXE,HU,indie
+212,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",HU,NULL
+213,Coming Home,0,Sasha,HU,pop
+214,Headlock,83,Imogen Heap,HU,electronic
+215,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,HU,NULL
+216,Just Dance,77,"Lady Gaga, Colby O'Donis",HU,NULL
+217,Colillas en el sueño,0,DELUXE,HU,NULL
+218,Feel Good Inc.,82,Gorillaz,HU,alternative
+219,Goodbye,0,Sasha,HU,pop
+220,505,81,Arctic Monkeys,HU,indie rock
+221,Stars of CCTV - Live at the Astoria,0,Hard-Fi,HU,NULL
+222,Maneater,78,Nelly Furtado,HU,pop
+223,Tendremos que esperar,0,DELUXE,HU,spanish pop
+224,Right Round,75,"Flo Rida, Kesha",HU,NULL
+225,Mi rendición,0,Revolver,HU,Rock en Espanol
+226,Smack That,79,"Akon, Eminem",HU,NULL
+227,J'étais comme eux,0,Demon One,HU,NULL
+228,Gimme More,78,Britney Spears,HU,pop
+229,Si es tan solo amor,0,Revolver,HU,blues guitar
+230,Hips Don't Lie (feat. Wyclef Jean),80,"Shakira, Wyclef Jean",HU,NULL
+231,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,HU,NULL
+232,Hot N Cold,72,Katy Perry,HU,pop
+233,Start Of Something New,0,"Troy, Vanessa Hudgens",HU,NULL
+234,"Akarom Hogy Érezd, Pt. 1",41,L.L. Junior,HU,NULL
+235,No va más,0,Revolver,HU,rich spanish pop
+236,Bad Romance,79,Lady Gaga,HU,pop
+237,Slowly,0,Sasha,HU,pop
+238,Promiscuous,80,"Nelly Furtado, Timbaland",HU,NULL
+239,Soulcrusher,0,Operator,HU,Grunge
+240,Flashing Lights,80,"Kanye West, Dwele",HU,NULL
+241,Womanizer (Director's Cut),0,Britney Spears,HU,my dance room
+242,I Gotta Feeling,77,Black Eyed Peas,HU,pop
+243,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,HU,NULL
+244,Pon de Replay,75,Rihanna,HU,dance
+245,B.Y.O.B.,0,System Of A Down,HU,alternative metal
+246,Umbrella,78,"Rihanna, JAY-Z",HU,NULL
+247,Nothing to Lose,0,Operator,HU,rock
+248,Disturbia,75,Rihanna,HU,pop
+249,Nossa História - Ao Vivo,0,Edson & Hudson,HU,NULL
+250,Breakin' Dishes,81,Rihanna,MD,rnb
+251,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,MD,NULL
+252,Headlock,83,Imogen Heap,MD,electronic
+253,Save Me,1,"Morandi, Helene",MD,NULL
+254,505,81,Arctic Monkeys,MD,indie rock
+255,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,MD,NULL
+256,Feel Good Inc.,82,Gorillaz,MD,alternative
+257,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,MD,NULL
+258,Smack That,79,"Akon, Eminem",MD,NULL
+259,Womanizer (Director's Cut),0,Britney Spears,MD,my dance room
+260,Poker Face,79,Lady Gaga,MD,pop
+261,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,MD,NULL
+262,Ice Baby,48,GUF,MD,rap
+263,B.Y.O.B.,0,System Of A Down,MD,alternative metal
+264,Gimme More,78,Britney Spears,MD,pop
+265,Nossa História - Ao Vivo,0,Edson & Hudson,MD,NULL
+266,Heartless,80,Kanye West,MD,Kanye West
+267,Até O Sol Quis Ver,0,Exaltasamba,MD,Pagode
+268,Flashing Lights,80,"Kanye West, Dwele",MD,NULL
+269,"Dança Do Bole, Bole - Live",0,Exaltasamba,MD,NULL
+270,Just Dance,77,"Lady Gaga, Colby O'Donis",MD,NULL
+271,Samba Menina / Ay Cosita Linda - Ao Vivo,0,Moinho,MD,NULL
+272,The Way I Are,54,"Timbaland, Keri Hilson, D.O.E.",MD,NULL
+273,"É Para Ficar - Live from Ilha de Magia, Florianópolis, Brazil/2008",0,Exaltasamba,MD,NULL
+274,Lose Yourself,73,Eminem,MD,rap
+275,Por La Herida De Un Amor,0,Gilberto Santa Rosa,MD,salsa
+276,Vanished,65,Crystal Castles,MD,electronic
+277,Yeah! - T4 Performance,0,USHER,MD,NULL
+278,Вахтерам,50,Boombox,MD,Hip-Hop
+279,My Name Is,0,Eminem,MD,rap
+280,SexyBack (feat. Timbaland),77,"Justin Timberlake, Timbaland",MD,NULL
+281,"Ainda Ontem Chorei De Saudade - Live From Villa Country, São Paulo, Brazil/2007",0,Edson & Hudson,MD,NULL
+282,Diva,70,Beyoncé,MD,rnb
+283,Ass Like That - Super Clean Version,0,Eminem,MD,NULL
+284,Back To Black,77,Amy Winehouse,MD,soul
+285,Bons Momentos - Ao Vivo,0,Inimigos Da HP,MD,NULL
+286,We Are The People,76,Empire Of The Sun,MD,electronic
+287,A Gente Vai - Ao Vivo,0,Edson & Hudson,MD,NULL
+288,Just A Lil Bit,73,50 Cent,MD,50 Cent
+289,How We Do,0,The Game,MD,Hip-Hop
+290,Poison Tree,71,Grouper,MD,Poison
+291,Assovia - Ao Vivo,0,Edson & Hudson,MD,NULL
+292,Supermassive Black Hole,75,Muse,MD,alternative rock
+293,How Come/Git Up - (Edited Version),0,D12,MD,NULL
+294,Don't Stop The Music,78,Rihanna,MD,dance
+295,Le Vide,0,Wir sind Helden,MD,Franzoesich fuer Anfaenger
+296,Strazile feat. (Mario V),45,B.U.G. Mafia,MD,NULL
+297,Meu Eu em Você (Video),0,Victor & Leo,MD,NULL
+298,Animal I Have Become,68,Three Days Grace,MD,rock
+299,Dead Homiez,0,Ice Cube,MD,hip hop
+300,Breakin' Dishes,81,Rihanna,PL,rnb
+301,Save Me,1,"Morandi, Helene",PL,NULL
+302,Na Szczycie,58,Grubson,PL,reggae
+303,Get Around Town,0,Revolver,PL,rock
+304,Headlock,83,Imogen Heap,PL,electronic
+305,Clapton: Tears in Heaven/video,1,The Choirboys,PL,NULL
+306,505,81,Arctic Monkeys,PL,indie rock
+307,Dead Homiez,0,Ice Cube,PL,hip hop
+308,Don't Stop The Music,78,Rihanna,PL,dance
+309,Iron Maiden - Live at Long Beach Arena,0,Iron Maiden,PL,NULL
+310,Poker Face,79,Lady Gaga,PL,pop
+311,Powerslave - Live At Long Beach Arena,0,Iron Maiden,PL,NULL
+312,Hotel Room Service,72,Pitbull,PL,dance
+313,Coming Home,0,Sasha,PL,pop
+314,Just Dance,77,"Lady Gaga, Colby O'Donis",PL,NULL
+315,Womanizer (Director's Cut),0,Britney Spears,PL,my dance room
+316,Maneater,78,Nelly Furtado,PL,pop
+317,Soulcrusher,0,Operator,PL,Grunge
+318,Heartless,80,Kanye West,PL,Kanye West
+319,Tattoo (feat. Fabo) - D4L,0,"The Alliance, Fabo",PL,NULL
+320,Zawsze tam gdzie Ty,55,Lady Pank,PL,rock
+321,Nothing to Lose,0,Operator,PL,rock
+322,Feel Good Inc.,82,Gorillaz,PL,alternative
+323,PS. Zabierz mnie tam,0,Bajm,PL,polish
+324,Flashing Lights,80,"Kanye West, Dwele",PL,NULL
+325,Historia universal (El amor no es lo que piensas),0,DELUXE,PL,indie
+326,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",PL,NULL
+327,Colillas en el sueño,0,DELUXE,PL,NULL
+328,Meet Me Halfway,74,Black Eyed Peas,PL,black eyed peas
+329,Tendremos que esperar,0,DELUXE,PL,spanish pop
+330,Gimme More,78,Britney Spears,PL,pop
+331,"Japan Summer Sonic, LPTV Episode 10",0,Linkin Park,PL,NULL
+332,Viva La Vida,82,Coldplay,PL,Coldplay
+333,Hallowed Be Thy Name - Live at Long Beach,0,Iron Maiden,PL,NULL
+334,Hot N Cold,72,Katy Perry,PL,pop
+335,Dziwny Jest Ten Swiat,0,Janusz Radek,PL,NULL
+336,Promiscuous,80,"Nelly Furtado, Timbaland",PL,NULL
+337,Ass Like That - Super Clean Version,0,Eminem,PL,NULL
+338,I Gotta Feeling,77,Black Eyed Peas,PL,pop
+339,My Name Is,0,Eminem,PL,rap
+340,Hips Don't Lie (feat. Wyclef Jean),80,"Shakira, Wyclef Jean",PL,NULL
+341,Slowly,0,Sasha,PL,pop
+342,We Are The People,76,Empire Of The Sun,PL,electronic
+343,"Call Me When You Get This - Live From St Luke's,United Kingdom/2006",0,Corinne Bailey Rae,PL,NULL
+344,Mieć czy być,53,Myslovitz,PL,rock
+345,The Rigga-Ding-Dong-Song,0,Passion Fruit,PL,pop
+346,Smack That,79,"Akon, Eminem",PL,NULL
+347,Signs,0,"Snoop Dogg, Justin Timberlake, Charlie Wilson",PL,NULL
+348,Na co komu dziś,53,Lady Pank,PL,rock
+349,Merry Christmas Everyone (Official Video) [Directors Cut],0,Shakin' Stevens,PL,NULL
+350,Breakin' Dishes,81,Rihanna,RO,rnb
+351,Save Me,1,"Morandi, Helene",RO,NULL
+352,Headlock,83,Imogen Heap,RO,electronic
+353,Get Around Town,0,Revolver,RO,rock
+354,Heartless,80,Kanye West,RO,Kanye West
+355,Goodbye,0,Sasha,RO,pop
+356,505,81,Arctic Monkeys,RO,indie rock
+357,Slowly,0,Sasha,RO,pop
+358,Strazile feat. (Mario V),45,B.U.G. Mafia,RO,NULL
+359,Soulcrusher,0,Operator,RO,Grunge
+360,Flashing Lights,80,"Kanye West, Dwele",RO,NULL
+361,Tendremos que esperar,0,DELUXE,RO,spanish pop
+362,Poker Face,79,Lady Gaga,RO,pop
+363,Colillas en el sueño,0,DELUXE,RO,NULL
+364,Fresh,43,Puya,RO,9 lbs hammer
+365,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,RO,NULL
+366,Undeva în Balkani,43,"Puya, George Hora",RO,NULL
+367,Odio,1,Revolver,RO,spanish
+368,Smack That,79,"Akon, Eminem",RO,NULL
+369,Historia universal (El amor no es lo que piensas),0,DELUXE,RO,indie
+370,Hai cu mine,43,"B.U.G. Mafia, Queen Bee",RO,NULL
+371,Coming Home,0,Sasha,RO,pop
+372,Trecând peste toate,41,"Nimeni Altu’, Axes, Feliz",RO,NULL
+373,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,RO,NULL
+374,Feel Good Inc.,82,Gorillaz,RO,alternative
+375,Stars of CCTV - Live at the Astoria,0,Hard-Fi,RO,NULL
+376,Înger și demon,41,Nimeni Altu’,RO,NULL
+377,Mi rendición,0,Revolver,RO,Rock en Espanol
+378,Viata noastra,42,"B.U.G. Mafia, Adriana Vlad",RO,NULL
+379,J'étais comme eux,0,Demon One,RO,NULL
+380,Don't Stop The Music,78,Rihanna,RO,dance
+381,Si es tan solo amor,0,Revolver,RO,blues guitar
+382,Gimme More,78,Britney Spears,RO,pop
+383,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,RO,NULL
+384,Viva La Vida,82,Coldplay,RO,Coldplay
+385,Start Of Something New,0,"Troy, Vanessa Hudgens",RO,NULL
+386,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",RO,NULL
+387,No va más,0,Revolver,RO,rich spanish pop
+388,În lipsa mea,41,"Smiley, Uzzi",RO,NULL
+389,Womanizer (Director's Cut),0,Britney Spears,RO,my dance room
+390,Doamna și bagabontul,40,"Puya, Alex Mica",RO,NULL
+391,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,RO,NULL
+392,Hips Don't Lie (feat. Wyclef Jean),80,"Shakira, Wyclef Jean",RO,NULL
+393,B.Y.O.B.,0,System Of A Down,RO,alternative metal
+394,Just Dance,77,"Lady Gaga, Colby O'Donis",RO,NULL
+395,Nothing to Lose,0,Operator,RO,rock
+396,SexyBack (feat. Timbaland),77,"Justin Timberlake, Timbaland",RO,NULL
+397,Nossa História - Ao Vivo,0,Edson & Hudson,RO,NULL
+398,Can't Tell Me Nothing,77,Kanye West,RO,Hip-Hop
+399,Até O Sol Quis Ver,0,Exaltasamba,RO,Pagode
+400,Breakin' Dishes,81,Rihanna,UA,rnb
+401,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,UA,NULL
+402,Headlock,83,Imogen Heap,UA,electronic
+403,Save Me,1,"Morandi, Helene",UA,NULL
+404,Poker Face,79,Lady Gaga,UA,pop
+405,Clapton: Tears in Heaven/video,1,The Choirboys,UA,NULL
+406,505,81,Arctic Monkeys,UA,indie rock
+407,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,UA,NULL
+408,Feel Good Inc.,82,Gorillaz,UA,alternative
+409,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,UA,NULL
+410,Just Dance,77,"Lady Gaga, Colby O'Donis",UA,NULL
+411,Start Of Something New,0,"Troy, Vanessa Hudgens",UA,NULL
+412,Gimme More,78,Britney Spears,UA,pop
+413,Womanizer (Director's Cut),0,Britney Spears,UA,my dance room
+414,Восьмий колір,46,Motor'Rolla,UA,NULL
+415,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,UA,NULL
+416,Вахтерам,50,Boombox,UA,Hip-Hop
+417,B.Y.O.B.,0,System Of A Down,UA,alternative metal
+418,Квiти в волоссi,45,Boombox,UA,NULL
+419,Nossa História - Ao Vivo,0,Edson & Hudson,UA,NULL
+420,Старі фотографії,44,Скрябін,UA,Ukrainian
+421,Até O Sol Quis Ver,0,Exaltasamba,UA,Pagode
+422,Vanished,65,Crystal Castles,UA,electronic
+423,"Dança Do Bole, Bole - Live",0,Exaltasamba,UA,NULL
+424,Supermassive Black Hole,75,Muse,UA,alternative rock
+425,Samba Menina / Ay Cosita Linda - Ao Vivo,0,Moinho,UA,NULL
+426,Monster,74,Skillet,UA,rock
+427,"É Para Ficar - Live from Ilha de Magia, Florianópolis, Brazil/2008",0,Exaltasamba,UA,NULL
+428,Animal I Have Become,68,Three Days Grace,UA,rock
+429,Por La Herida De Un Amor,0,Gilberto Santa Rosa,UA,salsa
+430,Bad Romance,79,Lady Gaga,UA,pop
+431,Yeah! - T4 Performance,0,USHER,UA,NULL
+432,Smack That,79,"Akon, Eminem",UA,NULL
+433,My Name Is,0,Eminem,UA,rap
+434,Та4то,48,Boombox,UA,NULL
+435,"Ainda Ontem Chorei De Saudade - Live From Villa Country, São Paulo, Brazil/2007",0,Edson & Hudson,UA,NULL
+436,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",UA,NULL
+437,Ass Like That - Super Clean Version,0,Eminem,UA,NULL
+438,SexyBack (feat. Timbaland),77,"Justin Timberlake, Timbaland",UA,NULL
+439,Bons Momentos - Ao Vivo,0,Inimigos Da HP,UA,NULL
+440,LoveGame,69,Lady Gaga,UA,dance
+441,A Gente Vai - Ao Vivo,0,Edson & Hudson,UA,NULL
+442,"Не дзвонила, не заходила",42,Motor'Rolla,UA,NULL
+443,How We Do,0,The Game,UA,Hip-Hop
+444,Lonely Day,65,System Of A Down,UA,rock
+445,Assovia - Ao Vivo,0,Edson & Hudson,UA,NULL
+446,Без бою,46,Okean Elzy,UA,Ukrainian
+447,How Come/Git Up - (Edited Version),0,D12,UA,NULL
+448,Шмата,41,Скрябін,UA,ukraina
+449,Le Vide,0,Wir sind Helden,UA,Franzoesich fuer Anfaenger

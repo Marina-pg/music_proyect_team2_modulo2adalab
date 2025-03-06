@@ -1,0 +1,501 @@
+id,nombre,popularity,artista,pais,genero
+0,Viva La Vida,82,Coldplay,DK,Coldplay
+1,Clapton: Tears in Heaven/video,1,The Choirboys,DK,NULL
+2,Kun For Mig,47,Medina,DK,danish
+3,Get Around Town,0,Revolver,DK,rock
+4,Vi To,47,Medina,DK,trance
+5,Nothing to Lose,0,Operator,DK,rock
+6,Heartless,80,Kanye West,DK,Kanye West
+7,Coming Home,0,Sasha,DK,pop
+8,Don't Stop The Music,78,Rihanna,DK,dance
+9,Save Me,1,"Morandi, Helene",DK,NULL
+10,Breakin' Dishes,81,Rihanna,DK,rnb
+11,Da Rockwilder,0,"Method Man, Redman",DK,NULL
+12,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",DK,NULL
+13,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,DK,NULL
+14,Proletar (Hvor Jeg Står),45,Suspekt,DK,Hip-Hop
+15,Odio,1,Revolver,DK,spanish
+16,Flashing Lights,80,"Kanye West, Dwele",DK,NULL
+17,Historia universal (El amor no es lo que piensas),0,DELUXE,DK,indie
+18,Headlock,83,Imogen Heap,DK,electronic
+19,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,DK,NULL
+20,Poker Face,79,Lady Gaga,DK,pop
+21,Colillas en el sueño,0,DELUXE,DK,NULL
+22,Homecoming,76,"Kanye West, Chris Martin",DK,NULL
+23,Goodbye,0,Sasha,DK,pop
+24,Lidt I Fem,44,Rasmus Seebach,DK,pop
+25,Stars of CCTV - Live at the Astoria,0,Hard-Fi,DK,NULL
+26,Feel Good Inc.,82,Gorillaz,DK,alternative
+27,Tendremos que esperar,0,DELUXE,DK,spanish pop
+28,Hips Don't Lie (feat. Wyclef Jean),80,"Shakira, Wyclef Jean",DK,NULL
+29,Mi rendición,0,Revolver,DK,Rock en Espanol
+30,Just Dance,77,"Lady Gaga, Colby O'Donis",DK,NULL
+31,J'étais comme eux,0,Demon One,DK,NULL
+32,Umbrella,78,"Rihanna, JAY-Z",DK,NULL
+33,Si es tan solo amor,0,Revolver,DK,blues guitar
+34,505,81,Arctic Monkeys,DK,indie rock
+35,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,DK,NULL
+36,Fix You,81,Coldplay,DK,Coldplay
+37,Start Of Something New,0,"Troy, Vanessa Hudgens",DK,NULL
+38,Promiscuous,80,"Nelly Furtado, Timbaland",DK,NULL
+39,No va más,0,Revolver,DK,rich spanish pop
+40,Forever,75,Chris Brown,DK,Chris Brown
+41,Slowly,0,Sasha,DK,pop
+42,Boing!,43,Nik & Jay,DK,NULL
+43,Soulcrusher,0,Operator,DK,Grunge
+44,Sex on Fire,79,Kings of Leon,DK,rock
+45,Womanizer (Director's Cut),0,Britney Spears,DK,my dance room
+46,Et Sidste Kys (feat. Julie),43,"Nik & Jay, Julie",DK,NULL
+47,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,DK,NULL
+48,Party In The U.S.A.,76,Miley Cyrus,DK,pop
+49,B.Y.O.B.,0,System Of A Down,DK,alternative metal
+50,Headlock,83,Imogen Heap,EE,electronic
+51,Clapton: Tears in Heaven/video,1,The Choirboys,EE,NULL
+52,Breakin' Dishes,81,Rihanna,EE,rnb
+53,Save Me,1,"Morandi, Helene",EE,NULL
+54,Feel Good Inc.,82,Gorillaz,EE,alternative
+55,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,EE,NULL
+56,505,81,Arctic Monkeys,EE,indie rock
+57,Odio,1,Revolver,EE,spanish
+58,Flashing Lights,80,"Kanye West, Dwele",EE,NULL
+59,Historia universal (El amor no es lo que piensas),0,DELUXE,EE,indie
+60,Poker Face,79,Lady Gaga,EE,pop
+61,Get Around Town,0,Revolver,EE,rock
+62,Viva La Vida,82,Coldplay,EE,Coldplay
+63,Coming Home,0,Sasha,EE,pop
+64,We Are The People,76,Empire Of The Sun,EE,electronic
+65,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,EE,NULL
+66,Heartless,80,Kanye West,EE,Kanye West
+67,Colillas en el sueño,0,DELUXE,EE,NULL
+68,Just Dance,77,"Lady Gaga, Colby O'Donis",EE,NULL
+69,Goodbye,0,Sasha,EE,pop
+70,Don't Stop The Music,78,Rihanna,EE,dance
+71,Stars of CCTV - Live at the Astoria,0,Hard-Fi,EE,NULL
+72,Homecoming,76,"Kanye West, Chris Martin",EE,NULL
+73,Tendremos que esperar,0,DELUXE,EE,spanish pop
+74,Maneater,78,Nelly Furtado,EE,pop
+75,Mi rendición,0,Revolver,EE,Rock en Espanol
+76,Meet Me Halfway,74,Black Eyed Peas,EE,black eyed peas
+77,J'étais comme eux,0,Demon One,EE,NULL
+78,Kids,76,MGMT,EE,electronic
+79,Si es tan solo amor,0,Revolver,EE,blues guitar
+80,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",EE,NULL
+81,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,EE,NULL
+82,Promiscuous,80,"Nelly Furtado, Timbaland",EE,NULL
+83,Start Of Something New,0,"Troy, Vanessa Hudgens",EE,NULL
+84,Gimme More,78,Britney Spears,EE,pop
+85,No va más,0,Revolver,EE,rich spanish pop
+86,I Wonder,78,Kanye West,EE,Hip-Hop
+87,Slowly,0,Sasha,EE,pop
+88,Hot N Cold,72,Katy Perry,EE,pop
+89,Soulcrusher,0,Operator,EE,Grunge
+90,Bad Romance,79,Lady Gaga,EE,pop
+91,Womanizer (Director's Cut),0,Britney Spears,EE,my dance room
+92,Vanished,65,Crystal Castles,EE,electronic
+93,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,EE,NULL
+94,Paper Planes,76,M.I.A.,EE,Hip-Hop
+95,B.Y.O.B.,0,System Of A Down,EE,alternative metal
+96,Can't Tell Me Nothing,77,Kanye West,EE,Hip-Hop
+97,Nothing to Lose,0,Operator,EE,rock
+98,This Is The Life,72,Amy Macdonald,EE,female vocalists
+99,Nossa História - Ao Vivo,0,Edson & Hudson,EE,NULL
+100,Ihmisten edessä,48,Jenni Vartiainen,FI,pop
+101,Clapton: Tears in Heaven/video,1,The Choirboys,FI,NULL
+102,Headlock,83,Imogen Heap,FI,electronic
+103,Soulcrusher,0,Operator,FI,Grunge
+104,Breakin' Dishes,81,Rihanna,FI,rnb
+105,Nothing to Lose,0,Operator,FI,rock
+106,Poker Face,79,Lady Gaga,FI,pop
+107,Save Me,1,"Morandi, Helene",FI,NULL
+108,Viva La Vida,82,Coldplay,FI,Coldplay
+109,Get Around Town,0,Revolver,FI,rock
+110,Shanghain valot,44,Annika Eklund,FI,iskelma
+111,J'étais comme eux,0,Demon One,FI,NULL
+112,Just Dance,77,"Lady Gaga, Colby O'Donis",FI,NULL
+113,My Name Is,0,Eminem,FI,rap
+114,Heartless,80,Kanye West,FI,Kanye West
+115,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,FI,NULL
+116,Bad Romance,79,Lady Gaga,FI,pop
+117,Odio,1,Revolver,FI,spanish
+118,505,81,Arctic Monkeys,FI,indie rock
+119,Historia universal (El amor no es lo que piensas),0,DELUXE,FI,indie
+120,Maneater,78,Nelly Furtado,FI,pop
+121,Coming Home,0,Sasha,FI,pop
+122,Romeo Ja Julia - Original Mix,43,Movetron,FI,NULL
+123,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,FI,NULL
+124,Feel Good Inc.,82,Gorillaz,FI,alternative
+125,Colillas en el sueño,0,DELUXE,FI,NULL
+126,Lautturi,43,PMMP,FI,Suomi
+127,Goodbye,0,Sasha,FI,pop
+128,Homecoming,76,"Kanye West, Chris Martin",FI,NULL
+129,Stars of CCTV - Live at the Astoria,0,Hard-Fi,FI,NULL
+130,Flashing Lights,80,"Kanye West, Dwele",FI,NULL
+131,Tendremos que esperar,0,DELUXE,FI,spanish pop
+132,This Is The Life,72,Amy Macdonald,FI,female vocalists
+133,Mi rendición,0,Revolver,FI,Rock en Espanol
+134,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",FI,NULL
+135,Si es tan solo amor,0,Revolver,FI,blues guitar
+136,Puhu äänellä jonka kuulen,42,Happoradio,FI,finnish
+137,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,FI,NULL
+138,Don't Stop The Music,78,Rihanna,FI,dance
+139,Start Of Something New,0,"Troy, Vanessa Hudgens",FI,NULL
+140,Amaranth,42,Nightwish,FI,symphonic metal
+141,No va más,0,Revolver,FI,rich spanish pop
+142,Mitä tänne jää,42,Cheek,FI,Suomirap
+143,Slowly,0,Sasha,FI,pop
+144,"You're Gonna Go Far, Kid",76,The Offspring,FI,punk rock
+145,Womanizer (Director's Cut),0,Britney Spears,FI,my dance room
+146,We Are The People,76,Empire Of The Sun,FI,electronic
+147,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,FI,NULL
+148,Kids,76,MGMT,FI,electronic
+149,B.Y.O.B.,0,System Of A Down,FI,alternative metal
+150,Fallegur dagur,33,Bubbi Morthens,IS,NULL
+151,Save Me,1,"Morandi, Helene",IS,NULL
+152,Viva La Vida,82,Coldplay,IS,Coldplay
+153,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,IS,NULL
+154,Headlock,83,Imogen Heap,IS,electronic
+155,Odio,1,Revolver,IS,spanish
+156,Breakin' Dishes,81,Rihanna,IS,rnb
+157,Clapton: Tears in Heaven/video,1,The Choirboys,IS,NULL
+158,Heartless,80,Kanye West,IS,Kanye West
+159,Historia universal (El amor no es lo que piensas),0,DELUXE,IS,indie
+160,Flashing Lights,80,"Kanye West, Dwele",IS,NULL
+161,Get Around Town,0,Revolver,IS,rock
+162,Undir þínum áhrifum,30,Sálin hans Jóns míns,IS,icelandic pop
+163,Coming Home,0,Sasha,IS,pop
+164,Ást,30,Ragga Gröndal,IS,NULL
+165,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,IS,NULL
+166,Feel Good Inc.,82,Gorillaz,IS,alternative
+167,Colillas en el sueño,0,DELUXE,IS,NULL
+168,Bí bí og blaka,30,"Sesselja Magnúsdóttir, Friðrik Karlsson",IS,NULL
+169,Goodbye,0,Sasha,IS,pop
+170,Homecoming,76,"Kanye West, Chris Martin",IS,NULL
+171,Stars of CCTV - Live at the Astoria,0,Hard-Fi,IS,NULL
+172,Nýtt líf,29,Friðrik Karlsson,IS,NULL
+173,Tendremos que esperar,0,DELUXE,IS,spanish pop
+174,Gemmér,29,XXX Rottweiler hundar,IS,NULL
+175,Mi rendición,0,Revolver,IS,Rock en Espanol
+176,Fix You,81,Coldplay,IS,Coldplay
+177,J'étais comme eux,0,Demon One,IS,NULL
+178,Can't Tell Me Nothing,77,Kanye West,IS,Hip-Hop
+179,Si es tan solo amor,0,Revolver,IS,blues guitar
+180,Sex on Fire,79,Kings of Leon,IS,rock
+181,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,IS,NULL
+182,Þú fullkomnar mig,29,Sálin hans Jóns míns,IS,NULL
+183,Start Of Something New,0,"Troy, Vanessa Hudgens",IS,NULL
+184,I Wonder,78,Kanye West,IS,Hip-Hop
+185,No va más,0,Revolver,IS,rich spanish pop
+186,Poker Face,79,Lady Gaga,IS,pop
+187,Slowly,0,Sasha,IS,pop
+188,Don't Stop The Music,78,Rihanna,IS,dance
+189,Soulcrusher,0,Operator,IS,Grunge
+190,Meira frelsi,27,Merzedes Club,IS,NULL
+191,Womanizer (Director's Cut),0,Britney Spears,IS,my dance room
+192,Verum í sambandi,28,Sprengjuhöllin,IS,icelandic
+193,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,IS,NULL
+194,505,81,Arctic Monkeys,IS,indie rock
+195,B.Y.O.B.,0,System Of A Down,IS,alternative metal
+196,Umbrella,78,"Rihanna, JAY-Z",IS,NULL
+197,Nothing to Lose,0,Operator,IS,rock
+198,Dvel ég í draumahöll,28,"Sesselja Magnúsdóttir, Friðrik Karlsson",IS,NULL
+199,Nossa História - Ao Vivo,0,Edson & Hudson,IS,NULL
+200,Viva La Vida,66,Coldplay,IE,Coldplay
+201,Clapton: Tears in Heaven/video,1,The Choirboys,IE,NULL
+202,Candy,65,Paolo Nutini,IE,singer-songwriter
+203,Tattoo (feat. Fabo) - D4L,0,"The Alliance, Fabo",IE,NULL
+204,Headlock,83,Imogen Heap,IE,electronic
+205,Stars of CCTV - Live at the Astoria,0,Hard-Fi,IE,NULL
+206,Dog Days Are Over,75,Florence + The Machine,IE,indie
+207,All My Life,0,N-Force,IE,trance
+208,Sex on Fire,66,Kings of Leon,IE,rock
+209,Nothing to Lose,0,Operator,IE,rock
+210,Sweet Disposition,69,The Temper Trap,IE,indie
+211,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,IE,NULL
+212,Breakeven,64,The Script,IE,rock
+213,Odio,1,Revolver,IE,spanish
+214,Chasing Cars,78,Snow Patrol,IE,indie
+215,Historia universal (El amor no es lo que piensas),0,DELUXE,IE,indie
+216,You've Got The Love,72,Florence + The Machine,IE,indie
+217,Get Around Town,0,Revolver,IE,rock
+218,Valerie (feat. Amy Winehouse) - Version Revisited,76,"Mark Ronson, Amy Winehouse",IE,NULL
+219,Coming Home,0,Sasha,IE,pop
+220,Homecoming,76,"Kanye West, Chris Martin",IE,NULL
+221,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,IE,NULL
+222,Feel Good Inc.,82,Gorillaz,IE,alternative
+223,Colillas en el sueño,0,DELUXE,IE,NULL
+224,The Man Who Can't Be Moved,63,The Script,IE,pop
+225,Goodbye,0,Sasha,IE,pop
+226,How to Save a Life,78,The Fray,IE,alternative
+227,Tendremos que esperar,0,DELUXE,IE,spanish pop
+228,Promiscuous,80,"Nelly Furtado, Timbaland",IE,NULL
+229,Mi rendición,0,Revolver,IE,Rock en Espanol
+230,505,81,Arctic Monkeys,IE,indie rock
+231,J'étais comme eux,0,Demon One,IE,NULL
+232,Fix You,81,Coldplay,IE,Coldplay
+233,Si es tan solo amor,0,Revolver,IE,blues guitar
+234,Maneater,78,Nelly Furtado,IE,pop
+235,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,IE,NULL
+236,Use Somebody,63,Kings of Leon,IE,rock
+237,Start Of Something New,0,"Troy, Vanessa Hudgens",IE,NULL
+238,Kids,76,MGMT,IE,electronic
+239,No va más,0,Revolver,IE,rich spanish pop
+240,This Is The Life,72,Amy Macdonald,IE,female vocalists
+241,Slowly,0,Sasha,IE,pop
+242,Flashing Lights,80,"Kanye West, Dwele",IE,NULL
+243,Soulcrusher,0,Operator,IE,Grunge
+244,Heartless,80,Kanye West,IE,Kanye West
+245,Womanizer (Director's Cut),0,Britney Spears,IE,my dance room
+246,Party In The U.S.A.,76,Miley Cyrus,IE,pop
+247,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,IE,NULL
+248,Dakota,66,Stereophonics,IE,rock
+249,B.Y.O.B.,0,System Of A Down,IE,alternative metal
+250,Breakin' Dishes,81,Rihanna,LT,rnb
+251,Goodbye,0,Sasha,LT,pop
+252,Headlock,83,Imogen Heap,LT,electronic
+253,Save Me,1,"Morandi, Helene",LT,NULL
+254,505,81,Arctic Monkeys,LT,indie rock
+255,Get Around Town,0,Revolver,LT,rock
+256,We Are The People,76,Empire Of The Sun,LT,electronic
+257,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,LT,NULL
+258,Flashing Lights,80,"Kanye West, Dwele",LT,NULL
+259,Odio,1,Revolver,LT,spanish
+260,Feel Good Inc.,82,Gorillaz,LT,alternative
+261,Clapton: Tears in Heaven/video,1,The Choirboys,LT,NULL
+262,Poker Face,79,Lady Gaga,LT,pop
+263,Historia universal (El amor no es lo que piensas),0,DELUXE,LT,indie
+264,Heartless,80,Kanye West,LT,Kanye West
+265,Coming Home,0,Sasha,LT,pop
+266,Don't Stop The Music,78,Rihanna,LT,dance
+267,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,LT,NULL
+268,Parašyk Man Laišką Iš Paryžiaus,36,Sel,LT,synth-pop
+269,Colillas en el sueño,0,DELUXE,LT,NULL
+270,Mylėk mane karštai,35,Milana,LT,NULL
+271,Stars of CCTV - Live at the Astoria,0,Hard-Fi,LT,NULL
+272,Leisk Sau,36,Aistė Pilvelytė,LT,Europop
+273,Tendremos que esperar,0,DELUXE,LT,spanish pop
+274,Maneater,78,Nelly Furtado,LT,pop
+275,Mi rendición,0,Revolver,LT,Rock en Espanol
+276,Meet Me Halfway,74,Black Eyed Peas,LT,black eyed peas
+277,J'étais comme eux,0,Demon One,LT,NULL
+278,Promiscuous,80,"Nelly Furtado, Timbaland",LT,NULL
+279,Si es tan solo amor,0,Revolver,LT,blues guitar
+280,Viva La Vida,82,Coldplay,LT,Coldplay
+281,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,LT,NULL
+282,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",LT,NULL
+283,Start Of Something New,0,"Troy, Vanessa Hudgens",LT,NULL
+284,Homecoming,76,"Kanye West, Chris Martin",LT,NULL
+285,No va más,0,Revolver,LT,rich spanish pop
+286,Just Dance,77,"Lady Gaga, Colby O'Donis",LT,NULL
+287,Slowly,0,Sasha,LT,pop
+288,Gimme More,78,Britney Spears,LT,pop
+289,Soulcrusher,0,Operator,LT,Grunge
+290,Velniškas Greitis,35,69 Danguje,LT,NULL
+291,Womanizer (Director's Cut),0,Britney Spears,LT,my dance room
+292,Hate It Or Love It,75,"The Game, 50 Cent",LT,NULL
+293,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,LT,NULL
+294,Walking On A Dream,75,Empire Of The Sun,LT,electronic
+295,B.Y.O.B.,0,System Of A Down,LT,alternative metal
+296,Sex on Fire,79,Kings of Leon,LT,rock
+297,Nothing to Lose,0,Operator,LT,rock
+298,Vanished,65,Crystal Castles,LT,electronic
+299,Nossa História - Ao Vivo,0,Edson & Hudson,LT,NULL
+300,Headlock,83,Imogen Heap,LV,electronic
+301,Soulcrusher,0,Operator,LV,Grunge
+302,Breakin' Dishes,81,Rihanna,LV,rnb
+303,Save Me,1,"Morandi, Helene",LV,NULL
+304,505,81,Arctic Monkeys,LV,indie rock
+305,Get Around Town,0,Revolver,LV,rock
+306,Feel Good Inc.,82,Gorillaz,LV,alternative
+307,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,LV,NULL
+308,Flashing Lights,80,"Kanye West, Dwele",LV,NULL
+309,Odio,1,Revolver,LV,spanish
+310,Heartless,80,Kanye West,LV,Kanye West
+311,Clapton: Tears in Heaven/video,1,The Choirboys,LV,NULL
+312,Viva La Vida,82,Coldplay,LV,Coldplay
+313,Historia universal (El amor no es lo que piensas),0,DELUXE,LV,indie
+314,Poker Face,79,Lady Gaga,LV,pop
+315,Coming Home,0,Sasha,LV,pop
+316,Homecoming,76,"Kanye West, Chris Martin",LV,NULL
+317,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,LV,NULL
+318,Don't Stop The Music,78,Rihanna,LV,dance
+319,Colillas en el sueño,0,DELUXE,LV,NULL
+320,Just Dance,77,"Lady Gaga, Colby O'Donis",LV,NULL
+321,Goodbye,0,Sasha,LV,pop
+322,Sex on Fire,79,Kings of Leon,LV,rock
+323,Stars of CCTV - Live at the Astoria,0,Hard-Fi,LV,NULL
+324,Can't Tell Me Nothing,77,Kanye West,LV,Hip-Hop
+325,Tendremos que esperar,0,DELUXE,LV,spanish pop
+326,Walking On A Dream,75,Empire Of The Sun,LV,electronic
+327,Mi rendición,0,Revolver,LV,Rock en Espanol
+328,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",LV,NULL
+329,J'étais comme eux,0,Demon One,LV,NULL
+330,Meet Me Halfway,74,Black Eyed Peas,LV,black eyed peas
+331,Si es tan solo amor,0,Revolver,LV,blues guitar
+332,Promiscuous,80,"Nelly Furtado, Timbaland",LV,NULL
+333,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,LV,NULL
+334,Hate It Or Love It,75,"The Game, 50 Cent",LV,NULL
+335,Start Of Something New,0,"Troy, Vanessa Hudgens",LV,NULL
+336,We Are The People,76,Empire Of The Sun,LV,electronic
+337,No va más,0,Revolver,LV,rich spanish pop
+338,I Wonder,78,Kanye West,LV,Hip-Hop
+339,Slowly,0,Sasha,LV,pop
+340,Maneater,78,Nelly Furtado,LV,pop
+341,Womanizer (Director's Cut),0,Britney Spears,LV,my dance room
+342,Kids,76,MGMT,LV,electronic
+343,Disco Eterno - Gira Me Verás Volver,0,Soda Stereo,LV,NULL
+344,Gimme More,78,Britney Spears,LV,pop
+345,B.Y.O.B.,0,System Of A Down,LV,alternative metal
+346,Daļa Rīgas,33,Astro'n'out,LV,latvian
+347,Nothing to Lose,0,Operator,LV,rock
+348,Paper Planes,76,M.I.A.,LV,Hip-Hop
+349,Nossa História - Ao Vivo,0,Edson & Hudson,LV,NULL
+350,Viva La Vida,82,Coldplay,NO,Coldplay
+351,Walls,0,Somebody's Darling,NO,NULL
+352,Breakin' Dishes,81,Rihanna,NO,rnb
+353,Home,0,Somebody's Darling,NO,norwegian
+354,So Ro Lille Mann,48,"Anne Brændeland, Camilla Trøen",NO,NULL
+355,Clapton: Tears in Heaven/video,1,The Choirboys,NO,NULL
+356,Headlock,83,Imogen Heap,NO,electronic
+357,Get Around Town,0,Revolver,NO,rock
+358,Heartless,80,Kanye West,NO,Kanye West
+359,Soulcrusher,0,Operator,NO,Grunge
+360,Homecoming,76,"Kanye West, Chris Martin",NO,NULL
+361,Save Me,1,"Morandi, Helene",NO,NULL
+362,Poker Face,79,Lady Gaga,NO,pop
+363,Stars of CCTV - Live at the Astoria,0,Hard-Fi,NO,NULL
+364,Don't Stop The Music,78,Rihanna,NO,dance
+365,Nothing to Lose,0,Operator,NO,rock
+366,Flashing Lights,80,"Kanye West, Dwele",NO,NULL
+367,Goodbye,0,Sasha,NO,pop
+368,The Way I Are,78,"Timbaland, Keri Hilson, D.O.E.",NO,NULL
+369,Please Please Please,0,Sasha,NO,pop
+370,Fix You,81,Coldplay,NO,Coldplay
+371,Slowly,0,Sasha,NO,pop
+372,505,81,Arctic Monkeys,NO,indie rock
+373,Tu Vuoi Da Me Qualcosa - Live,1,Vasco Rossi,NO,NULL
+374,Feel Good Inc.,82,Gorillaz,NO,alternative
+375,Odio,1,Revolver,NO,spanish
+376,Hips Don't Lie (feat. Wyclef Jean),80,"Shakira, Wyclef Jean",NO,NULL
+377,Historia universal (El amor no es lo que piensas),0,DELUXE,NO,indie
+378,Sjørøverne kommer!,46,"Kaptein Sabeltann, Terje Formoe",NO,NULL
+379,Coming Home,0,Sasha,NO,pop
+380,Sex on Fire,79,Kings of Leon,NO,rock
+381,Esqueça Que Eu Te Amo - Ao Vivo,0,Edson & Hudson,NO,NULL
+382,We Are The People,76,Empire Of The Sun,NO,electronic
+383,Colillas en el sueño,0,DELUXE,NO,NULL
+384,Just Dance,77,"Lady Gaga, Colby O'Donis",NO,NULL
+385,Tendremos que esperar,0,DELUXE,NO,spanish pop
+386,Maneater,78,Nelly Furtado,NO,pop
+387,Mi rendición,0,Revolver,NO,Rock en Espanol
+388,Promiscuous,80,"Nelly Furtado, Timbaland",NO,NULL
+389,J'étais comme eux,0,Demon One,NO,NULL
+390,This Is The Life,72,Amy Macdonald,NO,female vocalists
+391,Si es tan solo amor,0,Revolver,NO,blues guitar
+392,Can't Tell Me Nothing,77,Kanye West,NO,Hip-Hop
+393,Tá No Meu Coração - Ao Vivo,0,Edson & Hudson,NO,NULL
+394,Granada,45,Vassendgutane,NO,vasendgutane
+395,Start Of Something New,0,"Troy, Vanessa Hudgens",NO,NULL
+396,Hate It Or Love It,75,"The Game, 50 Cent",NO,NULL
+397,No va más,0,Revolver,NO,rich spanish pop
+398,Party In The U.S.A.,76,Miley Cyrus,NO,pop
+399,Womanizer (Director's Cut),0,Britney Spears,NO,my dance room
+400,Viva La Vida,82,Coldplay,SE,Coldplay
+401,Clapton: Tears in Heaven/video,1,The Choirboys,SE,NULL
+402,17 år,54,Veronica Maggio,SE,pop
+403,Samba Menina / Ay Cosita Linda - Ao Vivo,0,Moinho,SE,NULL
+404,Poker Face,74,Lady Gaga,SE,pop
+405,Ass Like That - Super Clean Version,0,Eminem,SE,NULL
+406,Headlock,83,Imogen Heap,SE,electronic
+407,Kaise Piya Se,0,Lata Mangeshkar,SE,NULL
+408,Breakin' Dishes,81,Rihanna,SE,rnb
+409,Ghostflowers,0,Otep,SE,Nu Metal
+410,Homecoming,76,"Kanye West, Chris Martin",SE,NULL
+411,Gold Digger - MTV Version,0,"Kanye West, Jamie Foxx",SE,NULL
+412,Heartless,80,Kanye West,SE,Kanye West
+413,Pick It Up,0,Redman,SE,Hip-Hop
+414,Måndagsbarn,53,Veronica Maggio,SE,swedish
+415,Soulcrusher,0,Operator,SE,Grunge
+416,Fix You,81,Coldplay,SE,Coldplay
+417,Nothing to Lose,0,Operator,SE,rock
+418,Just Dance,72,"Lady Gaga, Colby O'Donis",SE,NULL
+419,Albenaya,0,Kadim Al Sahir,SE,NULL
+420,Lose Yourself,73,Eminem,SE,rap
+421,Goodbye,0,Sasha,SE,pop
+422,Feel Good Inc.,82,Gorillaz,SE,alternative
+423,There She Goes,0,Sasha,SE,pop
+424,505,81,Arctic Monkeys,SE,indie rock
+425,Get Around Town,0,Revolver,SE,rock
+426,Flashing Lights,80,"Kanye West, Dwele",SE,NULL
+427,Slowly,0,Sasha,SE,pop
+428,Don't Stop The Music,78,Rihanna,SE,dance
+429,Please Please Please,0,Sasha,SE,pop
+430,Hips Don't Lie (feat. Wyclef Jean),80,"Shakira, Wyclef Jean",SE,NULL
+431,Womanizer (Director's Cut),0,Britney Spears,SE,my dance room
+432,Sex on Fire,79,Kings of Leon,SE,rock
+433,Stars of CCTV - Live at the Astoria,0,Hard-Fi,SE,NULL
+434,Alla vill till himmelen men ingen vill dö,50,Timbuktu,SE,swedish
+435,Walls,0,Somebody's Darling,SE,NULL
+436,Kids,76,MGMT,SE,electronic
+437,Home,0,Somebody's Darling,SE,norwegian
+438,Promiscuous,80,"Nelly Furtado, Timbaland",SE,NULL
+439,Save Me,1,"Morandi, Helene",SE,NULL
+440,Hate It Or Love It,75,"The Game, 50 Cent",SE,NULL
+441,Coming Home,0,Sasha,SE,pop
+442,This Is The Life,72,Amy Macdonald,SE,female vocalists
+443,My Name Is,0,Eminem,SE,rap
+444,I Gotta Feeling,77,Black Eyed Peas,SE,pop
+445,Historia universal (El amor no es lo que piensas),0,DELUXE,SE,indie
+446,Bad Romance,79,Lady Gaga,SE,pop
+447,Odio,1,Revolver,SE,spanish
+448,The Way I Are,54,"Timbaland, Keri Hilson, D.O.E.",SE,NULL
+449,No Ties,0,The Days,SE,NULL
+450,Headlock,83,Imogen Heap,GB,electronic
+451,Stars of CCTV - Live at the Astoria,0,Hard-Fi,GB,NULL
+452,Viva La Vida,66,Coldplay,GB,Coldplay
+453,Clapton: Tears in Heaven/video,1,The Choirboys,GB,NULL
+454,505,81,Arctic Monkeys,GB,indie rock
+455,All My Life,0,N-Force,GB,trance
+456,Sex on Fire,66,Kings of Leon,GB,rock
+457,Get Around Town,0,Revolver,GB,rock
+458,Naive,71,The Kooks,GB,indie
+459,Historia universal (El amor no es lo que piensas),0,DELUXE,GB,indie
+460,Feel Good Inc.,82,Gorillaz,GB,alternative
+461,My Name Is,0,Eminem,GB,rap
+462,Dog Days Are Over,75,Florence + The Machine,GB,indie
+463,Bbbbbounce,0,The Blackout Crew,GB,happy hardcore
+464,Valerie (feat. Amy Winehouse) - Version Revisited,76,"Mark Ronson, Amy Winehouse",GB,NULL
+465,Chant No. 1 (I Don't Need This Pressure On),0,Spandau Ballet,GB,new wave
+466,Dakota,66,Stereophonics,GB,rock
+467,Soulcrusher,0,Operator,GB,Grunge
+468,Fluorescent Adolescent,73,Arctic Monkeys,GB,indie rock
+469,"The Thrill Is Gone - Live At B.B. King's Blues Club, Blues Summit/1993",0,B.B. King,GB,NULL
+470,Use Somebody,63,Kings of Leon,GB,rock
+471,Aces High - Live At Long Beach Arena,0,Iron Maiden,GB,NULL
+472,She Moves In Her Own Way,67,The Kooks,GB,indie
+473,Nothing to Lose,0,Operator,GB,rock
+474,Promiscuous,80,"Nelly Furtado, Timbaland",GB,NULL
+475,Womanizer (Director's Cut),0,Britney Spears,GB,my dance room
+476,You've Got The Love,72,Florence + The Machine,GB,indie
+477,Morricone: Nella Fantasia - extract,0,"Ennio Morricone, Russell Watson, Auckland Philharmonia Orchestra",GB,NULL
+478,How to Save a Life,78,The Fray,GB,alternative
+479,Tattoo (feat. Fabo) - D4L,0,"The Alliance, Fabo",GB,NULL
+480,Breakeven,64,The Script,GB,rock
+481,No Ties,0,The Days,GB,NULL
+482,Sweet Disposition,69,The Temper Trap,GB,indie
+483,J'étais comme eux,0,Demon One,GB,NULL
+484,Chasing Cars,78,Snow Patrol,GB,indie
+485,Colillas en el sueño,0,DELUXE,GB,NULL
+486,Maneater,78,Nelly Furtado,GB,pop
+487,Never Give Up,0,The Days,GB,NULL
+488,Flashing Lights,80,"Kanye West, Dwele",GB,NULL
+489,Please Please Please,0,Sasha,GB,pop
+490,Party In The U.S.A.,76,Miley Cyrus,GB,pop
+491,Odio,1,Revolver,GB,spanish
+492,The Man Who Can't Be Moved,63,The Script,GB,pop
+493,Tendremos que esperar,0,DELUXE,GB,spanish pop
+494,Heartless,61,Kanye West,GB,Kanye West
+495,"Japan Summer Sonic, LPTV Episode 10",0,Linkin Park,GB,NULL
+496,Fix You,81,Coldplay,GB,Coldplay
+497,We're All In This Together,0,"Troy, High School Musical Cast, Vanessa Hudgens",GB,NULL
+498,Gold Digger,61,"Kanye West, Jamie Foxx",GB,NULL
+499,Angel (Of The Morning),0,Juice Newton,GB,NULL
