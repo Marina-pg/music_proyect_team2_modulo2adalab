@@ -1,0 +1,601 @@
+id,nombre,popularity,artista,pais,genero
+0,Soldadito marinero,62,Fito y Fitipaldis,ES,spanish
+1,Angel,28,"Shaggy, Rayvon",ES,NULL
+2,Rosas,75,La Oreja de Van Gogh,ES,pop
+3,Dímelo bajito,0,Manzanita,ES,NULL
+4,La vereda de la puerta de atrás,60,Extremoduro,ES,rock
+5,San Pedro,0,"Revolver, Mick Glossp",ES,NULL
+6,La casa por el tejado,59,Fito y Fitipaldis,ES,Spanish Rock
+7,El peligro,0,Revolver,ES,metal
+8,Yellow,86,Coldplay,ES,rock
+9,Eso de saber,0,Revolver,ES,LO MAS
+10,Carolina - En directo 2000,59,M-Clan,ES,NULL
+11,Mestizo,0,Revolver,ES,Revolver
+12,Dile,76,Don Omar,ES,Reggaeton
+13,Ni na no,0,Javier Álvarez,ES,NULL
+14,Vino Tinto,59,Estopa,ES,spanish
+15,He Loves U Not,0,Dream,ES,pop
+16,Cuando zarpa el amor,58,Camela,ES,hit
+17,La vita è,1,Nek,ES,pop
+18,Puedes Contar Conmigo,64,La Oreja de Van Gogh,ES,spanish
+19,Stuck in the Middle with You,0,Louise,ES,pop
+20,The Scientist,83,Coldplay,ES,Coldplay
+21,Cabelo Raspadinho,2,Chiclete Com Banana,ES,brasil
+22,Stand By,57,Extremoduro,ES,spanish
+23,2 Faced,0,Louise,ES,pop
+24,Somewhere Only We Know,80,Keane,ES,britpop
+25,This Is Me,0,Dream,ES,pop
+26,Without Me,83,Eminem,ES,rap
+27,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,ES,NULL
+28,El aire de la calle,56,Los Delinqüentes,ES,Flamenco
+29,Beautiful Inside,0,Louise,ES,pop
+30,Numb,83,Linkin Park,ES,rock
+31,Quemando tus recuerdos - Gira 2002,0,Extremoduro,ES,NULL
+32,Obsesion,73,"Aventura, Judy Santos",ES,NULL
+33,American Life (Director's Cut) - 4K Remaster,0,Madonna,ES,NULL
+34,Quiereme,55,El Barrio,ES,QUIEREME- EL BARRIO
+35,HEY! JORDU!,0,PE'Z,ES,NULL
+36,La Playa,69,La Oreja de Van Gogh,ES,pop
+37,Welcome To Hell (Videoclip),0,Ska-P,ES,NULL
+38,Cómo hablar,55,Amaral,ES,pop
+39,Devolva-Me,1,Adriana Calcanhotto,ES,mpb
+40,La Madre de Jose,55,El Canto Del Loco,ES,El Canto del Loco
+41,This Is My Time,0,Sasha,ES,pop
+42,In the End,82,Linkin Park,ES,rock
+43,Rooftop,0,Sasha,ES,pop
+44,Insoportable,54,El Canto Del Loco,ES,spanish
+45,Kiedy góral umiera,0,Harlem,ES,polish
+46,Clocks,79,Coldplay,ES,rock
+47,Here She Comes Again,0,Sasha,ES,pop
+48,20 de Enero,60,La Oreja de Van Gogh,ES,spanish
+49,Turn It into Something Special,0,Sasha,ES,pop
+50,Numb,83,Linkin Park,FR,rock
+51,Angel,28,"Shaggy, Rayvon",FR,NULL
+52,Without Me,83,Eminem,FR,rap
+53,La vita è,1,Nek,FR,pop
+54,Mockingbird,81,Eminem,FR,rap
+55,Cabelo Raspadinho,2,Chiclete Com Banana,FR,brasil
+56,Somewhere Only We Know,80,Keane,FR,britpop
+57,Devolva-Me,1,Adriana Calcanhotto,FR,mpb
+58,In the End,82,Linkin Park,FR,rock
+59,This Is My Time,0,Sasha,FR,pop
+60,Femme Like U,62,K.Maro,FR,Hip-Hop
+61,He Loves U Not,0,Dream,FR,pop
+62,Yellow,86,Coldplay,FR,rock
+63,Rooftop,0,Sasha,FR,pop
+64,The Real Slim Shady,81,Eminem,FR,rap
+65,Stuck in the Middle with You,0,Louise,FR,pop
+66,The Scientist,83,Coldplay,FR,Coldplay
+67,Dímelo bajito,0,Manzanita,FR,NULL
+68,Manhattan-Kaboul,58,"Renaud, Axelle Red",FR,NULL
+69,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,FR,NULL
+70,Can't Stop,80,Red Hot Chili Peppers,FR,rock
+71,2 Faced,0,Louise,FR,pop
+72,Fallin',73,Alicia Keys,FR,soul
+73,Kiedy góral umiera,0,Harlem,FR,polish
+74,Yeah! (feat. Lil Jon & Ludacris),80,"USHER, Lil Jon, Ludacris",FR,NULL
+75,San Pedro,0,"Revolver, Mick Glossp",FR,NULL
+76,Crazy In Love (feat. JAY-Z),76,"Beyoncé, JAY-Z",FR,NULL
+77,El peligro,0,Revolver,FR,metal
+78,How You Remind Me,80,Nickelback,FR,rock
+79,This Is Me,0,Dream,FR,pop
+80,Dernière danse,57,Kyo,FR,french
+81,Here She Comes Again,0,Sasha,FR,pop
+82,J'ai demandé à la lune,57,Indochine,FR,french
+83,Turn It into Something Special,0,Sasha,FR,pop
+84,Lose Yourself,76,Eminem,FR,rap
+85,Beautiful Inside,0,Louise,FR,pop
+86,Murder On The Dancefloor,76,Sophie Ellis-Bextor,FR,pop
+87,American Life (Director's Cut) - 4K Remaster,0,Madonna,FR,NULL
+88,Gasolina,76,Daddy Yankee,FR,Reggaeton
+89,Wierz? w siebie,0,Harlem,FR,NULL
+90,Obsesion,73,"Aventura, Judy Santos",FR,NULL
+91,Eso de saber,0,Revolver,FR,LO MAS
+92,Lady - Hear Me Tonight,75,Modjo,FR,House
+93,Take Me Home,0,"Terror Squad, remy, Fat Joe, Dre, Armageddon",FR,NULL
+94,Me Gustas Tu,75,Manu Chao,FR,reggae
+95,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,FR,NULL
+96,Bring Me To Life,80,Evanescence,FR,rock
+97,Ni na no,0,Javier Álvarez,FR,NULL
+98,In Da Club,77,50 Cent,FR,rap
+99,Call Me,0,Blondie,FR,80s
+100,Yellow,86,Coldplay,MC,rock
+101,Angel,28,"Shaggy, Rayvon",MC,NULL
+102,The Scientist,83,Coldplay,MC,Coldplay
+103,Cabelo Raspadinho,2,Chiclete Com Banana,MC,brasil
+104,Without Me,83,Eminem,MC,rap
+105,Devolva-Me,1,Adriana Calcanhotto,MC,mpb
+106,Numb,83,Linkin Park,MC,rock
+107,La vita è,1,Nek,MC,pop
+108,Mr. Brightside,82,The Killers,MC,rock
+109,This Is My Time,0,Sasha,MC,pop
+110,In the End,82,Linkin Park,MC,rock
+111,He Loves U Not,0,Dream,MC,pop
+112,Sparks,82,Coldplay,MC,rock
+113,Rooftop,0,Sasha,MC,pop
+114,Mockingbird,81,Eminem,MC,rap
+115,Stuck in the Middle with You,0,Louise,MC,pop
+116,Unwritten,81,Natasha Bedingfield,MC,pop
+117,Dímelo bajito,0,Manzanita,MC,NULL
+118,The Real Slim Shady,81,Eminem,MC,rap
+119,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,MC,NULL
+120,Can't Stop,80,Red Hot Chili Peppers,MC,rock
+121,2 Faced,0,Louise,MC,pop
+122,Bring Me To Life,80,Evanescence,MC,rock
+123,Kiedy góral umiera,0,Harlem,MC,polish
+124,Yeah! (feat. Lil Jon & Ludacris),80,"USHER, Lil Jon, Ludacris",MC,NULL
+125,San Pedro,0,"Revolver, Mick Glossp",MC,NULL
+126,Somewhere Only We Know,80,Keane,MC,britpop
+127,El peligro,0,Revolver,MC,metal
+128,How You Remind Me,80,Nickelback,MC,rock
+129,This Is Me,0,Dream,MC,pop
+130,Toxicity,80,System Of A Down,MC,metal
+131,Here She Comes Again,0,Sasha,MC,pop
+132,Duvet,79,bôa,MC,anime
+133,Turn It into Something Special,0,Sasha,MC,pop
+134,Clocks,79,Coldplay,MC,rock
+135,Beautiful Inside,0,Louise,MC,pop
+136,Till I Collapse,79,"Eminem, Nate Dogg",MC,NULL
+137,American Life (Director's Cut) - 4K Remaster,0,Madonna,MC,NULL
+138,Faint,79,Linkin Park,MC,rock
+139,Wierz? w siebie,0,Harlem,MC,NULL
+140,Chop Suey!,79,System Of A Down,MC,alternative metal
+141,Eso de saber,0,Revolver,MC,LO MAS
+142,Seven Nation Army,78,The White Stripes,MC,rock
+143,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,MC,NULL
+144,One Step Closer,78,Linkin Park,MC,Nu Metal
+145,Ni na no,0,Javier Álvarez,MC,NULL
+146,This Love,78,Maroon 5,MC,pop
+147,Call Me,0,Blondie,MC,80s
+148,She Will Be Loved - Radio Mix,78,Maroon 5,MC,pop
+149,Mestizo,0,Revolver,MC,Revolver
+150,Numb,83,Linkin Park,IT,rock
+151,Angel,28,"Shaggy, Rayvon",IT,NULL
+152,In the End,82,Linkin Park,IT,rock
+153,La vita è,1,Nek,IT,pop
+154,Without Me,83,Eminem,IT,rap
+155,Dímelo bajito,0,Manzanita,IT,NULL
+156,Yellow,86,Coldplay,IT,rock
+157,Stuck in the Middle with You,0,Louise,IT,pop
+158,Mockingbird,81,Eminem,IT,rap
+159,This Is My Time,0,Sasha,IT,pop
+160,E...,56,Vasco Rossi,IT,vasco rossi
+161,He Loves U Not,0,Dream,IT,pop
+162,The Scientist,83,Coldplay,IT,Coldplay
+163,San Pedro,0,"Revolver, Mick Glossp",IT,NULL
+164,Somewhere Only We Know,80,Keane,IT,britpop
+165,Eso de saber,0,Revolver,IT,LO MAS
+166,The Real Slim Shady,81,Eminem,IT,rap
+167,El peligro,0,Revolver,IT,metal
+168,Vieni A Vedere Perchè,54,Cesare Cremonini,IT,italianigdchill
+169,Cabelo Raspadinho,2,Chiclete Com Banana,IT,brasil
+170,Unwritten,81,Natasha Bedingfield,IT,pop
+171,Devolva-Me,1,Adriana Calcanhotto,IT,mpb
+172,Can't Stop,80,Red Hot Chili Peppers,IT,rock
+173,This Is Me,0,Dream,IT,pop
+174,Bring Me To Life,80,Evanescence,IT,rock
+175,Sing For The Moment - Edited,0,Eminem,IT,NULL
+176,Till I Collapse,79,"Eminem, Nate Dogg",IT,NULL
+177,Piccolo Amico,0,Gigi D'Alessio,IT,NULL
+178,Lose Yourself,76,Eminem,IT,rap
+179,New Bibi-Hendl - Rap,0,Takeo Ischi,IT,NULL
+180,In Da Club,77,50 Cent,IT,rap
+181,Right Now,0,Korn,IT,Nu Metal
+182,Gasolina,76,Daddy Yankee,IT,Reggaeton
+183,"That's The Way - Live at Earls Court, London, England, 5/1975",0,Led Zeppelin,IT,NULL
+184,Mr. Brightside,82,The Killers,IT,rock
+185,Rooftop,0,Sasha,IT,pop
+186,Obsesion,73,"Aventura, Judy Santos",IT,NULL
+187,Turn It into Something Special,0,Sasha,IT,pop
+188,How You Remind Me,80,Nickelback,IT,rock
+189,2 Faced,0,Louise,IT,pop
+190,Clocks,79,Coldplay,IT,rock
+191,Guilty Conscience - Director's Cut,0,"Eminem, Dr. Dre",IT,NULL
+192,Toxicity,80,System Of A Down,IT,metal
+193,I've Got Mine - Remaster,0,UB40,IT,NULL
+194,Faint,79,Linkin Park,IT,rock
+195,Encore,0,JAY-Z,IT,Hip-Hop
+196,Superman,78,"Eminem, Dina Rae",IT,NULL
+197,'03 Bonnie & Clyde,0,"JAY-Z, Beyoncé Knowles",IT,NULL
+198,L'Amour Toujours,71,Gigi D'Agostino,IT,dance
+199,American Life (Director's Cut) - 4K Remaster,0,Madonna,IT,NULL
+200,Na Soncu,33,Siddharta,SI,rock
+201,Angel,28,"Shaggy, Rayvon",SI,NULL
+202,Yellow,86,Coldplay,SI,rock
+203,2 Faced,0,Louise,SI,pop
+204,Platina,31,Siddharta,SI,rock
+205,Beautiful Inside,0,Louise,SI,pop
+206,Without Me,83,Eminem,SI,rap
+207,Cabelo Raspadinho,2,Chiclete Com Banana,SI,brasil
+208,Unwritten,81,Natasha Bedingfield,SI,pop
+209,Devolva-Me,1,Adriana Calcanhotto,SI,mpb
+210,Mockingbird,81,Eminem,SI,rap
+211,La vita è,1,Nek,SI,pop
+212,Numb,83,Linkin Park,SI,rock
+213,This Is My Time,0,Sasha,SI,pop
+214,Crno i zlatno,46,Seka Aleksić,SI,Seka
+215,He Loves U Not,0,Dream,SI,pop
+216,The Real Slim Shady,81,Eminem,SI,rap
+217,Rooftop,0,Sasha,SI,pop
+218,The Scientist,83,Coldplay,SI,Coldplay
+219,Stuck in the Middle with You,0,Louise,SI,pop
+220,Mr. Brightside,82,The Killers,SI,rock
+221,Dímelo bajito,0,Manzanita,SI,NULL
+222,Ring,29,Siddharta,SI,rock
+223,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,SI,NULL
+224,3 prste tekile,29,Kingston,SI,NULL
+225,Kiedy góral umiera,0,Harlem,SI,polish
+226,In the End,82,Linkin Park,SI,rock
+227,San Pedro,0,"Revolver, Mick Glossp",SI,NULL
+228,Somewhere Only We Know,80,Keane,SI,britpop
+229,El peligro,0,Revolver,SI,metal
+230,Naiven Ples,28,Siddharta,SI,rock
+231,This Is Me,0,Dream,SI,pop
+232,Can't Stop,80,Red Hot Chili Peppers,SI,rock
+233,Here She Comes Again,0,Sasha,SI,pop
+234,Lahko Bi Zletela,28,Vlado Kreslin,SI,slovenian
+235,Turn It into Something Special,0,Sasha,SI,pop
+236,Sparks,82,Coldplay,SI,rock
+237,American Life (Director's Cut) - 4K Remaster,0,Madonna,SI,NULL
+238,Od Višine Se Zvrti,28,"Vlado Kreslin, Siddharta",SI,NULL
+239,Wierz? w siebie,0,Harlem,SI,NULL
+240,Clocks,79,Coldplay,SI,rock
+241,Eso de saber,0,Revolver,SI,LO MAS
+242,In Da Club,77,50 Cent,SI,rap
+243,Take Me Home,0,"Terror Squad, remy, Fat Joe, Dre, Armageddon",SI,NULL
+244,How You Remind Me,80,Nickelback,SI,rock
+245,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,SI,NULL
+246,Marjanca,27,Brendi,SI,NULL
+247,Ni na no,0,Javier Álvarez,SI,NULL
+248,Napoj,27,Siddharta,SI,rock
+249,Call Me,0,Blondie,SI,80s
+250,Dajem ti rič,41,Dalmatino,HR,NULL
+251,Angel,28,"Shaggy, Rayvon",HR,NULL
+252,Crno i zlatno,46,Seka Aleksić,HR,Seka
+253,La vita è,1,Nek,HR,pop
+254,Ditelina S Četri Lista (feat. Oliver Dragojević),40,"Dalmatino, Oliver Dragojevic",HR,NULL
+255,He Loves U Not,0,Dream,HR,pop
+256,9000 Metara,43,Zeljko Samardzic,HR,niice song
+257,This Is My Time,0,Sasha,HR,pop
+258,Cvit Od Kamena,38,Dalmatino,HR,NULL
+259,Cabelo Raspadinho,2,Chiclete Com Banana,HR,brasil
+260,Kad Mi Dođeš Ti,43,Oliver Dragojevic,HR,NULL
+261,Devolva-Me,1,Adriana Calcanhotto,HR,mpb
+262,Ti Zaplakaćeš Na Mojoj Strani Kreveta,42,Sanja Đorđević,HR,NULL
+263,Rooftop,0,Sasha,HR,pop
+264,Without Me,83,Eminem,HR,rap
+265,Stuck in the Middle with You,0,Louise,HR,pop
+266,Takvi Kao Ti,41,Nina Badric,HR,pop
+267,Dímelo bajito,0,Manzanita,HR,NULL
+268,Yellow,86,Coldplay,HR,rock
+269,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,HR,NULL
+270,Ledena,40,Toše Proeski,HR,pop
+271,2 Faced,0,Louise,HR,pop
+272,Supermen,46,"Dino Merlin, Željko Joksimović",HR,NULL
+273,Kiedy góral umiera,0,Harlem,HR,polish
+274,Da Li Si Me Voljela Il' Nisi,44,Sejo Kalač,HR,NULL
+275,San Pedro,0,"Revolver, Mick Glossp",HR,NULL
+276,The Real Slim Shady,81,Eminem,HR,rap
+277,El peligro,0,Revolver,HR,metal
+278,Moj Lipi Anđele,40,Oliver Dragojevic,HR,NULL
+279,This Is Me,0,Dream,HR,pop
+280,Lopov,46,Indira Radić,HR,EliZe
+281,Here She Comes Again,0,Sasha,HR,pop
+282,Cija Si,42,Toše Proeski,HR,balkan
+283,Turn It into Something Special,0,Sasha,HR,pop
+284,Ljerka,39,Djordje Balasevic,HR,NULL
+285,Beautiful Inside,0,Louise,HR,pop
+286,Sude Mi,36,"Marko Perković Thompson, Miroslav Škoro",HR,NULL
+287,American Life (Director's Cut) - 4K Remaster,0,Madonna,HR,NULL
+288,Numb,83,Linkin Park,HR,rock
+289,Wierz? w siebie,0,Harlem,HR,NULL
+290,Mockingbird,81,Eminem,HR,rap
+291,Eso de saber,0,Revolver,HR,LO MAS
+292,Zmaj,43,Indira Radić,HR,NULL
+293,Take Me Home,0,"Terror Squad, remy, Fat Joe, Dre, Armageddon",HR,NULL
+294,Poruči Pesmu Sa Imenom Mojim,39,Sanja Đorđević,HR,NULL
+295,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,HR,NULL
+296,Nije Htjela,40,Kemal Monteno,HR,ex-yu
+297,Ni na no,0,Javier Álvarez,HR,NULL
+298,Can't Stop,80,Red Hot Chili Peppers,HR,rock
+299,Call Me,0,Blondie,HR,80s
+300,Yellow,86,Coldplay,BA,rock
+301,Angel,28,"Shaggy, Rayvon",BA,NULL
+302,The Scientist,83,Coldplay,BA,Coldplay
+303,Stuck in the Middle with You,0,Louise,BA,pop
+304,Without Me,83,Eminem,BA,rap
+305,Cabelo Raspadinho,2,Chiclete Com Banana,BA,brasil
+306,Numb,83,Linkin Park,BA,rock
+307,Devolva-Me,1,Adriana Calcanhotto,BA,mpb
+308,Mr. Brightside,82,The Killers,BA,rock
+309,La vita è,1,Nek,BA,pop
+310,In the End,82,Linkin Park,BA,rock
+311,This Is My Time,0,Sasha,BA,pop
+312,Sparks,82,Coldplay,BA,rock
+313,He Loves U Not,0,Dream,BA,pop
+314,Mockingbird,81,Eminem,BA,rap
+315,Rooftop,0,Sasha,BA,pop
+316,Unwritten,81,Natasha Bedingfield,BA,pop
+317,Dímelo bajito,0,Manzanita,BA,NULL
+318,The Real Slim Shady,81,Eminem,BA,rap
+319,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,BA,NULL
+320,Can't Stop,80,Red Hot Chili Peppers,BA,rock
+321,2 Faced,0,Louise,BA,pop
+322,Bring Me To Life,80,Evanescence,BA,rock
+323,Kiedy góral umiera,0,Harlem,BA,polish
+324,Yeah! (feat. Lil Jon & Ludacris),80,"USHER, Lil Jon, Ludacris",BA,NULL
+325,San Pedro,0,"Revolver, Mick Glossp",BA,NULL
+326,Somewhere Only We Know,80,Keane,BA,britpop
+327,El peligro,0,Revolver,BA,metal
+328,How You Remind Me,80,Nickelback,BA,rock
+329,This Is Me,0,Dream,BA,pop
+330,Toxicity,80,System Of A Down,BA,metal
+331,Here She Comes Again,0,Sasha,BA,pop
+332,Duvet,79,bôa,BA,anime
+333,Turn It into Something Special,0,Sasha,BA,pop
+334,Clocks,79,Coldplay,BA,rock
+335,Beautiful Inside,0,Louise,BA,pop
+336,Till I Collapse,79,"Eminem, Nate Dogg",BA,NULL
+337,American Life (Director's Cut) - 4K Remaster,0,Madonna,BA,NULL
+338,Faint,79,Linkin Park,BA,rock
+339,Wierz? w siebie,0,Harlem,BA,NULL
+340,Chop Suey!,79,System Of A Down,BA,alternative metal
+341,Eso de saber,0,Revolver,BA,LO MAS
+342,Seven Nation Army,78,The White Stripes,BA,rock
+343,Take Me Home,0,"Terror Squad, remy, Fat Joe, Dre, Armageddon",BA,NULL
+344,One Step Closer,78,Linkin Park,BA,Nu Metal
+345,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,BA,NULL
+346,This Love,78,Maroon 5,BA,pop
+347,Ni na no,0,Javier Álvarez,BA,NULL
+348,She Will Be Loved - Radio Mix,78,Maroon 5,BA,pop
+349,Call Me,0,Blondie,BA,80s
+350,Yellow,86,Coldplay,ME,rock
+351,El peligro,0,Revolver,ME,metal
+352,The Scientist,83,Coldplay,ME,Coldplay
+353,Angel,28,"Shaggy, Rayvon",ME,NULL
+354,Without Me,83,Eminem,ME,rap
+355,Cabelo Raspadinho,2,Chiclete Com Banana,ME,brasil
+356,Numb,83,Linkin Park,ME,rock
+357,Devolva-Me,1,Adriana Calcanhotto,ME,mpb
+358,Mr. Brightside,82,The Killers,ME,rock
+359,La vita è,1,Nek,ME,pop
+360,In the End,82,Linkin Park,ME,rock
+361,This Is My Time,0,Sasha,ME,pop
+362,Sparks,82,Coldplay,ME,rock
+363,He Loves U Not,0,Dream,ME,pop
+364,Mockingbird,81,Eminem,ME,rap
+365,Rooftop,0,Sasha,ME,pop
+366,Unwritten,81,Natasha Bedingfield,ME,pop
+367,Stuck in the Middle with You,0,Louise,ME,pop
+368,The Real Slim Shady,81,Eminem,ME,rap
+369,Dímelo bajito,0,Manzanita,ME,NULL
+370,Can't Stop,80,Red Hot Chili Peppers,ME,rock
+371,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,ME,NULL
+372,Bring Me To Life,80,Evanescence,ME,rock
+373,2 Faced,0,Louise,ME,pop
+374,Yeah! (feat. Lil Jon & Ludacris),80,"USHER, Lil Jon, Ludacris",ME,NULL
+375,Kiedy góral umiera,0,Harlem,ME,polish
+376,Somewhere Only We Know,80,Keane,ME,britpop
+377,San Pedro,0,"Revolver, Mick Glossp",ME,NULL
+378,How You Remind Me,80,Nickelback,ME,rock
+379,This Is Me,0,Dream,ME,pop
+380,Toxicity,80,System Of A Down,ME,metal
+381,Here She Comes Again,0,Sasha,ME,pop
+382,Duvet,79,bôa,ME,anime
+383,Turn It into Something Special,0,Sasha,ME,pop
+384,Clocks,79,Coldplay,ME,rock
+385,Beautiful Inside,0,Louise,ME,pop
+386,Till I Collapse,79,"Eminem, Nate Dogg",ME,NULL
+387,American Life (Director's Cut) - 4K Remaster,0,Madonna,ME,NULL
+388,Faint,79,Linkin Park,ME,rock
+389,Wierz? w siebie,0,Harlem,ME,NULL
+390,Chop Suey!,79,System Of A Down,ME,alternative metal
+391,Eso de saber,0,Revolver,ME,LO MAS
+392,Seven Nation Army,78,The White Stripes,ME,rock
+393,Take Me Home,0,"Terror Squad, remy, Fat Joe, Dre, Armageddon",ME,NULL
+394,One Step Closer,78,Linkin Park,ME,Nu Metal
+395,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,ME,NULL
+396,This Love,78,Maroon 5,ME,pop
+397,Ni na no,0,Javier Álvarez,ME,NULL
+398,She Will Be Loved - Radio Mix,78,Maroon 5,ME,pop
+399,Call Me,0,Blondie,ME,80s
+400,Yellow,86,Coldplay,AL,rock
+401,Angel,28,"Shaggy, Rayvon",AL,NULL
+402,The Scientist,83,Coldplay,AL,Coldplay
+403,Cabelo Raspadinho,2,Chiclete Com Banana,AL,brasil
+404,Without Me,83,Eminem,AL,rap
+405,Devolva-Me,1,Adriana Calcanhotto,AL,mpb
+406,Numb,83,Linkin Park,AL,rock
+407,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,AL,NULL
+408,Mr. Brightside,82,The Killers,AL,rock
+409,Csak Játék,0,Zorán,AL,Ballad
+410,In the End,82,Linkin Park,AL,rock
+411,Tarantula,0,Faithless,AL,electronic
+412,Sparks,82,Coldplay,AL,rock
+413,Guilty Conscience - Director's Cut,0,"Eminem, Dr. Dre",AL,NULL
+414,Mockingbird,81,Eminem,AL,rap
+415,Respiration,0,"Black Star, Common",AL,NULL
+416,Unwritten,81,Natasha Bedingfield,AL,pop
+417,Smash Sumthin' - Alternate Version,0,Redman,AL,NULL
+418,The Real Slim Shady,81,Eminem,AL,rap
+419,Kaleidoscope World,0,FrancisM,AL,NULL
+420,Can't Stop,80,Red Hot Chili Peppers,AL,rock
+421,Esperanzas,0,Pecos,AL,Baladas
+422,Bring Me To Life,80,Evanescence,AL,rock
+423,Spaceship,0,Katja,AL,NULL
+424,Yeah! (feat. Lil Jon & Ludacris),80,"USHER, Lil Jon, Ludacris",AL,NULL
+425,Maçã - Ao Vivo,0,Djavan,AL,NULL
+426,Somewhere Only We Know,80,Keane,AL,britpop
+427,'03 Bonnie & Clyde,0,"JAY-Z, Beyoncé Knowles",AL,NULL
+428,How You Remind Me,80,Nickelback,AL,rock
+429,Who Gives A F**K Where You From,0,"DJ Kay Slay, Frayser Boy, Lil Wyte, Three 6 Mafia",AL,NULL
+430,Toxicity,80,System Of A Down,AL,metal
+431,St. Anger,0,Metallica,AL,metal
+432,Duvet,79,bôa,AL,anime
+433,Jenny from the Block,0,Jennifer Lopez,AL,pop
+434,Clocks,79,Coldplay,AL,rock
+435,collective mode,0,PE'Z,AL,jazz
+436,Till I Collapse,79,"Eminem, Nate Dogg",AL,NULL
+437,HEY! JORDU!,0,PE'Z,AL,NULL
+438,Faint,79,Linkin Park,AL,rock
+439,Un Condenado Te Amo,0,Paolo Meneguzzi,AL,Favoritos
+440,Chop Suey!,79,System Of A Down,AL,alternative metal
+441,Sing For The Moment - Edited,0,Eminem,AL,NULL
+442,Seven Nation Army,78,The White Stripes,AL,rock
+443,The Way I Am,0,Eminem,AL,rap
+444,One Step Closer,78,Linkin Park,AL,Nu Metal
+445,"Rama Hare - From ""Soothradharan""",0,"Raveendran, Edappal Viswan, Gayathri Ashokan",AL,NULL
+446,This Love,78,Maroon 5,AL,pop
+447,Oceano - Ao Vivo,0,Djavan,AL,NULL
+448,She Will Be Loved - Radio Mix,78,Maroon 5,AL,pop
+449,Tvou Vuni Stale Znam,0,Frantisek Nedved,AL,NULL
+450,Eho Pethani Gia Sena,44,Anna Vissi,GR,NULL
+451,Angel,28,"Shaggy, Rayvon",GR,NULL
+452,Mockingbird,81,Eminem,GR,rap
+453,La vita è,1,Nek,GR,pop
+454,Tesseris Pige,43,Giorgos Mazonakis,GR,NULL
+455,Your Sweetness Is Your Weakness,0,Dead Or Alive,GR,pop
+456,Without Me,83,Eminem,GR,rap
+457,"""Heroes"" - Live At The Isle Of Wight, 2004",0,David Bowie,GR,NULL
+458,Diskola Feggaria,43,Giorgos Mazonakis,GR,NULL
+459,Cabelo Raspadinho,2,Chiclete Com Banana,GR,brasil
+460,Yellow,86,Coldplay,GR,rock
+461,Devolva-Me,1,Adriana Calcanhotto,GR,mpb
+462,O Proskynitis,42,Alkinoos Ioannidis,GR,NULL
+463,This Is My Time,0,Sasha,GR,pop
+464,The Real Slim Shady,81,Eminem,GR,rap
+465,He Loves U Not,0,Dream,GR,pop
+466,Ise,42,Anna Vissi,GR,Greek
+467,Rooftop,0,Sasha,GR,pop
+468,Till I Collapse,79,"Eminem, Nate Dogg",GR,NULL
+469,Stuck in the Middle with You,0,Louise,GR,pop
+470,In Da Club,77,50 Cent,GR,rap
+471,Dímelo bajito,0,Manzanita,GR,NULL
+472,Numb,83,Linkin Park,GR,rock
+473,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,GR,NULL
+474,Superman,78,"Eminem, Dina Rae",GR,NULL
+475,2 Faced,0,Louise,GR,pop
+476,Yeah! (feat. Lil Jon & Ludacris),80,"USHER, Lil Jon, Ludacris",GR,NULL
+477,Kiedy góral umiera,0,Harlem,GR,polish
+478,In the End,82,Linkin Park,GR,rock
+479,San Pedro,0,"Revolver, Mick Glossp",GR,NULL
+480,Genethlia,43,Notis Sfakianakis,GR,Greek
+481,El peligro,0,Revolver,GR,metal
+482,Psihedelia,45,Anna Vissi,GR,Greek
+483,This Is Me,0,Dream,GR,pop
+484,Bring Me To Life,80,Evanescence,GR,rock
+485,Here She Comes Again,0,Sasha,GR,pop
+486,Crazy In Love (feat. JAY-Z),76,"Beyoncé, JAY-Z",GR,NULL
+487,Turn It into Something Special,0,Sasha,GR,pop
+488,Fallin',73,Alicia Keys,GR,soul
+489,Beautiful Inside,0,Louise,GR,pop
+490,Somewhere Only We Know,80,Keane,GR,britpop
+491,American Life (Director's Cut) - 4K Remaster,0,Madonna,GR,NULL
+492,O Kosmos Pou Allazei,40,Alkinoos Ioannidis,GR,Greek
+493,Wierz? w siebie,0,Harlem,GR,NULL
+494,Sta Ipa Ola,40,Sokratis Malamas,GR,acoustic
+495,Eso de saber,0,Revolver,GR,LO MAS
+496,Agapi Ipervoliki,40,Anna Vissi,GR,Greek
+497,Take Me Home,0,"Terror Squad, remy, Fat Joe, Dre, Armageddon",GR,NULL
+498,Ah Koritsi Mou,43,Giannis Ploutarhos,GR,griechische Musik
+499,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,GR,NULL
+500,Yellow,86,Coldplay,MT,rock
+501,Angel,28,"Shaggy, Rayvon",MT,NULL
+502,The Scientist,83,Coldplay,MT,Coldplay
+503,2 Faced,0,Louise,MT,pop
+504,Somewhere Only We Know,80,Keane,MT,britpop
+505,Stuck in the Middle with You,0,Louise,MT,pop
+506,Mr. Brightside,82,The Killers,MT,rock
+507,Cabelo Raspadinho,2,Chiclete Com Banana,MT,brasil
+508,Unwritten,81,Natasha Bedingfield,MT,pop
+509,Devolva-Me,1,Adriana Calcanhotto,MT,mpb
+510,Clocks,79,Coldplay,MT,rock
+511,La vita è,1,Nek,MT,pop
+512,Numb,83,Linkin Park,MT,rock
+513,This Is My Time,0,Sasha,MT,pop
+514,Mockingbird,81,Eminem,MT,rap
+515,He Loves U Not,0,Dream,MT,pop
+516,Yeah! (feat. Lil Jon & Ludacris),80,"USHER, Lil Jon, Ludacris",MT,NULL
+517,Rooftop,0,Sasha,MT,pop
+518,She Will Be Loved - Radio Mix,78,Maroon 5,MT,pop
+519,Dímelo bajito,0,Manzanita,MT,NULL
+520,Without Me,83,Eminem,MT,rap
+521,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,MT,NULL
+522,In the End,82,Linkin Park,MT,rock
+523,Kiedy góral umiera,0,Harlem,MT,polish
+524,Sparks,82,Coldplay,MT,rock
+525,San Pedro,0,"Revolver, Mick Glossp",MT,NULL
+526,The Real Slim Shady,81,Eminem,MT,rap
+527,El peligro,0,Revolver,MT,metal
+528,Can't Stop,80,Red Hot Chili Peppers,MT,rock
+529,This Is Me,0,Dream,MT,pop
+530,White Flag,72,Dido,MT,pop
+531,Here She Comes Again,0,Sasha,MT,pop
+532,Feel,72,Robbie Williams,MT,pop
+533,Turn It into Something Special,0,Sasha,MT,pop
+534,In Da Club,77,50 Cent,MT,rap
+535,Beautiful Inside,0,Louise,MT,pop
+536,How You Remind Me,80,Nickelback,MT,rock
+537,American Life (Director's Cut) - 4K Remaster,0,Madonna,MT,NULL
+538,Till I Collapse,79,"Eminem, Nate Dogg",MT,NULL
+539,Wierz? w siebie,0,Harlem,MT,NULL
+540,This Love,78,Maroon 5,MT,pop
+541,Eso de saber,0,Revolver,MT,LO MAS
+542,Lose Yourself,76,Eminem,MT,rap
+543,Take Me Home,0,"Terror Squad, remy, Fat Joe, Dre, Armageddon",MT,NULL
+544,Complicated,78,Avril Lavigne,MT,pop
+545,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,MT,NULL
+546,Bring Me To Life,80,Evanescence,MT,rock
+547,Ni na no,0,Javier Álvarez,MT,NULL
+548,Dancing in the Moonlight,75,Toploader,MT,pop
+549,Call Me,0,Blondie,MT,80s
+550,Yellow,86,Coldplay,CY,rock
+551,Angel,28,"Shaggy, Rayvon",CY,NULL
+552,Without Me,83,Eminem,CY,rap
+553,This Is Me,0,Dream,CY,pop
+554,Mockingbird,81,Eminem,CY,rap
+555,2 Faced,0,Louise,CY,pop
+556,Numb,83,Linkin Park,CY,rock
+557,Cabelo Raspadinho,2,Chiclete Com Banana,CY,brasil
+558,Eho Pethani Gia Sena,44,Anna Vissi,CY,NULL
+559,Devolva-Me,1,Adriana Calcanhotto,CY,mpb
+560,In the End,82,Linkin Park,CY,rock
+561,La vita è,1,Nek,CY,pop
+562,The Real Slim Shady,81,Eminem,CY,rap
+563,This Is My Time,0,Sasha,CY,pop
+564,Genethlia,43,Notis Sfakianakis,CY,Greek
+565,He Loves U Not,0,Dream,CY,pop
+566,The Scientist,83,Coldplay,CY,Coldplay
+567,Rooftop,0,Sasha,CY,pop
+568,Somewhere Only We Know,80,Keane,CY,britpop
+569,Stuck in the Middle with You,0,Louise,CY,pop
+570,Bring Me To Life,80,Evanescence,CY,rock
+571,Dímelo bajito,0,Manzanita,CY,NULL
+572,O Proskynitis,42,Alkinoos Ioannidis,CY,NULL
+573,Dar A Volta No Brasil - Ao Vivo,0,Chiclete Com Banana,CY,NULL
+574,Till I Collapse,79,"Eminem, Nate Dogg",CY,NULL
+575,Kiedy góral umiera,0,Harlem,CY,polish
+576,How You Remind Me,80,Nickelback,CY,rock
+577,San Pedro,0,"Revolver, Mick Glossp",CY,NULL
+578,Toxicity,80,System Of A Down,CY,metal
+579,El peligro,0,Revolver,CY,metal
+580,Yeah! (feat. Lil Jon & Ludacris),80,"USHER, Lil Jon, Ludacris",CY,NULL
+581,Here She Comes Again,0,Sasha,CY,pop
+582,O Kosmos Pou Allazei,40,Alkinoos Ioannidis,CY,Greek
+583,Turn It into Something Special,0,Sasha,CY,pop
+584,Unwritten,81,Natasha Bedingfield,CY,pop
+585,Beautiful Inside,0,Louise,CY,pop
+586,Can't Stop,80,Red Hot Chili Peppers,CY,rock
+587,American Life (Director's Cut) - 4K Remaster,0,Madonna,CY,NULL
+588,Superman,78,"Eminem, Dina Rae",CY,NULL
+589,Wierz? w siebie,0,Harlem,CY,NULL
+590,Psihedelia,45,Anna Vissi,CY,Greek
+591,Eso de saber,0,Revolver,CY,LO MAS
+592,Clocks,79,Coldplay,CY,rock
+593,Take Me Home,0,"Terror Squad, remy, Fat Joe, Dre, Armageddon",CY,NULL
+594,In Da Club,77,50 Cent,CY,rap
+595,Love Is Alive - Live; 2004 Remaster,0,Joe Cocker,CY,NULL
+596,Chop Suey!,79,System Of A Down,CY,alternative metal
+597,Ni na no,0,Javier Álvarez,CY,NULL
+598,Faint,79,Linkin Park,CY,rock
+599,Call Me,0,Blondie,CY,80s
