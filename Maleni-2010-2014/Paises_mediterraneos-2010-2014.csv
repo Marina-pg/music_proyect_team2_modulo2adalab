@@ -1,0 +1,601 @@
+id,nombre,popularity,artista,pais,genero
+0,Tu jardín con enanitos,69,Melendi,ES,pop
+1,Now Is the Time (feat. Jasmine V),0,Wally Lopez,ES,NULL
+2,Es un Secreto,77,Plan B,ES,Reggaeton
+3,Plastic Dreams 2003,2,JayDee,ES,NULL
+4,La promesa,65,Melendi,ES,NULL
+5,Smile,0,"Abel The Kid, Julio Iglesias Jr.",ES,NULL
+6,Another Love,82,Tom Odell,ES,indie
+7,No hay mañanas,0,Revolver,ES,revolver88
+8,Just the Way You Are,78,Bruno Mars,ES,pop
+9,Smooth Criminal,0,Michael Jackson,ES,pop
+10,Lágrimas desordenadas,60,Melendi,ES,melendi
+11,Quiero aire,0,Revolver,ES,NULL
+12,A Sky Full of Stars,83,Coldplay,ES,pop
+13,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,ES,NULL
+14,Propuesta Indecente,75,Romeo Santos,ES,bachata
+15,My Love a Piece of My Love (feat. Snoop Dogg),0,"Abel The Kid, Julio Iglesias Jr.",ES,NULL
+16,Barbie de extrarradio,60,Melendi,ES,español
+17,Il fait chaud,0,Patrick Sébastien,ES,fiesta
+18,Locked out of Heaven,85,Bruno Mars,ES,pop
+19,Bitch House,0,Sexplosion,ES,NULL
+20,Wake Me Up,82,Avicii,ES,electronic
+21,Losing You,0,Revolver,ES,fip
+22,Demons,79,Imagine Dragons,ES,rock
+23,Wind Song,0,Revolver,ES,indie
+24,Bailando por Ahi,58,Juan Magán,ES,NULL
+25,Iré tras de ti,0,Mr.,ES,NULL
+26,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",ES,NULL
+27,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,ES,NULL
+28,Limbo,71,Daddy Yankee,ES,Reggaeton
+29,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,ES,NULL
+30,La Mujer de Verde,57,IZAL,ES,NULL
+31,Wild Out Anthem (feat. Jay Colin),0,Wally Lopez,ES,NULL
+32,When I Was Your Man,83,Bruno Mars,ES,pop
+33,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,ES,NULL
+34,Cheque al portamor,62,Melendi,ES,NULL
+35,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,ES,NULL
+36,Estoy Hecho De Pedacitos De Ti,56,Antonio Orozco,ES,Flamenco
+37,Ballada o Janku Wisniewskim,1,Kazik,ES,rock
+38,All of Me,81,John Legend,ES,rnb
+39,Invisibili,0,Ape Escape,ES,NULL
+40,Titanium (feat. Sia),77,"David Guetta, Sia",ES,NULL
+41,"Rum Whisky (From ""Vicky Donor"")",0,"Abhishek - Akshay, Akshay Verma",ES,NULL
+42,Si te vas...,57,Extremoduro,ES,extremoduro
+43,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,ES,NULL
+44,I Wanna Be Yours,86,Arctic Monkeys,ES,indie rock
+45,Bound 2,0,Kanye West,ES,uh huh honey
+46,Counting Stars,82,OneRepublic,ES,pop rock
+47,Arramsamsam,0,CantaJuego,ES,NULL
+48,Yo Te Esperaré,66,Cali Y El Dandee,ES,spanish
+49,Thoda Thoda,0,"Shreya Ghoshal, Sachin",ES,NULL
+50,Can't Hold Us (feat. Ray Dalton),80,"Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",FR,NULL
+51,Bede Z Toba,9,Lemon,FR,NULL
+52,Tu la love,63,Jul,FR,rr
+53,Plastic Dreams 2003,2,JayDee,FR,NULL
+54,J'oublie tout,64,Jul,FR,MySpotigramBot
+55,Bede Z Toba - Hangout Live,2,Lemon,FR,NULL
+56,Sweater Weather,85,The Neighbourhood,FR,indie
+57,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,FR,NULL
+58,I Wanna Be Yours,86,Arctic Monkeys,FR,indie rock
+59,Ballada o Janku Wisniewskim,1,Kazik,FR,rock
+60,On se connaît,61,"Youssoupha, Noémie",FR,NULL
+61,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,FR,NULL
+62,Locked out of Heaven,85,Bruno Mars,FR,pop
+63,Il fait chaud,0,Patrick Sébastien,FR,fiesta
+64,A Sky Full of Stars,83,Coldplay,FR,pop
+65,Lågsus (feat. Medina),0,"Specktors, Medina",FR,NULL
+66,Wati by Night,60,Sexion d'Assaut,FR,french
+67,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",FR,NULL
+68,Another Love,59,Tom Odell,FR,indie
+69,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,FR,NULL
+70,Demons,79,Imagine Dragons,FR,rock
+71,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,FR,NULL
+72,J'me tire,63,GIMS,FR,NULL
+73,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,FR,NULL
+74,Take Me To Church,78,Hozier,FR,indie
+75,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",FR,NULL
+76,Riptide,78,Vance Joy,FR,folk
+77,Smile,0,"Abel The Kid, Julio Iglesias Jr.",FR,NULL
+78,Game Over,60,"Vitaa, GIMS",FR,NULL
+79,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,FR,NULL
+80,Dans ma paranoïa,59,Jul,FR,NULL
+81,G.U.Y. - An ARTPOP Film,0,Lady Gaga,FR,gaga
+82,Counting Stars,82,OneRepublic,FR,pop rock
+83,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,FR,NULL
+84,Danza Kuduro,71,"Don Omar, Lucenzo",FR,NULL
+85,The Real Slim Shady - Edited,0,Eminem,FR,NULL
+86,Titanium (feat. Sia),77,"David Guetta, Sia",FR,NULL
+87,好不好,0,Evan Yo,FR,fabulous boys
+88,Wake Me Up,82,Avicii,FR,electronic
+89,Samba Pras Moças,0,Mariene De Castro,FR,NULL
+90,When I Was Your Man,83,Bruno Mars,FR,pop
+91,Hardkor i disko,0,Sofa,FR,indie
+92,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",FR,NULL
+93,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",FR,NULL
+94,We Found Love,73,"Rihanna, Calvin Harris",FR,NULL
+95,Losing You,0,Revolver,FR,fip
+96,Prayer In C - Robin Schulz Remix - Radio Edit,58,"Lilly Wood and The Prick, Robin Schulz",FR,NULL
+97,Byłem (feat. As),0,"Pezet, As",FR,NULL
+98,Je te laisserai des mots,78,Patrick Watson,FR,french
+99,"Rum Whisky (From ""Vicky Donor"")",0,"Abhishek - Akshay, Akshay Verma",FR,NULL
+100,I Wanna Be Yours,86,Arctic Monkeys,MC,indie rock
+101,Bede Z Toba,9,Lemon,MC,NULL
+102,Sweater Weather,85,The Neighbourhood,MC,indie
+103,Plastic Dreams 2003,2,JayDee,MC,NULL
+104,No. 1 Party Anthem,84,Arctic Monkeys,MC,indie rock
+105,Bede Z Toba - Hangout Live,2,Lemon,MC,NULL
+106,A Sky Full of Stars,83,Coldplay,MC,pop
+107,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,MC,NULL
+108,Night Changes,83,One Direction,MC,pop
+109,Ballada o Janku Wisniewskim,1,Kazik,MC,rock
+110,Lovers Rock,82,TV Girl,MC,indie pop
+111,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,MC,NULL
+112,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",MC,NULL
+113,Iré tras de ti,0,Mr.,MC,NULL
+114,I Love You So,82,The Walters,MC,MySpotigramBot
+115,Il fait chaud,0,Patrick Sébastien,MC,fiesta
+116,Another Love,82,Tom Odell,MC,indie
+117,Now Is the Time (feat. Jasmine V),0,Wally Lopez,MC,NULL
+118,Do I Wanna Know?,82,Arctic Monkeys,MC,indie rock
+119,Lågsus (feat. Medina),0,"Specktors, Medina",MC,NULL
+120,Counting Stars,82,OneRepublic,MC,pop rock
+121,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",MC,NULL
+122,Wake Me Up,82,Avicii,MC,electronic
+123,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,MC,NULL
+124,All of Me,81,John Legend,MC,rnb
+125,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,MC,NULL
+126,Story of My Life,81,One Direction,MC,pop
+127,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,MC,NULL
+128,No Role Modelz,81,J. Cole,MC,MySpotigramBot
+129,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",MC,NULL
+130,Sure Thing,81,Miguel,MC,rnb
+131,Smile,0,"Abel The Kid, Julio Iglesias Jr.",MC,NULL
+132,Thinkin Bout You,81,Frank Ocean,MC,rnb
+133,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,MC,NULL
+134,Young And Beautiful,80,Lana Del Rey,MC,indie
+135,G.U.Y. - An ARTPOP Film,0,Lady Gaga,MC,gaga
+136,Love Me,80,"Lil Wayne, Drake, Future",MC,NULL
+137,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,MC,NULL
+138,Shut Up and Dance,80,WALK THE MOON,MC,indie pop
+139,The Real Slim Shady - Edited,0,Eminem,MC,NULL
+140,Skyfall,80,Adele,MC,Soundtrack
+141,好不好,0,Evan Yo,MC,fabulous boys
+142,Why'd You Only Call Me When You're High?,80,Arctic Monkeys,MC,indie rock
+143,Hardkor i disko,0,Sofa,MC,indie
+144,Pumped Up Kicks,80,Foster The People,MC,indie
+145,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",MC,NULL
+146,Can't Hold Us (feat. Ray Dalton),80,"Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",MC,NULL
+147,Losing You,0,Revolver,MC,fip
+148,The Nights,80,Avicii,MC,dance
+149,Byłem (feat. As),0,"Pezet, As",MC,NULL
+150,Brivido,62,"Guè, Marracash",IT,NULL
+151,Plastic Dreams 2003,2,JayDee,IT,NULL
+152,La Nuova Stella Di Broadway,62,Cesare Cremonini,IT,italianigdchill
+153,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,IT,NULL
+154,L'amore eternit,61,"Fedez, Noemi",IT,NULL
+155,Хэндз ап!,0,Basta,IT,NULL
+156,Can't Hold Us (feat. Ray Dalton),80,"Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",IT,NULL
+157,"Crawling - Live from the iTunes Festival at the Roundhouse, London, England, 7/4/2011",0,Linkin Park,IT,NULL
+158,Another Love,82,Tom Odell,IT,indie
+159,"I Cento Passi - Live at Estragon, Bologna / 2014",0,Modena City Ramblers,IT,NULL
+160,I Wanna Be Yours,86,Arctic Monkeys,IT,indie rock
+161,93 Million Miles,0,Quadriphonix,IT,NULL
+162,Sweater Weather,85,The Neighbourhood,IT,indie
+163,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,IT,NULL
+164,Skyfall,80,Adele,IT,Soundtrack
+165,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,IT,NULL
+166,Demons,79,Imagine Dragons,IT,rock
+167,Quiero aire,0,Revolver,IT,NULL
+168,Locked out of Heaven,85,Bruno Mars,IT,pop
+169,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,IT,NULL
+170,A Sky Full of Stars,83,Coldplay,IT,pop
+171,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,IT,NULL
+172,Just the Way You Are,78,Bruno Mars,IT,pop
+173,My Girl (feat. Trevor Jackson),0,"Diggy, Trevor Jackson",IT,NULL
+174,Wake Me Up,82,Avicii,IT,electronic
+175,"Sing About Me, I'm Dying Of Thirst - Part 1",0,Kendrick Lamar,IT,NULL
+176,Counting Stars,82,OneRepublic,IT,pop rock
+177,Journey To Regionals Performance,0,Glee Cast,IT,NULL
+178,All of Me,81,John Legend,IT,rnb
+179,G.U.Y. - An ARTPOP Film,0,Lady Gaga,IT,gaga
+180,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",IT,NULL
+181,R.E.B (Guè Vs Crookers),0,"Guè, Crookers",IT,NULL
+182,Limbo,71,Daddy Yankee,IT,Reggaeton
+183,S.e.n.i.c.a.r. / Brivido (feat. Marracash) (Live @ Bravo Ragazzo Tour 2013),0,Guè,IT,NULL
+184,Someone Like You,77,Adele,IT,Adele
+185,Scappati Di Casa (Live @ Bravo Ragazzo Tour 2013),0,Guè,IT,NULL
+186,Titanium (feat. Sia),77,"David Guetta, Sia",IT,NULL
+187,Il sale della terra@Arena di Verona 2013,0,Ligabue,IT,NULL
+188,Timber,80,"Pitbull, Kesha",IT,NULL
+189,Rose Nere (Live @ Bravo Ragazzo Tour 2013),0,Guè,IT,NULL
+190,Do I Wanna Know?,82,Arctic Monkeys,IT,indie rock
+191,Bede Z Toba,9,Lemon,IT,NULL
+192,Try,78,P!nk,IT,pop
+193,Abre tus brazos (apri le braccia),0,"Gigi D'Alessio, Cristian Castro",IT,NULL
+194,When I Was Your Man,83,Bruno Mars,IT,pop
+195,Invisibili,0,Ape Escape,IT,NULL
+196,We Found Love,73,"Rihanna, Calvin Harris",IT,NULL
+197,Chelsea Smile (Live in Mexico City),0,Bring Me The Horizon,IT,NULL
+198,Set Fire to the Rain,77,Adele,IT,soul
+199,Smooth Criminal,0,Michael Jackson,IT,pop
+200,Brad Pitt,47,Severina,SI,kim kardashian
+201,Plastic Dreams 2003,2,JayDee,SI,NULL
+202,Sweater Weather,85,The Neighbourhood,SI,indie
+203,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,SI,NULL
+204,Italiana,47,Severina,SI,female vocalists
+205,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,SI,NULL
+206,I Wanna Be Yours,86,Arctic Monkeys,SI,indie rock
+207,Bede Z Toba,9,Lemon,SI,NULL
+208,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",SI,NULL
+209,Bede Z Toba - Hangout Live,2,Lemon,SI,NULL
+210,Danza Kuduro,71,"Don Omar, Lucenzo",SI,NULL
+211,Ballada o Janku Wisniewskim,1,Kazik,SI,rock
+212,A Sky Full of Stars,83,Coldplay,SI,pop
+213,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,SI,NULL
+214,Locked out of Heaven,85,Bruno Mars,SI,pop
+215,Iré tras de ti,0,Mr.,SI,NULL
+216,Wake Me Up,82,Avicii,SI,electronic
+217,Il fait chaud,0,Patrick Sébastien,SI,fiesta
+218,Tarapana,47,Severina,SI,soul
+219,Lågsus (feat. Medina),0,"Specktors, Medina",SI,NULL
+220,Just the Way You Are,78,Bruno Mars,SI,pop
+221,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",SI,NULL
+222,Moje leto,44,"In Vivo, Boyant",SI,NULL
+223,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,SI,NULL
+224,Ljubavi Moja,48,"Elitni Odredi, Dado Polumenta",SI,NULL
+225,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,SI,NULL
+226,Timber,80,"Pitbull, Kesha",SI,NULL
+227,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",SI,NULL
+228,Shut Up and Dance,80,WALK THE MOON,SI,indie pop
+229,Smile,0,"Abel The Kid, Julio Iglesias Jr.",SI,NULL
+230,Another Love,82,Tom Odell,SI,indie
+231,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,SI,NULL
+232,Da Raskinem Sa Njom,47,Ceca,SI,pop
+233,G.U.Y. - An ARTPOP Film,0,Lady Gaga,SI,gaga
+234,We Found Love,78,"Rihanna, Calvin Harris",SI,NULL
+235,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,SI,NULL
+236,Counting Stars,82,OneRepublic,SI,pop rock
+237,The Real Slim Shady - Edited,0,Eminem,SI,NULL
+238,Story of My Life,81,One Direction,SI,pop
+239,好不好,0,Evan Yo,SI,fabulous boys
+240,Tu tu tu,44,In Vivo,SI,fast
+241,Samba Pras Moças,0,Mariene De Castro,SI,NULL
+242,Only Girl (In The World),79,Rihanna,SI,pop
+243,Hardkor i disko,0,Sofa,SI,indie
+244,Drive By,76,Train,SI,pop
+245,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",SI,NULL
+246,No Role Modelz,81,J. Cole,SI,MySpotigramBot
+247,Losing You,0,Revolver,SI,fip
+248,Call Me Maybe,76,Carly Rae Jepsen,SI,pop
+249,Byłem (feat. As),0,"Pezet, As",SI,NULL
+250,Samo Je Ljubav Tajna Dvaju Svjetova,42,Marko Perković Thompson,HR,NULL
+251,Addicted To You - Live,0,Avicii,HR,NULL
+252,Pukni Pusko,43,Marko Perković Thompson,HR,NULL
+253,Plastic Dreams 2003,2,JayDee,HR,NULL
+254,Moj Ivane,42,Marko Perković Thompson,HR,croatian music
+255,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,HR,NULL
+256,Ljubavi Moja,48,"Elitni Odredi, Dado Polumenta",HR,NULL
+257,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,HR,NULL
+258,"Zaustavi Se, Vjetre",41,Marko Perković Thompson,HR,NULL
+259,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,HR,NULL
+260,Dolazak Hrvata,41,Marko Perković Thompson,HR,NULL
+261,Bede Z Toba,9,Lemon,HR,NULL
+262,Zapali Grad,46,Elitni Odredi,HR,NULL
+263,Bede Z Toba - Hangout Live,2,Lemon,HR,NULL
+264,Ne Koci,47,Elitni Odredi,HR,Elitnioderdi
+265,Ballada o Janku Wisniewskim,1,Kazik,HR,rock
+266,Tarapana,47,Severina,HR,soul
+267,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,HR,NULL
+268,Anica - Kninska Kraljica,41,Marko Perković Thompson,HR,NULL
+269,Iré tras de ti,0,Mr.,HR,NULL
+270,Brad Pitt,47,Severina,HR,kim kardashian
+271,Il fait chaud,0,Patrick Sébastien,HR,fiesta
+272,Sweater Weather,85,The Neighbourhood,HR,indie
+273,Lågsus (feat. Medina),0,"Specktors, Medina",HR,NULL
+274,Devojka tvog druga,42,"Sandra Afrika, Costi",HR,NULL
+275,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",HR,NULL
+276,I Wanna Be Yours,86,Arctic Monkeys,HR,indie rock
+277,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,HR,NULL
+278,Italiana,47,Severina,HR,female vocalists
+279,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,HR,NULL
+280,Rijeka Snova,40,"Neno Belan, Fiumens",HR,NULL
+281,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",HR,NULL
+282,Neka Niko Ne Dira U Moj Mali Dio Svemira,39,Marko Perković Thompson,HR,NULL
+283,Smile,0,"Abel The Kid, Julio Iglesias Jr.",HR,NULL
+284,Da Raskinem Sa Njom,47,Ceca,HR,pop
+285,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,HR,NULL
+286,Danza Kuduro,71,"Don Omar, Lucenzo",HR,NULL
+287,G.U.Y. - An ARTPOP Film,0,Lady Gaga,HR,gaga
+288,Bojna Čavoglave,40,Marko Perković Thompson,HR,NULL
+289,The Real Slim Shady - Edited,0,Eminem,HR,NULL
+290,Kletva Kralja Zvonimira,38,Marko Perković Thompson,HR,croatian music
+291,好不好,0,Evan Yo,HR,fabulous boys
+292,Terca Na Tišinu,39,Silente,HR,pop rock
+293,Samba Pras Moças,0,Mariene De Castro,HR,NULL
+294,KO Me Tjero,44,Severina,HR,soul
+295,Hardkor i disko,0,Sofa,HR,indie
+296,Gdje Sam Bio,41,Željko Bebek,HR,NULL
+297,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",HR,NULL
+298,Lijepa Li Si,39,Marko Perković Thompson,HR,NULL
+299,Losing You,0,Revolver,HR,fip
+300,I Wanna Be Yours,86,Arctic Monkeys,BA,indie rock
+301,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,BA,NULL
+302,Sweater Weather,85,The Neighbourhood,BA,indie
+303,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,BA,NULL
+304,Locked out of Heaven,85,Bruno Mars,BA,pop
+305,Bede Z Toba,9,Lemon,BA,NULL
+306,No. 1 Party Anthem,84,Arctic Monkeys,BA,indie rock
+307,Plastic Dreams 2003,2,JayDee,BA,NULL
+308,When I Was Your Man,83,Bruno Mars,BA,pop
+309,Bede Z Toba - Hangout Live,2,Lemon,BA,NULL
+310,A Sky Full of Stars,83,Coldplay,BA,pop
+311,Ballada o Janku Wisniewskim,1,Kazik,BA,rock
+312,Night Changes,83,One Direction,BA,pop
+313,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,BA,NULL
+314,Lovers Rock,82,TV Girl,BA,indie pop
+315,Iré tras de ti,0,Mr.,BA,NULL
+316,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",BA,NULL
+317,Il fait chaud,0,Patrick Sébastien,BA,fiesta
+318,I Love You So,82,The Walters,BA,MySpotigramBot
+319,Lågsus (feat. Medina),0,"Specktors, Medina",BA,NULL
+320,Another Love,82,Tom Odell,BA,indie
+321,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",BA,NULL
+322,Do I Wanna Know?,82,Arctic Monkeys,BA,indie rock
+323,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,BA,NULL
+324,Counting Stars,82,OneRepublic,BA,pop rock
+325,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,BA,NULL
+326,Wake Me Up,82,Avicii,BA,electronic
+327,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,BA,NULL
+328,All of Me,81,John Legend,BA,rnb
+329,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",BA,NULL
+330,Story of My Life,81,One Direction,BA,pop
+331,Smile,0,"Abel The Kid, Julio Iglesias Jr.",BA,NULL
+332,Photograph,81,Ed Sheeran,BA,pop
+333,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,BA,NULL
+334,No Role Modelz,81,J. Cole,BA,MySpotigramBot
+335,G.U.Y. - An ARTPOP Film,0,Lady Gaga,BA,gaga
+336,Sure Thing,81,Miguel,BA,rnb
+337,The Real Slim Shady - Edited,0,Eminem,BA,NULL
+338,Thinkin Bout You,81,Frank Ocean,BA,rnb
+339,好不好,0,Evan Yo,BA,fabulous boys
+340,Young And Beautiful,80,Lana Del Rey,BA,indie
+341,Samba Pras Moças,0,Mariene De Castro,BA,NULL
+342,Love Me,80,"Lil Wayne, Drake, Future",BA,NULL
+343,Hardkor i disko,0,Sofa,BA,indie
+344,Shut Up and Dance,80,WALK THE MOON,BA,indie pop
+345,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",BA,NULL
+346,Skyfall,80,Adele,BA,Soundtrack
+347,Losing You,0,Revolver,BA,fip
+348,Why'd You Only Call Me When You're High?,80,Arctic Monkeys,BA,indie rock
+349,Byłem (feat. As),0,"Pezet, As",BA,NULL
+350,I Wanna Be Yours,86,Arctic Monkeys,ME,indie rock
+351,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,ME,NULL
+352,Sweater Weather,85,The Neighbourhood,ME,indie
+353,Bede Z Toba,9,Lemon,ME,NULL
+354,Locked out of Heaven,85,Bruno Mars,ME,pop
+355,Plastic Dreams 2003,2,JayDee,ME,NULL
+356,No. 1 Party Anthem,84,Arctic Monkeys,ME,indie rock
+357,Bede Z Toba - Hangout Live,2,Lemon,ME,NULL
+358,When I Was Your Man,83,Bruno Mars,ME,pop
+359,Ballada o Janku Wisniewskim,1,Kazik,ME,rock
+360,A Sky Full of Stars,83,Coldplay,ME,pop
+361,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,ME,NULL
+362,Night Changes,83,One Direction,ME,pop
+363,Iré tras de ti,0,Mr.,ME,NULL
+364,Lovers Rock,82,TV Girl,ME,indie pop
+365,Il fait chaud,0,Patrick Sébastien,ME,fiesta
+366,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",ME,NULL
+367,Lågsus (feat. Medina),0,"Specktors, Medina",ME,NULL
+368,I Love You So,82,The Walters,ME,MySpotigramBot
+369,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",ME,NULL
+370,Another Love,82,Tom Odell,ME,indie
+371,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,ME,NULL
+372,Do I Wanna Know?,82,Arctic Monkeys,ME,indie rock
+373,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,ME,NULL
+374,Counting Stars,82,OneRepublic,ME,pop rock
+375,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,ME,NULL
+376,Wake Me Up,82,Avicii,ME,electronic
+377,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",ME,NULL
+378,All of Me,81,John Legend,ME,rnb
+379,Smile,0,"Abel The Kid, Julio Iglesias Jr.",ME,NULL
+380,Story of My Life,81,One Direction,ME,pop
+381,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,ME,NULL
+382,Photograph,81,Ed Sheeran,ME,pop
+383,G.U.Y. - An ARTPOP Film,0,Lady Gaga,ME,gaga
+384,No Role Modelz,81,J. Cole,ME,MySpotigramBot
+385,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,ME,NULL
+386,Sure Thing,81,Miguel,ME,rnb
+387,The Real Slim Shady - Edited,0,Eminem,ME,NULL
+388,Thinkin Bout You,81,Frank Ocean,ME,rnb
+389,好不好,0,Evan Yo,ME,fabulous boys
+390,Young And Beautiful,80,Lana Del Rey,ME,indie
+391,Samba Pras Moças,0,Mariene De Castro,ME,NULL
+392,Love Me,80,"Lil Wayne, Drake, Future",ME,NULL
+393,Hardkor i disko,0,Sofa,ME,indie
+394,Shut Up and Dance,80,WALK THE MOON,ME,indie pop
+395,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",ME,NULL
+396,Skyfall,80,Adele,ME,Soundtrack
+397,Losing You,0,Revolver,ME,fip
+398,Why'd You Only Call Me When You're High?,80,Arctic Monkeys,ME,indie rock
+399,Byłem (feat. As),0,"Pezet, As",ME,NULL
+400,I Wanna Be Yours,86,Arctic Monkeys,AL,indie rock
+401,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,AL,NULL
+402,Sweater Weather,85,The Neighbourhood,AL,indie
+403,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,AL,NULL
+404,Locked out of Heaven,85,Bruno Mars,AL,pop
+405,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",AL,NULL
+406,No. 1 Party Anthem,84,Arctic Monkeys,AL,indie rock
+407,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,AL,NULL
+408,When I Was Your Man,83,Bruno Mars,AL,pop
+409,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,AL,NULL
+410,A Sky Full of Stars,83,Coldplay,AL,pop
+411,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",AL,NULL
+412,Night Changes,83,One Direction,AL,pop
+413,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,AL,NULL
+414,Lovers Rock,82,TV Girl,AL,indie pop
+415,G.U.Y. - An ARTPOP Film,0,Lady Gaga,AL,gaga
+416,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",AL,NULL
+417,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,AL,NULL
+418,I Love You So,82,The Walters,AL,MySpotigramBot
+419,The Real Slim Shady - Edited,0,Eminem,AL,NULL
+420,Another Love,82,Tom Odell,AL,indie
+421,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",AL,NULL
+422,Do I Wanna Know?,82,Arctic Monkeys,AL,indie rock
+423,"Rum Whisky (From ""Vicky Donor"")",0,"Abhishek - Akshay, Akshay Verma",AL,NULL
+424,Counting Stars,82,OneRepublic,AL,pop rock
+425,"Muskurane (Film Version) [From ""Citylights""]",0,"Jeet Gannguli, Arijit Singh",AL,NULL
+426,Wake Me Up,82,Avicii,AL,electronic
+427,Eu Aposto - Ao Vivo,0,Eduardo Costa,AL,NULL
+428,All of Me,81,John Legend,AL,rnb
+429,"Cloud 9 - From ""Cloud 9"" / Original TV Movie Soundtrack",0,"Dove Cameron, Luke Benward",AL,NULL
+430,Story of My Life,81,One Direction,AL,pop
+431,Cups (Pitch Perfect’s “When I’m Gone”) - Director's Cut / Closed-Captioned,0,Anna Kendrick,AL,NULL
+432,Photograph,81,Ed Sheeran,AL,pop
+433,"Verlieben, verloren, vergessen, verzeih'n (ZDF Hitparade 30.01.1992) - VOD",0,Wolfgang Petry,AL,NULL
+434,No Role Modelz,81,J. Cole,AL,MySpotigramBot
+435,Find Your Love - Extended Version,0,Drake,AL,NULL
+436,Sure Thing,81,Miguel,AL,rnb
+437,All By Myself (ZDF Tele-Illustrierte 17.01.1989) - VOD,0,Peter Hofmann,AL,NULL
+438,Thinkin Bout You,81,Frank Ocean,AL,rnb
+439,Pai,0,Grupo Revelação,AL,samba
+440,Young And Beautiful,80,Lana Del Rey,AL,indie
+441,Wrecking Ball - Director's Cut,0,Miley Cyrus,AL,NULL
+442,Love Me,80,"Lil Wayne, Drake, Future",AL,NULL
+443,Smooth Criminal,0,Michael Jackson,AL,pop
+444,Shut Up and Dance,80,WALK THE MOON,AL,indie pop
+445,Magia - Intro,0,Maluma,AL,NULL
+446,Skyfall,80,Adele,AL,Soundtrack
+447,Se Eu Não Te Amasse Tanto Assim,0,"Caetano Veloso, Gilberto Gil, Ivete Sangalo",AL,NULL
+448,Why'd You Only Call Me When You're High?,80,Arctic Monkeys,AL,indie rock
+449,Politik Kills,0,Manu Chao,AL,latin
+450,Pame Stihima Tha Xanarthis,50,Pantelis Pantelidis,GR,NULL
+451,Plastic Dreams 2003,2,JayDee,GR,NULL
+452,Paramithiazome,47,Pantelis Pantelidis,GR,NULL
+453,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,GR,NULL
+454,I Wanna Be Yours,86,Arctic Monkeys,GR,indie rock
+455,Losing You,0,Revolver,GR,fip
+456,Lioma Se Gremo,48,Pantelis Pantelidis,GR,NULL
+457,Iré tras de ti,0,Mr.,GR,NULL
+458,Sweater Weather,85,The Neighbourhood,GR,indie
+459,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,GR,NULL
+460,Mousiki Gia Tsoglanous,45,"LEX, Dof Twogee",GR,NULL
+461,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,GR,NULL
+462,Itheles Na Mplekseis,44,Kako,GR,NULL
+463,My Girl (feat. Trevor Jackson),0,"Diggy, Trevor Jackson",GR,NULL
+464,Melagholia Mou,46,Nikos Oikonomopoulos,GR,NULL
+465,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,GR,NULL
+466,Etoimase Mia Efchi,44,Kako,GR,NULL
+467,The Way We See The World,0,"AFROJACK, Dimitri Vegas & Like Mike, NERVO",GR,NULL
+468,Ginete,49,Pantelis Pantelidis,GR,world
+469,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,GR,NULL
+470,Den Teriazete Sou Leo,47,Pantelis Pantelidis,GR,NULL
+471,Bede Z Toba,9,Lemon,GR,NULL
+472,Mono Ex Epafis,44,Giorgos Sabanis,GR,NULL
+473,Bede Z Toba - Hangout Live,2,Lemon,GR,NULL
+474,De Se Sighoro (Sto 'ha Pi),45,Pantelis Pantelidis,GR,NULL
+475,Ballada o Janku Wisniewskim,1,Kazik,GR,rock
+476,Iha Kapote Mia Agapi,47,Pantelis Pantelidis,GR,NULL
+477,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,GR,NULL
+478,Money Trees,79,"Kendrick Lamar, Jay Rock",GR,NULL
+479,Il fait chaud,0,Patrick Sébastien,GR,fiesta
+480,Eleges,44,Melisses,GR,NULL
+481,Now Is the Time (feat. Jasmine V),0,Wally Lopez,GR,NULL
+482,Fraxtis,43,"LEX, Dof Twogee",GR,NULL
+483,Lågsus (feat. Medina),0,"Specktors, Medina",GR,NULL
+484,Doro Gia Sena,44,Nikos Oikonomopoulos,GR,Nicos oikonomopoulos-Doro Gia Sena
+485,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",GR,NULL
+486,Do I Wanna Know?,82,Arctic Monkeys,GR,indie rock
+487,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,GR,NULL
+488,West Coast,78,Lana Del Rey,GR,alternative
+489,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",GR,NULL
+490,Gia Ton Idio Anthropo Milame,47,"Vasilis Karras, Pantelis Pantelidis",GR,NULL
+491,Smile,0,"Abel The Kid, Julio Iglesias Jr.",GR,NULL
+492,She Will,75,"Lil Wayne, Drake",GR,NULL
+493,G.U.Y. - An ARTPOP Film,0,Lady Gaga,GR,gaga
+494,Ma Pou Na Pao,45,Themis Adamantidis,GR,Greek
+495,The Real Slim Shady - Edited,0,Eminem,GR,NULL
+496,Perastika Tis,45,"Vasilis Karras, Foivos",GR,NULL
+497,好不好,0,Evan Yo,GR,fabulous boys
+498,Alkoolikes I Nihtes,44,Pantelis Pantelidis,GR,NULL
+499,Hardkor i disko,0,Sofa,GR,indie
+500,Just the Way You Are,78,Bruno Mars,MT,pop
+501,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,MT,NULL
+502,A Sky Full of Stars,83,Coldplay,MT,pop
+503,Plastic Dreams 2003,2,JayDee,MT,NULL
+504,Another Love,82,Tom Odell,MT,indie
+505,Now Is the Time (feat. Jasmine V),0,Wally Lopez,MT,NULL
+506,Locked out of Heaven,85,Bruno Mars,MT,pop
+507,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,MT,NULL
+508,She Will,75,"Lil Wayne, Drake",MT,NULL
+509,Bede Z Toba,9,Lemon,MT,NULL
+510,Sweater Weather,85,The Neighbourhood,MT,indie
+511,Bede Z Toba - Hangout Live,2,Lemon,MT,NULL
+512,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",MT,NULL
+513,Ballada o Janku Wisniewskim,1,Kazik,MT,rock
+514,Wake Me Up,82,Avicii,MT,electronic
+515,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,MT,NULL
+516,Story of My Life,81,One Direction,MT,pop
+517,Iré tras de ti,0,Mr.,MT,NULL
+518,Night Changes,83,One Direction,MT,pop
+519,Il fait chaud,0,Patrick Sébastien,MT,fiesta
+520,All of Me,81,John Legend,MT,rnb
+521,Lågsus (feat. Medina),0,"Specktors, Medina",MT,NULL
+522,Demons,79,Imagine Dragons,MT,rock
+523,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",MT,NULL
+524,I Wanna Be Yours,86,Arctic Monkeys,MT,indie rock
+525,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,MT,NULL
+526,Paradise,79,Coldplay,MT,rock
+527,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,MT,NULL
+528,Try,78,P!nk,MT,pop
+529,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,MT,NULL
+530,Photograph,81,Ed Sheeran,MT,pop
+531,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",MT,NULL
+532,Take Me To Church,78,Hozier,MT,indie
+533,Smile,0,"Abel The Kid, Julio Iglesias Jr.",MT,NULL
+534,When I Was Your Man,83,Bruno Mars,MT,pop
+535,G.U.Y. - An ARTPOP Film,0,Lady Gaga,MT,gaga
+536,Set Fire to the Rain,77,Adele,MT,soul
+537,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,MT,NULL
+538,Titanium (feat. Sia),77,"David Guetta, Sia",MT,NULL
+539,The Real Slim Shady - Edited,0,Eminem,MT,NULL
+540,Marry You,77,Bruno Mars,MT,pop
+541,好不好,0,Evan Yo,MT,fabulous boys
+542,Money Trees,79,"Kendrick Lamar, Jay Rock",MT,NULL
+543,Hardkor i disko,0,Sofa,MT,indie
+544,Grenade,77,Bruno Mars,MT,pop
+545,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",MT,NULL
+546,Love Me,80,"Lil Wayne, Drake, Future",MT,NULL
+547,Losing You,0,Revolver,MT,fip
+548,Someone Like You,77,Adele,MT,Adele
+549,Byłem (feat. As),0,"Pezet, As",MT,NULL
+550,Pame Stihima Tha Xanarthis,50,Pantelis Pantelidis,CY,NULL
+551,"Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",2,Modern Talking,CY,NULL
+552,Sweater Weather,85,The Neighbourhood,CY,indie
+553,Bede Z Toba,9,Lemon,CY,NULL
+554,I Wanna Be Yours,86,Arctic Monkeys,CY,indie rock
+555,Plastic Dreams 2003,2,JayDee,CY,NULL
+556,Paramithiazome,47,Pantelis Pantelidis,CY,NULL
+557,Bede Z Toba - Hangout Live,2,Lemon,CY,NULL
+558,Lioma Se Gremo,48,Pantelis Pantelidis,CY,NULL
+559,Ballada o Janku Wisniewskim,1,Kazik,CY,rock
+560,Another Love,82,Tom Odell,CY,indie
+561,"You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999",0,Modern Talking,CY,NULL
+562,Just the Way You Are,78,Bruno Mars,CY,pop
+563,Iré tras de ti,0,Mr.,CY,NULL
+564,Locked out of Heaven,85,Bruno Mars,CY,pop
+565,Il fait chaud,0,Patrick Sébastien,CY,fiesta
+566,She Will,75,"Lil Wayne, Drake",CY,NULL
+567,Now Is the Time (feat. Jasmine V),0,Wally Lopez,CY,NULL
+568,A Sky Full of Stars,83,Coldplay,CY,pop
+569,Lågsus (feat. Medina),0,"Specktors, Medina",CY,NULL
+570,Ginete,49,Pantelis Pantelidis,CY,world
+571,"Pani Da Rang (From ""Vicky Donor"") - Male Vocals",0,"Abhishek - Akshay, Ayushmann Khurrana",CY,NULL
+572,No Role Modelz,81,J. Cole,CY,MySpotigramBot
+573,"You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985",0,Modern Talking,CY,NULL
+574,Do I Wanna Know?,82,Arctic Monkeys,CY,indie rock
+575,25 ปี (มีหวัง),0,พงษ์สิทธิ์ คำภีร์,CY,NULL
+576,Money Trees,79,"Kendrick Lamar, Jay Rock",CY,NULL
+577,"Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986",0,Modern Talking,CY,NULL
+578,Den Teriazete Sou Leo,47,Pantelis Pantelidis,CY,NULL
+579,Fragile (Director's Cut),0,"Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan",CY,NULL
+580,Danza Kuduro,77,"Don Omar, Lucenzo",CY,NULL
+581,Smile,0,"Abel The Kid, Julio Iglesias Jr.",CY,NULL
+582,Gia Ton Idio Anthropo Milame,47,"Vasilis Karras, Pantelis Pantelidis",CY,NULL
+583,"Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986",0,Modern Talking,CY,NULL
+584,Iha Kapote Mia Agapi,47,Pantelis Pantelidis,CY,NULL
+585,G.U.Y. - An ARTPOP Film,0,Lady Gaga,CY,gaga
+586,Melagholia Mou,46,Nikos Oikonomopoulos,CY,NULL
+587,"Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985",0,Modern Talking,CY,NULL
+588,Love Me,80,"Lil Wayne, Drake, Future",CY,NULL
+589,The Real Slim Shady - Edited,0,Eminem,CY,NULL
+590,Perastika Tis,45,"Vasilis Karras, Foivos",CY,NULL
+591,好不好,0,Evan Yo,CY,fabulous boys
+592,Set Fire to the Rain,77,Adele,CY,soul
+593,Hardkor i disko,0,Sofa,CY,indie
+594,Give Me Everything (feat. Nayer),82,"Pitbull, AFROJACK, Ne-Yo, Nayer",CY,NULL
+595,Red Light (feat. Snoop Lion),0,"Eddie Murphy, Snoop Lion",CY,NULL
+596,No. 1 Party Anthem,84,Arctic Monkeys,CY,indie rock
+597,Losing You,0,Revolver,CY,fip
+598,Take Me To Church,78,Hozier,CY,indie
+599,Byłem (feat. As),0,"Pezet, As",CY,NULL
