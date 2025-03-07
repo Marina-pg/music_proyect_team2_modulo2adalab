@@ -17,7 +17,7 @@ rango_años VARCHAR(10)
  nombre_zona VARCHAR(25));
  
 CREATE TABLE paises(
-id_pais INT AUTO_INCREMENT PRIMARY KEY,
+id_pais VARCHAR(3) PRIMARY KEY,
 nombre_pais VARCHAR(50), 
 id_zona INT,
 CONSTRAINT fk_zona
@@ -26,7 +26,6 @@ CONSTRAINT fk_zona
 );
 
 
- 
 CREATE TABLE canciones(
 id_cancion INT AUTO_INCREMENT PRIMARY KEY,
 cancion VARCHAR(100),
