@@ -12,11 +12,21 @@ id_lustro INT AUTO_INCREMENT PRIMARY KEY,
 rango_años VARCHAR(10) 
 );
 
+ CREATE TABLE zonas (
+ id_zona INT AUTO_INCREMENT PRIMARY KEY,
+ nombre_zona VARCHAR(25));
+ 
 CREATE TABLE paises(
 id_pais INT AUTO_INCREMENT PRIMARY KEY,
-nombre_pais VARCHAR(50) 
+nombre_pais VARCHAR(50), 
+id_zona INT,
+CONSTRAINT fk_zona
+	FOREIGN KEY (id_zona)
+    REFERENCES zonas(id_zona) 
 );
 
+
+ 
 CREATE TABLE canciones(
 id_cancion INT AUTO_INCREMENT PRIMARY KEY,
 cancion VARCHAR(100),
