@@ -1,0 +1,496 @@
+id,nombre,popularity,artista,pais,genero
+0,Luk Mig Ind,61,Annika,DK,NULL
+1,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,DK,NULL
+2,SAMMEN,64,"Marstein, Annika",DK,NULL
+3,Hurt,12,OneRepublic,DK,NULL
+4,Die With A Smile,96,"Lady Gaga, Bruno Mars",DK,NULL
+5,Standard,6,"Einar, A36",DK,NULL
+6,Du ligner din mor,58,"Benjamin Hav, Lukas Graham",DK,NULL
+7,Passenger Princess,6,"Aminé, Smino",DK,NULL
+8,Tænker Ik På Andre (feat. URO),57,"Suspekt, URO",DK,NULL
+9,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",DK,NULL
+10,BIRDS OF A FEATHER,93,Billie Eilish,DK,alt-pop
+11,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,DK,NULL
+12,Smelter Under Månen,57,APHACA,DK,pop
+13,Circles,7,SAINt JHN,DK,NULL
+14,That’s So True,91,Gracie Abrams,DK,love at first listen
+15,Ghosts / Slowing Down,0,Scarlet House,DK,NULL
+16,Knuser Hjerter,57,Annika,DK,NULL
+17,Don't Play by the Rules,3,"D.T.E, PREZIOSO",DK,NULL
+18,Så længe jeg er sexy.,59,Annika,DK,pop
+19,Dead Flowers,0,Boldy James,DK,NULL
+20,Tro På Det,56,"Lamin, Ukendt Kunstner",DK,NULL
+21,TV - Live From Singapore’s Cloud Forest,3,Billie Eilish,DK,NULL
+22,Børn Af Natten (Hola Bonita),56,"Ankerstjerne, Daniel Schulz, Panamah",DK,NULL
+23,Last Night In Kingston,3,Konan,DK,NULL
+24,Reposado,56,"Benny Jamz, Gilli",DK,NULL
+25,Rodeo (Remix),9,"Lah Pat, Flo Milli",DK,NULL
+26,Not Like Us,92,Kendrick Lamar,DK,MySpotigramBot
+27,Postcards - Acoustic Version,1,Mackenzy Mackay,DK,NULL
+28,Hun,56,Annika,DK,NULL
+29,123 (feat. Yasin),2,"Cherrie, Yasin",DK,NULL
+30,Hvor Solen Ik' Skinner,55,"Mumle, Svea S",DK,NULL
+31,Little Window - Live Studio Session,3,FINNEAS,DK,NULL
+32,Hva Du På (feat. Gilli),55,"Lamin, Gilli",DK,NULL
+33,Family Feud - Live at The Ford,2,FINNEAS,DK,NULL
+34,Det Modsatte,55,Mumle,DK,NULL
+35,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",DK,NULL
+36,CLEOPATRA,54,D1MA,DK,NULL
+37,Tuck Your Chain,0,"Money Man, Danny Towers",DK,NULL
+38,Baglæns,54,Ella Augusta,DK,pop
+39,Swimming with Sharks,0,New Hope Club,DK,NULL
+40,MOLLY,54,Zuloo,DK,NULL
+41,EA2 (The Beginning of the Era),1,Lil Uzi Vert,DK,NULL
+42,To Gange,54,"KESI, Lamin",DK,NULL
+43,"J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda",3,"Johann Sebastian Bach, Carolin Widmann",DK,NULL
+44,2 Stepper Freestyle,54,"Anton Westerlin, Benny Jamz",DK,NULL
+45,Party Jumpin’,2,"Jamie Brown, Marshmello",DK,NULL
+46,tv off (feat. lefty gunplay),90,"Kendrick Lamar, Lefty Gunplay",DK,NULL
+47,ILMSY (MOVES),0,Rotimi,DK,NULL
+48,Elsker Dig Så Meget,54,Blæst,DK,pop
+49,I Ain't Sayin' - Performance,2,Jordan Davis,DK,NULL
+50,Espresso Macchiato,63,Tommy Cash,EE,electronic
+51,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,EE,NULL
+52,The Days - NOTION Remix,84,"Chrystal, NOTION",EE,NULL
+53,Circles,7,SAINt JHN,EE,NULL
+54,peagi saabun...,42,nublu,EE,NULL
+55,Hurt,12,OneRepublic,EE,NULL
+56,Die With A Smile,96,"Lady Gaga, Bruno Mars",EE,NULL
+57,Она любила музыку,0,"Dima Bilan, Nataliya Vlasova",EE,NULL
+58,külm,43,An-Marlen,EE,Eurovision Song Contest
+59,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",EE,NULL
+60,push it,42,"nublu, maria kallastu",EE,NULL
+61,Passenger Princess,6,"Aminé, Smino",EE,NULL
+62,BIRDS OF A FEATHER,93,Billie Eilish,EE,alt-pop
+63,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,EE,NULL
+64,Sailor Song,89,Gigi Perez,EE,indie folk
+65,Party Jumpin’,2,"Jamie Brown, Marshmello",EE,NULL
+66,Not Like Us,92,Kendrick Lamar,EE,MySpotigramBot
+67,FAKE - BRITs 2022 Rising Star Live Session,1,Lola Young,EE,NULL
+68,hr maakler,39,"triibupasta, White Girl",EE,NULL
+69,Postcards - Acoustic Version,1,Mackenzy Mackay,EE,NULL
+70,Clean Baby Sleep White Noise (Loopable),91,"Dream Supplier, Baby Sleeps, Background White Noise",EE,NULL
+71,EA2 (The Beginning of the Era),1,Lil Uzi Vert,EE,NULL
+72,That’s So True,91,Gracie Abrams,EE,love at first listen
+73,Rodeo (Remix),9,"Lah Pat, Flo Milli",EE,NULL
+74,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),80,"A$AP Rocky, Imogen Heap, Clams Casino",EE,NULL
+75,"Bach, JS: Violin Sonata No. 3 in C Major, BWV 1005: III. Largo",0,"Johann Sebastian Bach, Augustin Hadelich",EE,NULL
+76,Timeless (feat. Playboi Carti),87,"The Weeknd, Playboi Carti",EE,NULL
+77,Времена меняют пути,0,"ДжиАш, VITO",EE,NULL
+78,tv off (feat. lefty gunplay),90,"Kendrick Lamar, Lefty Gunplay",EE,NULL
+79,Vivien,1,††† (Crosses),EE,NULL
+80,6llekas,38,triibupasta,EE,NULL
+81,Family Feud - Live at The Ford,2,FINNEAS,EE,NULL
+82,Kisses (feat. bbyclose),79,"BL3SS, CamrinWatsin, bbyclose",EE,NULL
+83,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",EE,NULL
+84,Deep Phase Noise 1,84,Milli Hughes,EE,Sleep
+85,Little Window - Live Studio Session,3,FINNEAS,EE,NULL
+86,APT.,91,"ROSÉ, Bruno Mars",EE,NULL
+87,I Ain't Sayin' - Performance,2,Jordan Davis,EE,NULL
+88,WILDFLOWER,90,Billie Eilish,EE,edu e marco
+89,Мотыльки,0,"Glukoza, KYIVSTONER",EE,NULL
+90,NIGHTS LIKE THIS,82,The Kid LAROI,EE,calm
+91,123 (feat. Yasin),2,"Cherrie, Yasin",EE,NULL
+92,"Good Luck, Babe!",89,Chappell Roan,EE,synthpop
+93,Tuck Your Chain,0,"Money Man, Danny Towers",EE,NULL
+94,Under Your Spell,75,Snow Strippers,EE,electropop
+95,Babylon - Live,4,Tamino,EE,NULL
+96,heikki???,36,nublu,EE,NULL
+97,Swimming with Sharks,0,New Hope Club,EE,NULL
+98,I Adore You (feat. Daecolm),80,"HUGEL, Topic, Arash, Daecolm",EE,NULL
+99,RESPECT MY MOOD (Official Music Video),0,"DUSTY LOCANE, J Hound",EE,NULL
+100,Taikuri,59,Turisti,FI,NULL
+101,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,FI,NULL
+102,Clean Baby Sleep White Noise (Loopable),91,"Dream Supplier, Baby Sleeps, Background White Noise",FI,NULL
+103,Aina ikävä jonnekin (feat. Aki Tykki),0,"Danny, Aki Tykki",FI,NULL
+104,Diva,58,Averagekidluke,FI,NULL
+105,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",FI,NULL
+106,Anteeks,57,"william, Isac Elliot",FI,NULL
+107,Hurt,12,OneRepublic,FI,NULL
+108,Ne oli vääräs (feat. Turisti),56,"Sliki, Turisti",FI,NULL
+109,Standard,6,"Einar, A36",FI,NULL
+110,Marraskuu,56,ibe,FI,NULL
+111,Circles,7,SAINt JHN,FI,NULL
+112,Die With A Smile,96,"Lady Gaga, Bruno Mars",FI,NULL
+113,Passenger Princess,6,"Aminé, Smino",FI,NULL
+114,Sun luokse,54,"AHTI, Isac Elliot",FI,NULL
+115,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,FI,NULL
+116,Otan Kii,54,"Isac Elliot, Miriam Bryant",FI,NULL
+117,TV - Live From Singapore’s Cloud Forest,3,Billie Eilish,FI,NULL
+118,Ympyrää,53,"Isaac Sene, Turisti",FI,NULL
+119,I Ain't Sayin' - Performance,2,Jordan Davis,FI,NULL
+120,Miljoonii (feat. TUULI),53,"Karim B, TUULI",FI,NULL
+121,Rodeo (Remix),9,"Lah Pat, Flo Milli",FI,NULL
+122,Sailor Song,89,Gigi Perez,FI,indie folk
+123,"J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda",3,"Johann Sebastian Bach, Carolin Widmann",FI,NULL
+124,Trap Queen,53,Averagekidluke,FI,NULL
+125,123 (feat. Yasin),2,"Cherrie, Yasin",FI,NULL
+126,Vitun hyvin,53,"Averagekidluke, Turisti",FI,NULL
+127,Happier Than Ever - Live From Disney’s Happier Than Ever/A Love Letter to Los Angeles,3,Billie Eilish,FI,NULL
+128,Not Like Us,92,Kendrick Lamar,FI,MySpotigramBot
+129,Party Jumpin’,2,"Jamie Brown, Marshmello",FI,NULL
+130,Timanttei,53,Mirella,FI,finnish
+131,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",FI,NULL
+132,On / Off,52,Averagekidluke,FI,NULL
+133,EA2 (The Beginning of the Era),1,Lil Uzi Vert,FI,NULL
+134,Täs mä oon,52,Mirella,FI,NULL
+135,Un'estate normale,0,Nek,FI,NULL
+136,Sata shottii,52,Etta,FI,NULL
+137,Vivien,1,††† (Crosses),FI,NULL
+138,Vaisto (feat. Juuna Chill),52,"Costi, Juuna Chill",FI,NULL
+139,FAKE - BRITs 2022 Rising Star Live Session,1,Lola Young,FI,NULL
+140,That’s So True,91,Gracie Abrams,FI,love at first listen
+141,Don't Play by the Rules,3,"D.T.E, PREZIOSO",FI,NULL
+142,Sirkus,52,SHRTY,FI,NULL
+143,Das riecht gut / Ça Sent Bon,4,"Team Karacho, Roger Rekless",FI,NULL
+144,Dead Presidents,52,"Jore & Zpoppa, Turisti",FI,NULL
+145,Dead Flowers,0,Boldy James,FI,NULL
+146,Iha miten vaa,51,"Ares, Averagekidluke, Turisti",FI,NULL
+147,ILMSY (MOVES),0,Rotimi,FI,NULL
+148,Näihin hommiin ei synnytä,51,Portion Boys,FI,NULL
+149,Medicine Hat,0,Blackie and the Rodeo Kings,FI,NULL
+150,Elli Egils,43,Herra Hnetusmjör,IS,NULL
+151,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,IS,NULL
+152,Die With A Smile,96,"Lady Gaga, Bruno Mars",IS,NULL
+153,RESPECT MY MOOD (Official Music Video),0,"DUSTY LOCANE, J Hound",IS,NULL
+154,POPPSTIRNI,40,Aron Can,IS,NULL
+155,Party Jumpin’,2,"Jamie Brown, Marshmello",IS,NULL
+156,Pain & Pain,39,XIXTASS,IS,NULL
+157,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",IS,NULL
+158,BIRDS OF A FEATHER,93,Billie Eilish,IS,alt-pop
+159,Rodeo (Remix),9,"Lah Pat, Flo Milli",IS,NULL
+160,Not Like Us,92,Kendrick Lamar,IS,MySpotigramBot
+161,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,IS,NULL
+162,Vibrador,68,Engel Montaz,IS,NULL
+163,123 (feat. Yasin),2,"Cherrie, Yasin",IS,NULL
+164,Cupido,66,"Engel Montaz, Kuv507, Latinnites Music",IS,NULL
+165,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",IS,NULL
+166,Peaceful,38,ROYATO,IS,NULL
+167,Hurt,12,OneRepublic,IS,NULL
+168,Family Love,37,ROYATO,IS,NULL
+169,EA2 (The Beginning of the Era),1,Lil Uzi Vert,IS,NULL
+170,Tala minn skít,38,"Saint Pete, Herra Hnetusmjör",IS,NULL
+171,Circles,7,SAINt JHN,IS,NULL
+172,tv off (feat. lefty gunplay),90,"Kendrick Lamar, Lefty Gunplay",IS,NULL
+173,FAKE - BRITs 2022 Rising Star Live Session,1,Lola Young,IS,NULL
+174,Loneliness,37,XIXTASS,IS,NULL
+175,Redeemer,0,Karima,IS,NULL
+176,Gemmér Gemmér,37,ICEGUYS,IS,NULL
+177,04:30,7,"Haze, Mucco",IS,NULL
+178,Leikkona,37,ICEGUYS,IS,NULL
+179,Passenger Princess,6,"Aminé, Smino",IS,NULL
+180,luther (with sza),89,"Kendrick Lamar, SZA",IS,NULL
+181,Pasatiempo,4,"La China, ECKO",IS,NULL
+182,Deep Phase Noise 1,84,Milli Hughes,IS,Sleep
+183,Bank of Wildflowers (feat. Georgia),0,"William Orbit, Georgia",IS,NULL
+184,That’s So True,91,Gracie Abrams,IS,love at first listen
+185,Tuck Your Chain,0,"Money Man, Danny Towers",IS,NULL
+186,WILDFLOWER,90,Billie Eilish,IS,edu e marco
+187,"J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda",3,"Johann Sebastian Bach, Carolin Widmann",IS,NULL
+188,APT.,91,"ROSÉ, Bruno Mars",IS,NULL
+189,I Ain't Sayin' - Performance,2,Jordan Davis,IS,NULL
+190,Kikito,63,"Engel Montaz, Chimbala, Leo RD",IS,NULL
+191,Dead Flowers,0,Boldy James,IS,NULL
+192,MONNÍ,36,Aron Can,IS,NULL
+193,Little Window - Live Studio Session,3,FINNEAS,IS,NULL
+194,Draumaprins,36,ICEGUYS,IS,NULL
+195,DUMBAI,1,"CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso",IS,NULL
+196,"Good Luck, Babe!",89,Chappell Roan,IS,synthpop
+197,Family Feud - Live at The Ford,2,FINNEAS,IS,NULL
+198,Timeless (feat. Playboi Carti),87,"The Weeknd, Playboi Carti",IS,NULL
+199,Cono Hielo,1,"CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso",IS,NULL
+200,Clean Baby Sleep White Noise (Loopable),91,"Dream Supplier, Baby Sleeps, Background White Noise",IE,NULL
+201,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,IE,NULL
+202,That’s So True,91,Gracie Abrams,IE,love at first listen
+203,Hurt,12,OneRepublic,IE,NULL
+204,Sailor Song,89,Gigi Perez,IE,indie folk
+205,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,IE,NULL
+206,BIRDS OF A FEATHER,93,Billie Eilish,IE,alt-pop
+207,Passenger Princess,6,"Aminé, Smino",IE,NULL
+208,"Good Luck, Babe!",89,Chappell Roan,IE,synthpop
+209,Circles,7,SAINt JHN,IE,NULL
+210,Not Like Us,92,Kendrick Lamar,IE,MySpotigramBot
+211,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",IE,NULL
+212,Die With A Smile,96,"Lady Gaga, Bruno Mars",IE,NULL
+213,Little Window - Live Studio Session,3,FINNEAS,IE,NULL
+214,Messy,83,Lola Young,IE,indie rock
+215,Last Night In Kingston,3,Konan,IE,NULL
+216,"I Love You, I'm Sorry",84,Gracie Abrams,IE,peter
+217,Tuck Your Chain,0,"Money Man, Danny Towers",IE,NULL
+218,Taste,86,Sabrina Carpenter,IE,pop
+219,DUMBAI,1,"CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso",IE,NULL
+220,Pink Skies,80,Zach Bryan,IE,colors
+221,Rodeo (Remix),9,"Lah Pat, Flo Milli",IE,NULL
+222,The Days - NOTION Remix,84,"Chrystal, NOTION",IE,NULL
+223,I Ain't Sayin' - Performance,2,Jordan Davis,IE,NULL
+224,I Remember Everything (feat. Kacey Musgraves),81,"Zach Bryan, Kacey Musgraves",IE,NULL
+225,Postcards - Acoustic Version,1,Mackenzy Mackay,IE,NULL
+226,Stick Season,82,Noah Kahan,IE,indie
+227,Irish Girls (feat. Reggie),0,"SELLO, reggie",IE,NULL
+228,DENIAL IS A RIVER,88,Doechii,IE,Hip-Hop
+229,Aimer à moitié,2,Calema,IE,NULL
+230,tv off (feat. lefty gunplay),90,"Kendrick Lamar, Lefty Gunplay",IE,NULL
+231,Oublier,1,Rsko,IE,NULL
+232,APT.,91,"ROSÉ, Bruno Mars",IE,NULL
+233,Rid Of Me - Live,3,Still Woozy,IE,NULL
+234,Somedays,76,"Sonny Fodera, Jazzy, D.O.D",IE,NULL
+235,FAKE - BRITs 2022 Rising Star Live Session,1,Lola Young,IE,NULL
+236,Messy,86,Lola Young,IE,indie rock
+237,EA2 (The Beginning of the Era),1,Lil Uzi Vert,IE,NULL
+238,WILDFLOWER,90,Billie Eilish,IE,edu e marco
+239,Don't Play by the Rules,3,"D.T.E, PREZIOSO",IE,NULL
+240,Too Sweet,80,Hozier,IE,irish
+241,Party Jumpin’,2,"Jamie Brown, Marshmello",IE,NULL
+242,Bug,67,Fontaines D.C.,IE,indie rock
+243,Lindo Momento,21,Julliany Souza,IE,NULL
+244,Something in the Orange,79,Zach Bryan,IE,country
+245,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",IE,NULL
+246,Pink Pony Club,83,Chappell Roan,IE,pop
+247,"J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda",3,"Johann Sebastian Bach, Carolin Widmann",IE,NULL
+248,Bed Chem,83,Sabrina Carpenter,IE,pop
+249,Family Feud - Live at The Ford,2,FINNEAS,IE,NULL
+250,Vienas,48,Free Finga,LT,NULL
+251,Little Window - Live Studio Session,3,FINNEAS,LT,NULL
+252,Jeigu Žinai Ko Tu Nori,47,Adomas Vyšniauskas,LT,NULL
+253,Circles,7,SAINt JHN,LT,NULL
+254,1000 Vėtrų,47,Jessica Shy,LT,NULL
+255,Family Feud - Live at The Ford,2,FINNEAS,LT,NULL
+256,Die With A Smile,96,"Lady Gaga, Bruno Mars",LT,NULL
+257,Hurt,12,OneRepublic,LT,NULL
+258,BIRDS OF A FEATHER,93,Billie Eilish,LT,alt-pop
+259,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,LT,NULL
+260,Tarp Geltonų Rūtų,46,Jessica Shy,LT,NULL
+261,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",LT,NULL
+262,The Days - NOTION Remix,84,"Chrystal, NOTION",LT,NULL
+263,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,LT,NULL
+264,Not Like Us,92,Kendrick Lamar,LT,MySpotigramBot
+265,Vivien,1,††† (Crosses),LT,NULL
+266,Beržas (feat. Monika Liu),44,"Free Finga, Monika LIU",LT,NULL
+267,Она любила музыку,0,"Dima Bilan, Nataliya Vlasova",LT,NULL
+268,Sailor Song,89,Gigi Perez,LT,indie folk
+269,Standard,6,"Einar, A36",LT,NULL
+270,tv off (feat. lefty gunplay),90,"Kendrick Lamar, Lefty Gunplay",LT,NULL
+271,Passenger Princess,6,"Aminé, Smino",LT,NULL
+272,Žvaigždės,44,Jessica Shy,LT,NULL
+273,EA2 (The Beginning of the Era),1,Lil Uzi Vert,LT,NULL
+274,Vasarą galvoj minoras,45,Katarsis,LT,NULL
+275,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",LT,NULL
+276,Apkabink,44,Jessica Shy,LT,NULL
+277,Sharpener’s Calling Me Again (feat. Kina),0,"Cavetown, Kina",LT,NULL
+278,Timeless (feat. Playboi Carti),87,"The Weeknd, Playboi Carti",LT,NULL
+279,FAKE - BRITs 2022 Rising Star Live Session,1,Lola Young,LT,NULL
+280,WILDFLOWER,90,Billie Eilish,LT,edu e marco
+281,Rodeo (Remix),9,"Lah Pat, Flo Milli",LT,NULL
+282,Nepyk Ant Manęs,42,"Jessica Shy, Free Finga",LT,NULL
+283,Don't Play by the Rules,3,"D.T.E, PREZIOSO",LT,NULL
+284,Patogu,43,Evgenya Redko,LT,NULL
+285,Party Jumpin’,2,"Jamie Brown, Marshmello",LT,NULL
+286,"Good Luck, Babe!",89,Chappell Roan,LT,synthpop
+287,"J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda",3,"Johann Sebastian Bach, Carolin Widmann",LT,NULL
+288,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),80,"A$AP Rocky, Imogen Heap, Clams Casino",LT,NULL
+289,Riches Wii a Pree,0,"Teejay, Inner Circle",LT,NULL
+290,Saugok širdį,42,"Ruta MUR, Leon Somov",LT,NULL
+291,Rid Of Me - Live,3,Still Woozy,LT,NULL
+292,Lūpų Saldumo,42,"Gabrielius Vagelis, gintė",LT,NULL
+293,Babylon - Live,4,Tamino,LT,NULL
+294,CHIHIRO,85,Billie Eilish,LT,alt-pop
+295,Kreepin,0,"Jay Worthy, DJ.Fresh",LT,NULL
+296,Sapnas,42,Norbertas,LT,NULL
+297,Времена меняют пути,0,"ДжиАш, VITO",LT,NULL
+298,Aš Šalia,41,Šokoledas,LT,NULL
+299,04:30,7,"Haze, Mucco",LT,NULL
+300,The Days - NOTION Remix,84,"Chrystal, NOTION",LV,NULL
+301,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,LV,NULL
+302,Die With A Smile,96,"Lady Gaga, Bruno Mars",LV,NULL
+303,Hurt,12,OneRepublic,LV,NULL
+304,BIRDS OF A FEATHER,93,Billie Eilish,LV,alt-pop
+305,Circles,7,SAINt JHN,LV,NULL
+306,Sailor Song,89,Gigi Perez,LV,indie folk
+307,Passenger Princess,6,"Aminé, Smino",LV,NULL
+308,Not Like Us,92,Kendrick Lamar,LV,MySpotigramBot
+309,Party Jumpin’,2,"Jamie Brown, Marshmello",LV,NULL
+310,tv off (feat. lefty gunplay),90,"Kendrick Lamar, Lefty Gunplay",LV,NULL
+311,Она любила музыку,0,"Dima Bilan, Nataliya Vlasova",LV,NULL
+312,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),80,"A$AP Rocky, Imogen Heap, Clams Casino",LV,NULL
+313,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,LV,NULL
+314,Pasarg' dievs,40,"Wiesulis, sangvn",LV,NULL
+315,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",LV,NULL
+316,Timeless (feat. Playboi Carti),87,"The Weeknd, Playboi Carti",LV,NULL
+317,EA2 (The Beginning of the Era),1,Lil Uzi Vert,LV,NULL
+318,Itālija,40,"Wiesulis, sangvn",LV,NULL
+319,Don't Play by the Rules,3,"D.T.E, PREZIOSO",LV,NULL
+320,WILDFLOWER,90,Billie Eilish,LV,edu e marco
+321,Little Window - Live Studio Session,3,FINNEAS,LV,NULL
+322,Ko tā?,39,"Wiesulis, sangvn",LV,NULL
+323,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",LV,NULL
+324,Raķešu Zinātne,39,"Fiņķis, Patrisha",LV,NULL
+325,Vivien,1,††† (Crosses),LV,NULL
+326,APT.,91,"ROSÉ, Bruno Mars",LV,NULL
+327,Rodeo (Remix),9,"Lah Pat, Flo Milli",LV,NULL
+328,That’s So True,91,Gracie Abrams,LV,love at first listen
+329,Rid Of Me - Live,3,Still Woozy,LV,NULL
+330,"Good Luck, Babe!",89,Chappell Roan,LV,synthpop
+331,Elixir,1,Tommy Saint,LV,NULL
+332,NIGHTS LIKE THIS,82,The Kid LAROI,LV,calm
+333,Tuck Your Chain,0,"Money Man, Danny Towers",LV,NULL
+334,CHIHIRO,85,Billie Eilish,LV,alt-pop
+335,04:30,7,"Haze, Mucco",LV,NULL
+336,No Pole,83,Don Toliver,LV,MySpotigramBot
+337,BS Korob,0,Кисло-Сладкий & Bonah,LV,NULL
+338,Savā Joslā,38,"Wiesulis, sangvn",LV,NULL
+339,Riches Wii a Pree,0,"Teejay, Inner Circle",LV,NULL
+340,Messy,86,Lola Young,LV,indie rock
+341,Family Feud - Live at The Ford,2,FINNEAS,LV,NULL
+342,Vai ne,37,"Grēta, Wiesulis",LV,NULL
+343,Last Night In Kingston,3,Konan,LV,NULL
+344,DENIAL IS A RIVER,88,Doechii,LV,Hip-Hop
+345,Postcards - Acoustic Version,1,Mackenzy Mackay,LV,NULL
+346,Nārnija,38,"OLAS, Esmeralda, heywhosthatkid",LV,NULL
+347,Ghosts / Slowing Down,0,Scarlet House,LV,NULL
+348,не расслабляйся,60,Skryptonite,LV,NULL
+349,Bank of Wildflowers (feat. Georgia),0,"William Orbit, Georgia",LV,NULL
+350,Die With A Smile,96,"Lady Gaga, Bruno Mars",NO,NULL
+351,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,NO,NULL
+352,Fanga av ein stormvind,60,"Kjartan Lauritzen, Hver gang vi møtes",NO,NULL
+353,Standard,6,"Einar, A36",NO,NULL
+354,That’s So True,91,Gracie Abrams,NO,love at first listen
+355,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",NO,NULL
+356,SAMMEN,64,"Marstein, Annika",NO,NULL
+357,Hurt,12,OneRepublic,NO,NULL
+358,BIRDS OF A FEATHER,93,Billie Eilish,NO,alt-pop
+359,Circles,7,SAINt JHN,NO,NULL
+360,Sailor Song,89,Gigi Perez,NO,indie folk
+361,123 (feat. Yasin),2,"Cherrie, Yasin",NO,NULL
+362,APT.,91,"ROSÉ, Bruno Mars",NO,NULL
+363,PERSON I NÖDEN,0,ADAAM,NO,NULL
+364,Not Like Us,92,Kendrick Lamar,NO,MySpotigramBot
+365,Passenger Princess,6,"Aminé, Smino",NO,NULL
+366,APT.,87,"ROSÉ, Bruno Mars",NO,NULL
+367,I Ain't Sayin' - Performance,2,Jordan Davis,NO,NULL
+368,Messy,83,Lola Young,NO,indie rock
+369,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,NO,NULL
+370,Clean Baby Sleep White Noise (Loopable),91,"Dream Supplier, Baby Sleeps, Background White Noise",NO,NULL
+371,Don't Play by the Rules,3,"D.T.E, PREZIOSO",NO,NULL
+372,Indigo (feat. Avery Anna),81,"Sam Barber, Avery Anna",NO,NULL
+373,Rodeo (Remix),9,"Lah Pat, Flo Milli",NO,NULL
+374,WILDFLOWER,90,Billie Eilish,NO,edu e marco
+375,Last Night In Kingston,3,Konan,NO,NULL
+376,tv off (feat. lefty gunplay),90,"Kendrick Lamar, Lefty Gunplay",NO,NULL
+377,Little Window - Live Studio Session,3,FINNEAS,NO,NULL
+378,Sees Igjen,57,"Golfklubb, Dizzy, Philippe",NO,NULL
+379,Rid Of Me - Live,3,Still Woozy,NO,NULL
+380,"Good Luck, Babe!",89,Chappell Roan,NO,synthpop
+381,"J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda",3,"Johann Sebastian Bach, Carolin Widmann",NO,NULL
+382,Messy,86,Lola Young,NO,indie rock
+383,Delli (feat. Adel),0,"Ricky Rich, Adel",NO,NULL
+384,Lose Control,85,Teddy Swims,NO,soul
+385,The Crash,0,Jordana Bryant,NO,NULL
+386,Weathervane,70,Hunter Metts,NO,NULL
+387,Party Jumpin’,2,"Jamie Brown, Marshmello",NO,NULL
+388,The Sound of Silence - CYRIL Remix,78,"Disturbed, CYRIL",NO,NULL
+389,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",NO,NULL
+390,Medusa,75,Cameron Whitcomb,NO,NULL
+391,หากันจนเจอ (ซนซน 40 ปี GMM GRAMMY),0,"พลพล, Punch",NO,NULL
+392,Taste,86,Sabrina Carpenter,NO,pop
+393,Aimer à moitié,2,Calema,NO,NULL
+394,"I Love You, I'm Sorry",84,Gracie Abrams,NO,peter
+395,Dead Flowers,0,Boldy James,NO,NULL
+396,Beautiful Things,85,Benson Boone,NO,pop
+397,Postcards - Acoustic Version,1,Mackenzy Mackay,NO,NULL
+398,Timeless (feat. Playboi Carti),87,"The Weeknd, Playboi Carti",NO,NULL
+399,Peder Elias/吴宇恒《First Flight》Special Video,0,"Peder Elias, 吴宇恒",NO,NULL
+400,Djurens vaggvisa,68,"Humlan Djojj, Josefine Götestam",SE,NULL
+401,Standard,6,"Einar, A36",SE,NULL
+402,Clean Baby Sleep White Noise (Loopable),91,"Dream Supplier, Baby Sleeps, Background White Noise",SE,NULL
+403,123 (feat. Yasin),2,"Cherrie, Yasin",SE,NULL
+404,APT.,87,"ROSÉ, Bruno Mars",SE,NULL
+405,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,SE,NULL
+406,Die With A Smile,96,"Lady Gaga, Bruno Mars",SE,NULL
+407,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",SE,NULL
+408,Längesen,62,Bolaget,SE,NULL
+409,Hurt,12,OneRepublic,SE,NULL
+410,That’s So True,91,Gracie Abrams,SE,love at first listen
+411,Somna,61,"Humlan Djojj, Josefine Götestam",SE,NULL
+412,PERSON I NÖDEN,0,ADAAM,SE,NULL
+413,Lost and found,62,"Molly Sandén, Victor Leksell",SE,NULL
+414,Circles,7,SAINt JHN,SE,NULL
+415,BIRDS OF A FEATHER,93,Billie Eilish,SE,alt-pop
+416,Delli (feat. Adel),0,"Ricky Rich, Adel",SE,NULL
+417,Soft white noise for your baby - for looping,60,BabyNaps,SE,NULL
+418,Not Like Us,92,Kendrick Lamar,SE,MySpotigramBot
+419,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,SE,NULL
+420,Babblarnas vaggvisa,60,Babblarna,SE,NULL
+421,David Carreira - Haverá Sempre uma Música / Baby Fica - Live at Altice Arena,0,David Carreira,SE,NULL
+422,Lose Control,85,Teddy Swims,SE,soul
+423,I Ain't Sayin' - Performance,2,Jordan Davis,SE,NULL
+424,Stjärnorna,59,"Humlan Djojj, Josefine Götestam",SE,NULL
+425,The Side,0,"Rod D, Ed Dolo, Shown 1K, Livesosa",SE,NULL
+426,Nu säger vi godnatt,59,"Humlan Djojj, Josefine Götestam",SE,NULL
+427,Rodeo (Remix),9,"Lah Pat, Flo Milli",SE,NULL
+428,Loud Noise Sound,76,Misa Bee,SE,NULL
+429,Passenger Princess,6,"Aminé, Smino",SE,NULL
+430,Deep Phase Noise 1,84,Milli Hughes,SE,Sleep
+431,Solo - Acoustic,0,Matteo Bocelli,SE,NULL
+432,Sailor Song,89,Gigi Perez,SE,indie folk
+433,TV - Live From Singapore’s Cloud Forest,3,Billie Eilish,SE,NULL
+434,Försent,60,"Hov1, Seinabo Sey",SE,NULL
+435,Party Jumpin’,2,"Jamie Brown, Marshmello",SE,NULL
+436,Beautiful Things,85,Benson Boone,SE,pop
+437,Delli (feat. Adel) - Crib Session,0,"Ricky Rich, Adel",SE,NULL
+438,Viva La Vida,61,Soppgirobygget,SE,NULL
+439,"J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda",3,"Johann Sebastian Bach, Carolin Widmann",SE,NULL
+440,Babblarnas vaggvisa,58,Vintergatan,SE,NULL
+441,Don't Play by the Rules,3,"D.T.E, PREZIOSO",SE,NULL
+442,Cecilia Lind,60,Yasin,SE,NULL
+443,Happier Than Ever - Live From Disney’s Happier Than Ever/A Love Letter to Los Angeles,3,Billie Eilish,SE,NULL
+444,Godnattvisan,58,"Humlan Djojj, Josefine Götestam",SE,NULL
+445,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",SE,NULL
+446,Kan Inte Gå,58,Bolaget,SE,party
+447,หายใจแล้วไปต่อ,0,"Labanoon, Num KALA",SE,NULL
+448,Clean Baby Sleep White Noise (Loopable),91,"Dream Supplier, Baby Sleeps, Background White Noise",GB,NULL
+449,That’s So True - Live From Radio City Music Hall,20,Gracie Abrams,GB,NULL
+450,That’s So True,91,Gracie Abrams,GB,love at first listen
+451,Last Night In Kingston,3,Konan,GB,NULL
+452,Die With A Smile,96,"Lady Gaga, Bruno Mars",GB,NULL
+453,Risk - Live From The Tonight Show With Jimmy Fallon,8,Gracie Abrams,GB,NULL
+454,Sailor Song,89,Gigi Perez,GB,indie folk
+455,Rodeo (Remix),9,"Lah Pat, Flo Milli",GB,NULL
+456,BIRDS OF A FEATHER,93,Billie Eilish,GB,alt-pop
+457,Hurt,12,OneRepublic,GB,NULL
+458,Not Like Us,92,Kendrick Lamar,GB,MySpotigramBot
+459,Passenger Princess,6,"Aminé, Smino",GB,NULL
+460,"Good Luck, Babe!",89,Chappell Roan,GB,synthpop
+461,Circles,7,SAINt JHN,GB,NULL
+462,The Days - NOTION Remix,84,"Chrystal, NOTION",GB,NULL
+463,I Ain't Sayin' - Performance,2,Jordan Davis,GB,NULL
+464,Messy,83,Lola Young,GB,indie rock
+465,Taste,86,Sabrina Carpenter,GB,pop
+466,Rid Of Me - Live,3,Still Woozy,GB,NULL
+467,DENIAL IS A RIVER,88,Doechii,GB,Hip-Hop
+468,TV - Live From Singapore’s Cloud Forest,3,Billie Eilish,GB,NULL
+469,APT.,91,"ROSÉ, Bruno Mars",GB,NULL
+470,tv off (feat. lefty gunplay),90,"Kendrick Lamar, Lefty Gunplay",GB,NULL
+471,Little Window - Live Studio Session,3,FINNEAS,GB,NULL
+472,WILDFLOWER,90,Billie Eilish,GB,edu e marco
+473,Playa (feat. Ella Bands),0,"A Boogie Wit da Hoodie, Ella Bands",GB,NULL
+474,Deep Phase Noise 1,84,Milli Hughes,GB,Sleep
+475,Elixir,1,Tommy Saint,GB,NULL
+476,Stick Season,82,Noah Kahan,GB,indie
+477,Happier Than Ever - Live From Disney’s Happier Than Ever/A Love Letter to Los Angeles,3,Billie Eilish,GB,NULL
+478,"I Love You, I'm Sorry",84,Gracie Abrams,GB,peter
+479,FAKE - BRITs 2022 Rising Star Live Session,1,Lola Young,GB,NULL
+480,Messy,86,Lola Young,GB,indie rock
+481,All We Got (feat. KIDDO),14,"Robin Schulz, KIDDO",GB,NULL
+482,Stargazing,82,Myles Smith,GB,black metal
+483,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",3,"Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra",GB,NULL
+484,Pink Pony Club,83,Chappell Roan,GB,pop
+485,Don't Play by the Rules,3,"D.T.E, PREZIOSO",GB,NULL
+486,Lose Control,85,Teddy Swims,GB,soul
+487,Somedays,76,"Sonny Fodera, Jazzy, D.O.D",GB,NULL
+488,Vivien,1,††† (Crosses),GB,NULL
+489,Bed Chem,83,Sabrina Carpenter,GB,pop
+490,Made Rich,0,YoungBoy Never Broke Again,GB,NULL
+491,The Door,82,Teddy Swims,GB,pop
+492,Family Feud - Live at The Ford,2,FINNEAS,GB,NULL
+493,Like Him (feat. Lola Young),86,"Tyler, The Creator, Lola Young",GB,NULL
+494,Sinner - Live Performance,0,The Last Dinner Party,GB,NULL

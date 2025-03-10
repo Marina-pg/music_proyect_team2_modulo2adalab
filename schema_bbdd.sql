@@ -4,7 +4,7 @@ USE MusicStream;
 
 CREATE TABLE artistas (
 id_artista INT AUTO_INCREMENT PRIMARY KEY,
-nombre_artista VARCHAR(255)
+nombre_artista VARCHAR(255) UNIQUE
 );
 
 CREATE TABLE años(
@@ -32,13 +32,17 @@ cancion VARCHAR(100),
 genero VARCHAR(50),
 popularidad INT, 
 id_lustro INT,
-id_pais INT, 
+id_pais VARCHAR(3), 
 CONSTRAINT `fk_canciones_año`
               FOREIGN KEY (id_lustro)
-              REFERENCES años(id_lustro),
+              REFERENCES años(id_lustro)
+              ON DELETE CASCADE
+			  ON UPDATE CASCADE,
 CONSTRAINT `fk_canciones_pais`
               FOREIGN KEY (id_pais)
               REFERENCES paises(id_pais)
+              ON DELETE CASCADE
+			  ON UPDATE CASCADE
 );
 
 CREATE TABLE artista_en_cancion(
@@ -47,8 +51,12 @@ id_cancion INT,
 PRIMARY KEY (id_artista, id_cancion),
 CONSTRAINT `fk_artista_cancion` 
 	FOREIGN KEY (id_artista)
-	REFERENCES artistas(id_artista),
+	REFERENCES artistas(id_artista)
+			  ON DELETE CASCADE
+			  ON UPDATE CASCADE,
 CONSTRAINT `fk_cancion_artista` 
 	FOREIGN KEY (id_cancion)
 	REFERENCES canciones(id_cancion)
+			  ON DELETE CASCADE
+			  ON UPDATE CASCADE
 );

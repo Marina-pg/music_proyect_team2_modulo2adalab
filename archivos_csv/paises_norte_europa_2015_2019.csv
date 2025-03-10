@@ -1,0 +1,501 @@
+id,nombre,popularity,artista,pais,genero
+0,All The Stars (with SZA),90,"Kendrick Lamar, SZA",DK,NULL
+1,Skrrt,7,"K27, Einar",DK,NULL
+2,Knokler Hårdt,50,Gilli,DK,electronic
+3,Full Automatic (feat. Diego),0,"Sleiman, Diego",DK,NULL
+4,Hurtige Hænder - Acoustic Version - Moyo Live P3,50,The Minds Of 99,DK,NULL
+5,Enamorado,2,Alexander Stewart,DK,pop
+6,The Night We Met,84,Lord Huron,DK,indie
+7,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,DK,NULL
+8,Pink + White,82,Frank Ocean,DK,NULL
+9,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,DK,NULL
+10,"White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",72,White Noise Baby Sleep,DK,Sleep
+11,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",DK,NULL
+12,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",DK,NULL
+13,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,DK,NULL
+14,Alle Skuffer Over Tid - Single Edit,47,The Minds Of 99,DK,NULL
+15,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",DK,NULL
+16,Lush Life,77,Zara Larsson,DK,pop
+17,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,DK,NULL
+18,HUMBLE.,84,Kendrick Lamar,DK,rap
+19,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,DK,NULL
+20,7 Years,46,Lukas Graham,DK,Worst Song Ever
+21,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",DK,NULL
+22,White Ferrari,81,Frank Ocean,DK,singer-songwriter
+23,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,DK,NULL
+24,Når Du Går Herfra (Nattely),46,Pil,DK,NULL
+25,Disciplin (feat. Keya),0,"Elias Abbas, Keya",DK,NULL
+26,Perfect,83,Ed Sheeran,DK,Ballad
+27,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",DK,NULL
+28,Tidligt Op,47,Gilli,DK,rap
+29,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,DK,NULL
+30,Love On The Brain,80,Rihanna,DK,soul
+31,Killing Me,0,Black Rain,DK,NULL
+32,lovely (with Khalid),82,"Billie Eilish, Khalid",DK,NULL
+33,All I've Ever Known,0,"Grace Hodgett Young, Dónal Finn",DK,NULL
+34,Ung Kniv,46,The Minds Of 99,DK,rock
+35,Die Heelal (feat. Early B),0,"Janie Bay, Early B",DK,NULL
+36,when the party's over,80,Billie Eilish,DK,pop
+37,Did You Love Me,0,Shannon & the Clams,DK,NULL
+38,Someone You Loved,81,Lewis Capaldi,DK,2010s
+39,Downtown,16,"Anitta, J Balvin",DK,NULL
+40,Ivy,79,Frank Ocean,DK,MySpotigramBot
+41,Matador (feat. Tommy),1,"CAPO, Tommy",DK,NULL
+42,Love Someone,55,Lukas Graham,DK,pop
+43,Milion słów,1,Jula,DK,polish
+44,When We Were Young,74,Adele,DK,soul
+45,Дождь (feat. МакSим),1,"Geegun, MAKSIM",DK,NULL
+46,Love Yourself,79,Justin Bieber,DK,pop
+47,"Ee Khalbitha (From ""IDI"")",0,"Rahul Raj, Suchith Sureshan",DK,NULL
+48,Bruises,74,Lewis Capaldi,DK,2010s
+49,Stretch,0,Louise,DK,great quality stuff
+50,All The Stars (with SZA),90,"Kendrick Lamar, SZA",EE,NULL
+51,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",EE,NULL
+52,Lämmi,38,Küberünnak & Karmo,EE,NULL
+53,Дождь (feat. МакSим),1,"Geegun, MAKSIM",EE,NULL
+54,Aluspükse,36,"5MIINUST, nublu",EE,NULL
+55,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",EE,NULL
+56,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",EE,NULL
+57,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,EE,NULL
+58,Cigarettes out the Window,80,TV Girl,EE,indie pop
+59,Stretch,0,Louise,EE,great quality stuff
+60,Sundress,78,A$AP Rocky,EE,MySpotigramBot
+61,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",EE,NULL
+62,The Night We Met,84,Lord Huron,EE,indie
+63,Enamorado,2,Alexander Stewart,EE,pop
+64,Erootika Pood,34,5MIINUST,EE,NULL
+65,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,EE,NULL
+66,I Got Love,63,"MiyaGi & Endspiel, Rem Digga",EE,NULL
+67,REASON,0,SYU(from GALNERYUS),EE,NULL
+68,White Ferrari,81,Frank Ocean,EE,singer-songwriter
+69,Downtown,16,"Anitta, J Balvin",EE,NULL
+70,Softcore,81,The Neighbourhood,EE,alternative
+71,Skrrt,7,"K27, Einar",EE,NULL
+72,Solo,78,Future,EE,MySpotigramBot
+73,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",EE,NULL
+74,Not Allowed,80,TV Girl,EE,indie pop
+75,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,EE,NULL
+76,HUMBLE.,84,Kendrick Lamar,EE,rap
+77,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,EE,NULL
+78,PRIDE.,80,Kendrick Lamar,EE,MySpotigramBot
+79,Matador (feat. Tommy),1,"CAPO, Tommy",EE,NULL
+80,Low Life (feat. The Weeknd),79,"Future, The Weeknd",EE,NULL
+81,Milion słów,1,Jula,EE,polish
+82,Swim,83,Chase Atlantic,EE,seen live
+83,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,EE,NULL
+84,Daddy Issues,80,The Neighbourhood,EE,MySpotigramBot
+85,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,EE,NULL
+86,Pink + White,82,Frank Ocean,EE,NULL
+87,"Ee Khalbitha (From ""IDI"")",0,"Rahul Raj, Suchith Sureshan",EE,NULL
+88,Paaristõuked,32,"5MIINUST, villemdrillem",EE,NULL
+89,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,EE,NULL
+90,Starboy,84,"The Weeknd, Daft Punk",EE,NULL
+91,Die Heelal (feat. Early B),0,"Janie Bay, Early B",EE,NULL
+92,Falling Down - Bonus Track,79,"Lil Peep, XXXTENTACION",EE,NULL
+93,Sirenen,0,Tommy,EE,NULL
+94,Revenge,79,XXXTENTACION,EE,alternative rock
+95,言葉のいらない約束,0,sana,EE,J-rock
+96,Unforgettable,80,"French Montana, Swae Lee",EE,NULL
+97,Do It Like You Mean It (feat. Yoel 905),0,"Frans, Yoel905",EE,NULL
+98,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",75,"A$AP Rocky, Rod Stewart, Miguel, Mark Ronson",EE,NULL
+99,Pakete,0,Tommy,EE,NULL
+100,All The Stars (with SZA),90,"Kendrick Lamar, SZA",FI,NULL
+101,Skrrt,7,"K27, Einar",FI,NULL
+102,The Night We Met,84,Lord Huron,FI,indie
+103,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",FI,NULL
+104,Clean White Noise - Loopable with no fade,71,"White Noise Baby Sleep, White Noise for Babies",FI,NULL
+105,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",FI,NULL
+106,Valo pimeän,45,Pyhimys,FI,2010s
+107,SUURI,0,Laineen Kasperi,FI,NULL
+108,Ikuinen vappu,45,JVG,FI,Suomirap
+109,Enamorado,2,Alexander Stewart,FI,pop
+110,Deutschland,71,Rammstein,FI,industrial metal
+111,Do It Like You Mean It (feat. Yoel 905),0,"Frans, Yoel905",FI,NULL
+112,Silmät,44,Gettomasa,FI,rap
+113,REASON,0,SYU(from GALNERYUS),FI,NULL
+114,HUMBLE.,84,Kendrick Lamar,FI,rap
+115,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,FI,NULL
+116,Softcore,81,The Neighbourhood,FI,alternative
+117,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",FI,NULL
+118,Falling Down - Bonus Track,79,"Lil Peep, XXXTENTACION",FI,NULL
+119,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,FI,NULL
+120,Starboy,84,"The Weeknd, Daft Punk",FI,NULL
+121,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,FI,NULL
+122,Low Life (feat. The Weeknd),79,"Future, The Weeknd",FI,NULL
+123,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",FI,NULL
+124,lovely (with Khalid),82,"Billie Eilish, Khalid",FI,NULL
+125,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,FI,NULL
+126,Cigarettes out the Window,80,TV Girl,FI,indie pop
+127,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,FI,NULL
+128,Daddy Issues,80,The Neighbourhood,FI,MySpotigramBot
+129,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,FI,NULL
+130,Lush Life,77,Zara Larsson,FI,pop
+131,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,FI,NULL
+132,ocean eyes,79,Billie Eilish,FI,indie
+133,言葉のいらない約束,0,sana,FI,J-rock
+134,Always Remember Us This Way,79,Lady Gaga,FI,Love
+135,Milion słów,1,Jula,FI,polish
+136,everything i wanted,79,Billie Eilish,FI,indie pop
+137,Дождь (feat. МакSим),1,"Geegun, MAKSIM",FI,NULL
+138,Without You (feat. Sandro Cavazza),76,"Avicii, Sandro Cavazza",FI,NULL
+139,Downtown,16,"Anitta, J Balvin",FI,NULL
+140,Ransom,81,Lil Tecca,FI,2010s
+141,Matador (feat. Tommy),1,"CAPO, Tommy",FI,NULL
+142,Swim,83,Chase Atlantic,FI,seen live
+143,"Ee Khalbitha (From ""IDI"")",0,"Rahul Raj, Suchith Sureshan",FI,NULL
+144,when the party's over,80,Billie Eilish,FI,pop
+145,Stretch,0,Louise,FI,great quality stuff
+146,Lucid Dreams,80,Juice WRLD,FI,MySpotigramBot
+147,Die Heelal (feat. Early B),0,"Janie Bay, Early B",FI,NULL
+148,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",FI,NULL
+149,Sirenen,0,Tommy,FI,NULL
+150,All The Stars (with SZA),90,"Kendrick Lamar, SZA",IS,NULL
+151,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",IS,NULL
+152,"White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",72,White Noise Baby Sleep,IS,Sleep
+153,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",IS,NULL
+154,Pure White Noise Only (Non Stop Loop),56,White Noise Baby Sleep Music,IS,NULL
+155,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,IS,NULL
+156,The Night We Met,84,Lord Huron,IS,indie
+157,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,IS,NULL
+158,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",IS,NULL
+159,Skrrt,7,"K27, Einar",IS,NULL
+160,Pink + White,82,Frank Ocean,IS,NULL
+161,Milion słów,1,Jula,IS,polish
+162,White Ferrari,81,Frank Ocean,IS,singer-songwriter
+163,Do It Like You Mean It (feat. Yoel 905),0,"Frans, Yoel905",IS,NULL
+164,Já ég veit,33,"Birnir, Herra Hnetusmjör",IS,NULL
+165,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",IS,NULL
+166,HUMBLE.,84,Kendrick Lamar,IS,rap
+167,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,IS,NULL
+168,Vangaveltur,32,Herra Hnetusmjör,IS,NULL
+169,Enamorado,2,Alexander Stewart,IS,pop
+170,Ivy,79,Frank Ocean,IS,MySpotigramBot
+171,Downtown,16,"Anitta, J Balvin",IS,NULL
+172,Út í geim,31,Birnir,IS,NULL
+173,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,IS,NULL
+174,LSMLÍ (lífið sem mig langar í),31,Hipsumhaps,IS,NULL
+175,Matador (feat. Tommy),1,"CAPO, Tommy",IS,NULL
+176,Violent Crimes,78,Kanye West,IS,MySpotigramBot
+177,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,IS,NULL
+178,Way Down We Go,30,KALEO,IS,2016
+179,Дождь (feat. МакSим),1,"Geegun, MAKSIM",IS,NULL
+180,Feimin(n),31,"BRÍET, palmi., Aron Can",IS,NULL
+181,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,IS,NULL
+182,Love On The Brain,80,Rihanna,IS,soul
+183,"Ee Khalbitha (From ""IDI"")",0,"Rahul Raj, Suchith Sureshan",IS,NULL
+184,Í síðasta skipti,31,Friðrik Dór,IS,iceland
+185,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",IS,NULL
+186,Sundress,78,A$AP Rocky,IS,MySpotigramBot
+187,Stretch,0,Louise,IS,great quality stuff
+188,Upp Til Hópa,31,"Herra Hnetusmjör, Ingi Bauer",IS,NULL
+189,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,IS,NULL
+190,Þráhyggja,31,"JóiPé, Króli",IS,NULL
+191,Die Heelal (feat. Early B),0,"Janie Bay, Early B",IS,NULL
+192,Hata að hafa þig ekki hér - SAMSUNG SESSJÓN,31,"Friðrik Dór, BRÍET",IS,NULL
+193,Sirenen,0,Tommy,IS,NULL
+194,Silfurskotta,30,"Emmsjé Gauti, Aron Can",IS,NULL
+195,言葉のいらない約束,0,sana,IS,J-rock
+196,Falskar ástir,30,Floni,IS,NULL
+197,Pakete,0,Tommy,IS,NULL
+198,Tennessee Whiskey,78,Chris Stapleton,IS,country
+199,Stronger Together,0,"Paul van Dyk, Pierre Pienaar",IS,NULL
+200,All The Stars (with SZA),90,"Kendrick Lamar, SZA",IE,NULL
+201,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",IE,NULL
+202,The Night We Met,84,Lord Huron,IE,indie
+203,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",IE,NULL
+204,Heading South,78,Zach Bryan,IE,NULL
+205,Enamorado,2,Alexander Stewart,IE,pop
+206,H.O.O.D,61,KNEECAP,IE,Hip-Hop
+207,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,IE,NULL
+208,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",IE,NULL
+209,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,IE,NULL
+210,"White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",72,White Noise Baby Sleep,IE,Sleep
+211,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,IE,NULL
+212,Cruel Summer,84,Taylor Swift,IE,electropop
+213,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,IE,NULL
+214,Brazil,76,Declan McKenna,IE,indie
+215,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,IE,NULL
+216,HUMBLE.,84,Kendrick Lamar,IE,rap
+217,Hate to Love (feat. Jamie T),0,"Beatsteaks, Jamie T",IE,NULL
+218,White Ferrari,81,Frank Ocean,IE,singer-songwriter
+219,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,IE,NULL
+220,Get Your Brits Out,57,KNEECAP,IE,NULL
+221,In Betweenin',0,Austin Brown,IE,NULL
+222,Something Just Like This,83,"The Chainsmokers, Coldplay",IE,NULL
+223,All I've Ever Known,0,"Grace Hodgett Young, Dónal Finn",IE,NULL
+224,Evergreen,78,Richy Mitch & The Coal Miners,IE,NULL
+225,言葉のいらない約束,0,sana,IE,J-rock
+226,Pink + White,82,Frank Ocean,IE,NULL
+227,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",IE,NULL
+228,When It Rains It Pours,78,Luke Combs,IE,country
+229,Matador (feat. Tommy),1,"CAPO, Tommy",IE,NULL
+230,Tennessee Whiskey,78,Chris Stapleton,IE,country
+231,"Ee Khalbitha (From ""IDI"")",0,"Rahul Raj, Suchith Sureshan",IE,NULL
+232,Cearta,54,KNEECAP,IE,NULL
+233,Pictures of You,0,Sonny Smith,IE,fip
+234,Lush Life,77,Zara Larsson,IE,pop
+235,Movement,0,Hozier,IE,soul
+236,Someone You Loved,81,Lewis Capaldi,IE,2010s
+237,Дождь (feat. МакSим),1,"Geegun, MAKSIM",IE,NULL
+238,This Town,74,Niall Horan,IE,folk
+239,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,IE,NULL
+240,Always Remember Us This Way,79,Lady Gaga,IE,Love
+241,Downtown,16,"Anitta, J Balvin",IE,NULL
+242,Shallow,79,"Lady Gaga, Bradley Cooper",IE,NULL
+243,Skrrt,7,"K27, Einar",IE,NULL
+244,when the party's over,80,Billie Eilish,IE,pop
+245,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",IE,NULL
+246,Sundress,78,A$AP Rocky,IE,MySpotigramBot
+247,Milion słów,1,Jula,IE,polish
+248,The Less I Know The Better,80,Tame Impala,IE,psychedelic
+249,Stretch,0,Louise,IE,great quality stuff
+250,All The Stars (with SZA),90,"Kendrick Lamar, SZA",LT,NULL
+251,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",LT,NULL
+252,Kitoks Pasaulis,43,FOJE,LT,lithuanian
+253,Дождь (feat. МакSим),1,"Geegun, MAKSIM",LT,NULL
+254,Vaikystės Stogas,41,FOJE,LT,rock
+255,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,LT,NULL
+256,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",LT,NULL
+257,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,LT,NULL
+258,Cigarettes out the Window,80,TV Girl,LT,indie pop
+259,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,LT,NULL
+260,Sundress,78,A$AP Rocky,LT,MySpotigramBot
+261,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,LT,NULL
+262,PRIDE.,80,Kendrick Lamar,LT,MySpotigramBot
+263,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,LT,NULL
+264,HUMBLE.,84,Kendrick Lamar,LT,rap
+265,In Betweenin',0,Austin Brown,LT,NULL
+266,Softcore,81,The Neighbourhood,LT,alternative
+267,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",LT,NULL
+268,Kitoks Pasaulis (2017),37,Andrius Mamontovas,LT,NULL
+269,Enamorado,2,Alexander Stewart,LT,pop
+270,Not Allowed,80,TV Girl,LT,indie pop
+271,Skrrt,7,"K27, Einar",LT,NULL
+272,Myliu,37,Vaidas Baumila,LT,NULL
+273,Tabarnak,0,Volo,LT,NULL
+274,Pink + White,82,Frank Ocean,LT,NULL
+275,Did You Love Me,0,Shannon & the Clams,LT,NULL
+276,Daddy Issues,80,The Neighbourhood,LT,MySpotigramBot
+277,Downtown,16,"Anitta, J Balvin",LT,NULL
+278,I Got Love,63,"MiyaGi & Endspiel, Rem Digga",LT,NULL
+279,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",LT,NULL
+280,White Ferrari,81,Frank Ocean,LT,singer-songwriter
+281,Matador (feat. Tommy),1,"CAPO, Tommy",LT,NULL
+282,Stadionai,37,"Jessica Shy, Rokas",LT,NULL
+283,Milion słów,1,Jula,LT,polish
+284,Low Life (feat. The Weeknd),79,"Future, The Weeknd",LT,NULL
+285,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,LT,NULL
+286,The Night We Met,84,Lord Huron,LT,indie
+287,"Ee Khalbitha (From ""IDI"")",0,"Rahul Raj, Suchith Sureshan",LT,NULL
+288,Solo,78,Future,LT,MySpotigramBot
+289,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",LT,NULL
+290,Swim,83,Chase Atlantic,LT,seen live
+291,Stretch,0,Louise,LT,great quality stuff
+292,Starboy,84,"The Weeknd, Daft Punk",LT,NULL
+293,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,LT,NULL
+294,Люби меня,62,"MiyaGi & Endspiel, Sимптом",LT,NULL
+295,Die Heelal (feat. Early B),0,"Janie Bay, Early B",LT,NULL
+296,Kino filmai 2015,36,"Biplan, Agnė Ditkovskytė",LT,NULL
+297,Sirenen,0,Tommy,LT,NULL
+298,Медуза,58,MATRANG,LT,dance
+299,言葉のいらない約束,0,sana,LT,J-rock
+300,All The Stars (with SZA),90,"Kendrick Lamar, SZA",LV,NULL
+301,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",LV,NULL
+302,Sundress,78,A$AP Rocky,LV,MySpotigramBot
+303,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",LV,NULL
+304,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",LV,NULL
+305,Дождь (feat. МакSим),1,"Geegun, MAKSIM",LV,NULL
+306,The Night We Met,84,Lord Huron,LV,indie
+307,Did You Love Me,0,Shannon & the Clams,LV,NULL
+308,Vēlvienreiz,37,Sudrabu Sirds,LV,NULL
+309,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",LV,NULL
+310,Cigarettes out the Window,80,TV Girl,LV,indie pop
+311,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,LV,NULL
+312,Low Life (feat. The Weeknd),79,"Future, The Weeknd",LV,NULL
+313,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,LV,NULL
+314,I Got Love,63,"MiyaGi & Endspiel, Rem Digga",LV,NULL
+315,Skrrt,7,"K27, Einar",LV,NULL
+316,Solo,78,Future,LV,MySpotigramBot
+317,In Betweenin',0,Austin Brown,LV,NULL
+318,HUMBLE.,84,Kendrick Lamar,LV,rap
+319,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,LV,NULL
+320,Softcore,81,The Neighbourhood,LV,alternative
+321,Downtown,16,"Anitta, J Balvin",LV,NULL
+322,PRIDE.,80,Kendrick Lamar,LV,MySpotigramBot
+323,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",LV,NULL
+324,White Ferrari,81,Frank Ocean,LV,singer-songwriter
+325,Enamorado,2,Alexander Stewart,LV,pop
+326,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",75,"A$AP Rocky, Rod Stewart, Miguel, Mark Ronson",LV,NULL
+327,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,LV,NULL
+328,Swim,83,Chase Atlantic,LV,seen live
+329,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,LV,NULL
+330,Pink + White,82,Frank Ocean,LV,NULL
+331,Matador (feat. Tommy),1,"CAPO, Tommy",LV,NULL
+332,Daddy Issues,80,The Neighbourhood,LV,MySpotigramBot
+333,Milion słów,1,Jula,LV,polish
+334,Praise The Lord (Da Shine) (feat. Skepta),78,"A$AP Rocky, Skepta",LV,NULL
+335,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,LV,NULL
+336,Люби меня,62,"MiyaGi & Endspiel, Sимптом",LV,NULL
+337,"Ee Khalbitha (From ""IDI"")",0,"Rahul Raj, Suchith Sureshan",LV,NULL
+338,Not Allowed,80,TV Girl,LV,indie pop
+339,Stretch,0,Louise,LV,great quality stuff
+340,Falling Down - Bonus Track,79,"Lil Peep, XXXTENTACION",LV,NULL
+341,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,LV,NULL
+342,Unforgettable,80,"French Montana, Swae Lee",LV,NULL
+343,Die Heelal (feat. Early B),0,"Janie Bay, Early B",LV,NULL
+344,Balss,34,Sudrabu Sirds,LV,NULL
+345,Sirenen,0,Tommy,LV,NULL
+346,Starboy,84,"The Weeknd, Daft Punk",LV,NULL
+347,言葉のいらない約束,0,sana,LV,J-rock
+348,Star Shopping,76,Lil Peep,LV,dream pop
+349,Do It Like You Mean It (feat. Yoel 905),0,"Frans, Yoel905",LV,NULL
+350,All The Stars (with SZA),90,"Kendrick Lamar, SZA",NO,NULL
+351,Skrrt,7,"K27, Einar",NO,NULL
+352,The Night We Met,84,Lord Huron,NO,indie
+353,Enamorado,2,Alexander Stewart,NO,pop
+354,Lush Life,77,Zara Larsson,NO,pop
+355,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",NO,NULL
+356,when the party's over,80,Billie Eilish,NO,pop
+357,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",NO,NULL
+358,Pink + White,82,Frank Ocean,NO,NULL
+359,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,NO,NULL
+360,"White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",72,White Noise Baby Sleep,NO,Sleep
+361,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",NO,NULL
+362,White Ferrari,81,Frank Ocean,NO,singer-songwriter
+363,Do It Like You Mean It (feat. Yoel 905),0,"Frans, Yoel905",NO,NULL
+364,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",NO,NULL
+365,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,NO,NULL
+366,lovely (with Khalid),82,"Billie Eilish, Khalid",NO,NULL
+367,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",NO,NULL
+368,Rundt neste sving,49,Rotlaus,NO,NULL
+369,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,NO,NULL
+370,Love On The Brain,80,Rihanna,NO,soul
+371,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,NO,NULL
+372,Without You (feat. Sandro Cavazza),76,"Avicii, Sandro Cavazza",NO,NULL
+373,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,NO,NULL
+374,ocean eyes,79,Billie Eilish,NO,indie
+375,Full Automatic (feat. Diego),0,"Sleiman, Diego",NO,NULL
+376,Where's My Love,76,SYML,NO,teen wolf
+377,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,NO,NULL
+378,Ivy,79,Frank Ocean,NO,MySpotigramBot
+379,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,NO,NULL
+380,Swim,83,Chase Atlantic,NO,seen live
+381,REASON,0,SYU(from GALNERYUS),NO,NULL
+382,Bare så du vett det,47,Stavangerkameratene,NO,NULL
+383,Milion słów,1,Jula,NO,polish
+384,Softcore,81,The Neighbourhood,NO,alternative
+385,Дождь (feat. МакSим),1,"Geegun, MAKSIM",NO,NULL
+386,HUMBLE.,84,Kendrick Lamar,NO,rap
+387,Tabarnak,0,Volo,NO,NULL
+388,Always Remember Us This Way,79,Lady Gaga,NO,Love
+389,Stretch,0,Louise,NO,great quality stuff
+390,Unforgettable,80,"French Montana, Swae Lee",NO,NULL
+391,All I've Ever Known,0,"Grace Hodgett Young, Dónal Finn",NO,NULL
+392,Someone You Loved,81,Lewis Capaldi,NO,2010s
+393,Dream On,0,Nazareth,NO,classic rock
+394,Håper du har plass,47,Cezinando,NO,pop
+395,Senza farlo apposta,0,"Shade, Federica Carta",NO,NULL
+396,Something Just Like This,83,"The Chainsmokers, Coldplay",NO,NULL
+397,Kombucha,0,Soaky Siren,NO,NULL
+398,Sundress,78,A$AP Rocky,NO,MySpotigramBot
+399,Downtown,16,"Anitta, J Balvin",NO,NULL
+400,Babblarnas vaggvisa,60,Babblarna,SE,NULL
+401,Skrrt,7,"K27, Einar",SE,NULL
+402,All The Stars (with SZA),90,"Kendrick Lamar, SZA",SE,NULL
+403,Do It Like You Mean It (feat. Yoel 905),0,"Frans, Yoel905",SE,NULL
+404,The Night We Met,84,Lord Huron,SE,indie
+405,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",SE,NULL
+406,Hon dansar vidare i livet,58,Hov1,SE,NULL
+407,Disciplin (feat. Keya),0,"Elias Abbas, Keya",SE,NULL
+408,Brahms Lullaby,57,"Baby Bears, Sleep Baby Sleep",SE,NULL
+409,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",SE,NULL
+410,"White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",72,White Noise Baby Sleep,SE,Sleep
+411,Von Heinz zu Heinz (Folge 2: NDW),0,Heinz Rudolf Kunze,SE,NULL
+412,Mandy Moore,56,Hov1,SE,NULL
+413,"Once Once - En Vivo En Plaza De Toros De Cartagena / Mayo 4, 2019",0,"DJ Dever, Andrew, Milenna, Mery Lionz, Lil Silvio & El Vega, Jose Mc & Raro Bone, Criss & Ronny, Dunamis, Gaby & Jey D, Chris Y Mouthon",SE,NULL
+414,Clean White Noise - Loopable with no fade,71,"White Noise Baby Sleep, White Noise for Babies",SE,NULL
+415,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,SE,NULL
+416,Without You (feat. Sandro Cavazza),76,"Avicii, Sandro Cavazza",SE,NULL
+417,Дождь (feat. МакSим),1,"Geegun, MAKSIM",SE,NULL
+418,Nu i ro slumra in,54,"Adamson, Vaggvisor",SE,NULL
+419,Enamorado,2,Alexander Stewart,SE,pop
+420,Jag kan inte sova,52,"Humlan Djojj, Josefine Götestam",SE,NULL
+421,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,SE,NULL
+422,Trakten min,55,Yasin,SE,NULL
+423,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,SE,NULL
+424,Ingen annan rör mig som du,52,Norlie & KKV,SE,NULL
+425,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,SE,NULL
+426,when the party's over,80,Billie Eilish,SE,pop
+427,Euthanasia - Live,0,Adam French,SE,NULL
+428,Lush Life,77,Zara Larsson,SE,pop
+429,Petra und der Terrorist,0,Alligatoah,SE,NULL
+430,White Ferrari,81,Frank Ocean,SE,singer-songwriter
+431,Vale La Pena,0,"Grupo Cañaveral De Humberto Pabón, Matute",SE,NULL
+432,Sunnanvind,52,Mares,SE,pop
+433,Fuck it I love you / The greatest,0,Lana Del Rey,SE,NULL
+434,Min lane,52,Aden x Asme,SE,NULL
+435,Last Christmas (Official 4K Video) [Teaser 2],0,Wham!,SE,NULL
+436,Pink + White,82,Frank Ocean,SE,NULL
+437,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",SE,NULL
+438,Waiting For Love,77,Avicii,SE,dance
+439,Stretch,0,Louise,SE,great quality stuff
+440,ocean eyes,79,Billie Eilish,SE,indie
+441,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,SE,NULL
+442,Love On The Brain,80,Rihanna,SE,soul
+443,De tre små grisarna,0,Sagor för barn,SE,NULL
+444,lovely (with Khalid),82,"Billie Eilish, Khalid",SE,NULL
+445,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,SE,NULL
+446,HUMBLE.,84,Kendrick Lamar,SE,rap
+447,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",SE,NULL
+448,Always Remember Us This Way,79,Lady Gaga,SE,Love
+449,I Started a Joke / Programa de Fim de Semana,0,Lu & Robertinho,SE,NULL
+450,All The Stars (with SZA),90,"Kendrick Lamar, SZA",GB,NULL
+451,"Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson)",3,"Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner",GB,NULL
+452,The Night We Met,84,Lord Huron,GB,indie
+453,I'm Better (feat. Lamb),2,"Missy Elliott, Lamb",GB,NULL
+454,See You Again (feat. Kali Uchis),86,"Tyler, The Creator, Kali Uchis",GB,NULL
+455,Stretch,0,Louise,GB,great quality stuff
+456,Pink + White,82,Frank Ocean,GB,NULL
+457,"Holding Back the Years (Live at Ziggo Dome, Amsterdam)",2,Simply Red,GB,NULL
+458,HUMBLE.,84,Kendrick Lamar,GB,rap
+459,"Say You Love Me (Live at Ziggo Dome, Amsterdam)",1,Simply Red,GB,NULL
+460,Cruel Summer,84,Taylor Swift,GB,electropop
+461,Enamorado,2,Alexander Stewart,GB,pop
+462,White Ferrari,81,Frank Ocean,GB,singer-songwriter
+463,"So Beautiful (Live at Ziggo Dome, Amsterdam)",1,Simply Red,GB,NULL
+464,Brazil,76,Declan McKenna,GB,indie
+465,"For Your Babies (Live at Ziggo Dome, Amsterdam)",1,Simply Red,GB,NULL
+466,One Dance,81,"Drake, Wizkid, Kyla",GB,NULL
+467,Слэмятся пацаны,2,"Little Big, Ruki Vverh!",GB,NULL
+468,Ransom,81,Lil Tecca,GB,2010s
+469,"Your Mirror (Live at Ziggo Dome, Amsterdam)",1,Simply Red,GB,NULL
+470,Something Just Like This,83,"The Chainsmokers, Coldplay",GB,NULL
+471,"Someday in My Life (Live at Ziggo Dome, Amsterdam)",0,Simply Red,GB,NULL
+472,Unforgettable,80,"French Montana, Swae Lee",GB,NULL
+473,"A New Flame (Live at Ziggo Dome, Amsterdam)",0,Simply Red,GB,NULL
+474,Clean White Noise - Loopable with no fade,71,"White Noise Baby Sleep, White Noise for Babies",GB,NULL
+475,"Ee Khalbitha (From ""IDI"")",0,"Rahul Raj, Suchith Sureshan",GB,NULL
+476,Cigarettes out the Window,80,TV Girl,GB,indie pop
+477,Lead Me On,0,Louise,GB,NULL
+478,That's What I Like,84,Bruno Mars,GB,funk
+479,Dancing On My Own - 1 Mic 1 Take,0,Calum Scott,GB,NULL
+480,Ivy,79,Frank Ocean,GB,MySpotigramBot
+481,Wenn jetzt Sommer wär (feat. Chapeau Claque),0,"Pretty Pink, Chapeau Claque",GB,NULL
+482,"White Noise Sleeping Aid to Help My Baby Fall Asleep, Sleep Through the Night",72,White Noise Baby Sleep,GB,Sleep
+483,Rasta Freedom,0,"Naptali, Arofat",GB,NULL
+484,Someone You Loved,81,Lewis Capaldi,GB,2010s
+485,Like It's Going Out of Style - Live,0,Punch Brothers,GB,NULL
+486,The Less I Know The Better,80,Tame Impala,GB,psychedelic
+487,When The Whip Comes Down - Live,0,The Rolling Stones,GB,NULL
+488,Lucid Dreams,80,Juice WRLD,GB,MySpotigramBot
+489,Milion słów,1,Jula,GB,polish
+490,Starboy,84,"The Weeknd, Daft Punk",GB,NULL
+491,Birthday Song (feat. Hyphe ThaGod),0,"Flawless Money, Hyphe tha God",GB,NULL
+492,lovely (with Khalid),82,"Billie Eilish, Khalid",GB,NULL
+493,Skrrt,7,"K27, Einar",GB,NULL
+494,Swim,83,Chase Atlantic,GB,seen live
+495,Sirenen,0,Tommy,GB,NULL
+496,Tennessee Whiskey,78,Chris Stapleton,GB,country
+497,Did You Love Me,0,Shannon & the Clams,GB,NULL
+498,when the party's over,80,Billie Eilish,GB,pop
+499,25 (feat. KZ),0,"Kojey Radical, KZ",GB,NULL
