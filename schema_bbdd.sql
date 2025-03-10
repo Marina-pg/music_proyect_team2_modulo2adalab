@@ -23,6 +23,8 @@ id_zona INT,
 CONSTRAINT fk_zona
 	FOREIGN KEY (id_zona)
     REFERENCES zonas(id_zona) 
+	ON DELETE CASCADE
+	ON UPDATE CASCADE
 );
 
 
