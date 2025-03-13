@@ -33,18 +33,6 @@ id_cancion INT AUTO_INCREMENT PRIMARY KEY,
 cancion VARCHAR(250),
 genero VARCHAR(50),
 popularidad INT, 
-id_lustro INT,
-id_pais VARCHAR(3), 
-CONSTRAINT `fk_canciones_año`
-              FOREIGN KEY (id_lustro)
-              REFERENCES años(id_lustro)
-              ON DELETE CASCADE
-			  ON UPDATE CASCADE,
-CONSTRAINT `fk_canciones_pais`
-              FOREIGN KEY (id_pais)
-              REFERENCES paises(id_pais)
-              ON DELETE CASCADE
-			  ON UPDATE CASCADE
 );
 
 CREATE TABLE artista_en_cancion(
@@ -57,6 +45,38 @@ CONSTRAINT `fk_artista_cancion`
 			  ON DELETE CASCADE
 			  ON UPDATE CASCADE,
 CONSTRAINT `fk_cancion_artista` 
+	FOREIGN KEY (id_cancion)
+	REFERENCES canciones(id_cancion)
+			  ON DELETE CASCADE
+			  ON UPDATE CASCADE
+);
+
+CREATE TABLE pais_en_cancion(
+id_pais VARCHAR(3),
+id_cancion INT,
+PRIMARY KEY (id_pais, id_cancion),
+CONSTRAINT `fk_pais_cancion` 
+	FOREIGN KEY (id_pais)
+	REFERENCES paises(id_pais)
+			  ON DELETE CASCADE
+			  ON UPDATE CASCADE,
+CONSTRAINT `fk_cancion_pais` 
+	FOREIGN KEY (id_cancion)
+	REFERENCES canciones(id_cancion)
+			  ON DELETE CASCADE
+			  ON UPDATE CASCADE
+);
+
+CREATE TABLE lustro_de_cancion(
+id_lustro INT,
+id_cancion INT,
+PRIMARY KEY (id_lustro, id_cancion),
+CONSTRAINT `fk_lustro_cancion` 
+	FOREIGN KEY (id_lustro)
+	REFERENCES años(id_lustro)
+			  ON DELETE CASCADE
+			  ON UPDATE CASCADE,
+CONSTRAINT `fk_cancion_lustro` 
 	FOREIGN KEY (id_cancion)
 	REFERENCES canciones(id_cancion)
 			  ON DELETE CASCADE
