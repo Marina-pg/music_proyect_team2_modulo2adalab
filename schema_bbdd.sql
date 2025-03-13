@@ -32,7 +32,7 @@ CREATE TABLE canciones(
 id_cancion INT AUTO_INCREMENT PRIMARY KEY,
 cancion VARCHAR(250),
 genero VARCHAR(50),
-popularidad INT, 
+popularidad INT 
 );
 
 CREATE TABLE artista_en_cancion(
