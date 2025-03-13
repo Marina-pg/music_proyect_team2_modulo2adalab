@@ -30,7 +30,7 @@ CONSTRAINT fk_zona
 
 CREATE TABLE canciones(
 id_cancion INT AUTO_INCREMENT PRIMARY KEY,
-cancion VARCHAR(100),
+cancion VARCHAR(250),
 genero VARCHAR(50),
 popularidad INT, 
 id_lustro INT,
