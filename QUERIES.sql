@@ -1,3 +1,5 @@
+USE musicstream;
+
 -- COMPARAR POR PAISES MISMA ZONA
 -- MEDITERRANEO
 -- ES
@@ -139,7 +141,7 @@ LIMIT 10;
 -- MEDITERRANEO
 SELECT DISTINCT genero, popularidad
 FROM CANCIONES
-WHERE genero NOT IN ('None') AND id_cancion IN (SELECT id_cancion
+WHERE genero <> 'None' AND id_cancion IN (SELECT id_cancion
 					FROM pais_en_cancion
                     WHERE id_pais IN ('ES', 'FR', 'MC', 'IT', 'SI', 'HR', 'BA', 'ME', 'AL', 'GR', 'MT', 'CY'))
 ORDER BY popularidad DESC
@@ -148,7 +150,7 @@ limit 5;
 -- CENTRO
 SELECT DISTINCT genero, popularidad
 FROM CANCIONES
-WHERE genero NOT IN ('None') AND id_cancion IN (SELECT id_cancion
+WHERE genero <> 'None' AND id_cancion IN (SELECT id_cancion
 					FROM pais_en_cancion
                     WHERE id_pais IN ('AT', 'DE', 'CH', 'LI', 'BE', 'LU', 'NL'))
 ORDER BY popularidad DESC
@@ -157,7 +159,7 @@ limit 5;
 -- NORTE
 SELECT DISTINCT genero, popularidad
 FROM CANCIONES
-WHERE genero NOT IN ('None') AND id_cancion IN (SELECT id_cancion
+WHERE genero <> 'None' AND id_cancion IN (SELECT id_cancion
 					FROM pais_en_cancion
                     WHERE id_pais IN ('DK', 'EE', 'FI', 'IS', 'IE', 'LT', 'LV', 'NO', 'SE', 'GB'))
 ORDER BY popularidad DESC
@@ -166,7 +168,7 @@ limit 5;
 -- ESTE
 SELECT DISTINCT genero, popularidad
 FROM CANCIONES
-WHERE genero NOT IN ('None') AND id_cancion IN (SELECT id_cancion
+WHERE genero <> 'None' AND id_cancion IN (SELECT id_cancion
 					FROM pais_en_cancion
                     WHERE id_pais IN ('BY', 'BG', 'CZ', 'SK', 'HU', 'MD', 'PL', 'RO', 'UA'))
 ORDER BY popularidad DESC
