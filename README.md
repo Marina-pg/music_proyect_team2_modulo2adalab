@@ -35,6 +35,21 @@ Tres tablas relacionadas: artista_en_cancion,, lustro_de_cancion y país_en_canc
 
 📋 Listas, tuplas y diccionarios para filtrar y limpiar los datos obtenidos de las APIs y para la inserción de datos en las tablas en SQL.
 
+## 🗃️ Archivos y carpetas
+
+### 📁 archivos_csv 
+
+Contiene los archivos `.csv` creados a partir de los datos extraídos de las APIs.
+
+### 📁 misc
+
+En esta carpeta se recogen diferentes archivos utilizados durante el desarrollo del proyecto. 
+
+### archivos principales
+
+
+
+
 
 ## 🚀 Retos y Aprendizajes
 El desarrollo del proyecto nos ha permitido enfrentar y superar los siguientes retos:
