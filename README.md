@@ -35,7 +35,7 @@ Tres tablas relacionadas: artista_en_cancion,, lustro_de_cancion y país_en_canc
 
 📋 Listas, tuplas y diccionarios para filtrar y limpiar los datos obtenidos de las APIs y para la inserción de datos en las tablas en SQL.
 
-## 🗃️ Archivos y carpetas
+## 🗃️ Archivos y carpetas:
 
 ### 📁 archivos_csv 
 
@@ -49,7 +49,7 @@ Contiene la imagen de la estructura de la base de datos MusicStream
 
 En esta carpeta se recogen diferentes archivos utilizados durante el desarrollo del proyecto. 
 
-### archivos principales
+### 📃 archivos principales
 
 - `extraccion_datos.ipynb`: Utilizado para extraer los datos de las API's de Spotify y LastFM.
 - `schema_bbdd.sql`: Script de SQL para crear la base de datos MusicStream. 
