@@ -1,0 +1,2998 @@
+id;nombre_cancion;popularity;artista;pais;genero;Rango_lustros
+0;Soldadito marinero;62;Fito y Fitipaldis;ES;spanish;2000-2004
+1;Angel;28;Shaggy, Rayvon;ES;NULL;2000-2004
+2;Rosas;75;La Oreja de Van Gogh;ES;pop;2000-2004
+3;Dímelo bajito;0;Manzanita;ES;NULL;2000-2004
+4;La vereda de la puerta de atrás;60;Extremoduro;ES;rock;2000-2004
+5;San Pedro;0;Revolver, Mick Glossp;ES;NULL;2000-2004
+6;La casa por el tejado;59;Fito y Fitipaldis;ES;Spanish Rock;2000-2004
+7;El peligro;0;Revolver;ES;metal;2000-2004
+8;Yellow;86;Coldplay;ES;rock;2000-2004
+9;Eso de saber;0;Revolver;ES;LO MAS;2000-2004
+10;Carolina - En directo 2000;59;M-Clan;ES;NULL;2000-2004
+11;Mestizo;0;Revolver;ES;Revolver;2000-2004
+12;Dile;76;Don Omar;ES;Reggaeton;2000-2004
+13;Ni na no;0;Javier Álvarez;ES;NULL;2000-2004
+14;Vino Tinto;59;Estopa;ES;spanish;2000-2004
+15;He Loves U Not;0;Dream;ES;pop;2000-2004
+16;Cuando zarpa el amor;58;Camela;ES;hit;2000-2004
+17;La vita è;1;Nek;ES;pop;2000-2004
+18;Puedes Contar Conmigo;64;La Oreja de Van Gogh;ES;spanish;2000-2004
+19;Stuck in the Middle with You;0;Louise;ES;pop;2000-2004
+20;The Scientist;83;Coldplay;ES;Coldplay;2000-2004
+21;Cabelo Raspadinho;2;Chiclete Com Banana;ES;brasil;2000-2004
+22;Stand By;57;Extremoduro;ES;spanish;2000-2004
+23;2 Faced;0;Louise;ES;pop;2000-2004
+24;Somewhere Only We Know;80;Keane;ES;britpop;2000-2004
+25;This Is Me;0;Dream;ES;pop;2000-2004
+26;Without Me;83;Eminem;ES;rap;2000-2004
+27;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;ES;NULL;2000-2004
+28;El aire de la calle;56;Los Delinqüentes;ES;Flamenco;2000-2004
+29;Beautiful Inside;0;Louise;ES;pop;2000-2004
+30;Numb;83;Linkin Park;ES;rock;2000-2004
+31;Quemando tus recuerdos - Gira 2002;0;Extremoduro;ES;NULL;2000-2004
+32;Obsesion;73;Aventura, Judy Santos;ES;NULL;2000-2004
+33;American Life (Director's Cut) - 4K Remaster;0;Madonna;ES;NULL;2000-2004
+34;Quiereme;55;El Barrio;ES;QUIEREME- EL BARRIO;2000-2004
+35;HEY! JORDU!;0;PE'Z;ES;NULL;2000-2004
+36;La Playa;69;La Oreja de Van Gogh;ES;pop;2000-2004
+37;Welcome To Hell (Videoclip);0;Ska-P;ES;NULL;2000-2004
+38;Cómo hablar;55;Amaral;ES;pop;2000-2004
+39;Devolva-Me;1;Adriana Calcanhotto;ES;mpb;2000-2004
+40;La Madre de Jose;55;El Canto Del Loco;ES;El Canto del Loco;2000-2004
+41;This Is My Time;0;Sasha;ES;pop;2000-2004
+42;In the End;82;Linkin Park;ES;rock;2000-2004
+43;Rooftop;0;Sasha;ES;pop;2000-2004
+44;Insoportable;54;El Canto Del Loco;ES;spanish;2000-2004
+45;Kiedy góral umiera;0;Harlem;ES;polish;2000-2004
+46;Clocks;79;Coldplay;ES;rock;2000-2004
+47;Here She Comes Again;0;Sasha;ES;pop;2000-2004
+48;20 de Enero;60;La Oreja de Van Gogh;ES;spanish;2000-2004
+49;Turn It into Something Special;0;Sasha;ES;pop;2000-2004
+50;Numb;83;Linkin Park;FR;rock;2000-2004
+51;Angel;28;Shaggy, Rayvon;FR;NULL;2000-2004
+52;Without Me;83;Eminem;FR;rap;2000-2004
+53;La vita è;1;Nek;FR;pop;2000-2004
+54;Mockingbird;81;Eminem;FR;rap;2000-2004
+55;Cabelo Raspadinho;2;Chiclete Com Banana;FR;brasil;2000-2004
+56;Somewhere Only We Know;80;Keane;FR;britpop;2000-2004
+57;Devolva-Me;1;Adriana Calcanhotto;FR;mpb;2000-2004
+58;In the End;82;Linkin Park;FR;rock;2000-2004
+59;This Is My Time;0;Sasha;FR;pop;2000-2004
+60;Femme Like U;62;K.Maro;FR;Hip-Hop;2000-2004
+61;He Loves U Not;0;Dream;FR;pop;2000-2004
+62;Yellow;86;Coldplay;FR;rock;2000-2004
+63;Rooftop;0;Sasha;FR;pop;2000-2004
+64;The Real Slim Shady;81;Eminem;FR;rap;2000-2004
+65;Stuck in the Middle with You;0;Louise;FR;pop;2000-2004
+66;The Scientist;83;Coldplay;FR;Coldplay;2000-2004
+67;Dímelo bajito;0;Manzanita;FR;NULL;2000-2004
+68;Manhattan-Kaboul;58;Renaud, Axelle Red;FR;NULL;2000-2004
+69;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;FR;NULL;2000-2004
+70;Can't Stop;80;Red Hot Chili Peppers;FR;rock;2000-2004
+71;2 Faced;0;Louise;FR;pop;2000-2004
+72;Fallin';73;Alicia Keys;FR;soul;2000-2004
+73;Kiedy góral umiera;0;Harlem;FR;polish;2000-2004
+74;Yeah! (feat. Lil Jon & Ludacris);80;USHER, Lil Jon, Ludacris;FR;NULL;2000-2004
+75;San Pedro;0;Revolver, Mick Glossp;FR;NULL;2000-2004
+76;Crazy In Love (feat. JAY-Z);76;Beyoncé, JAY-Z;FR;NULL;2000-2004
+77;El peligro;0;Revolver;FR;metal;2000-2004
+78;How You Remind Me;80;Nickelback;FR;rock;2000-2004
+79;This Is Me;0;Dream;FR;pop;2000-2004
+80;Dernière danse;57;Kyo;FR;french;2000-2004
+81;Here She Comes Again;0;Sasha;FR;pop;2000-2004
+82;J'ai demandé à la lune;57;Indochine;FR;french;2000-2004
+83;Turn It into Something Special;0;Sasha;FR;pop;2000-2004
+84;Lose Yourself;76;Eminem;FR;rap;2000-2004
+85;Beautiful Inside;0;Louise;FR;pop;2000-2004
+86;Murder On The Dancefloor;76;Sophie Ellis-Bextor;FR;pop;2000-2004
+87;American Life (Director's Cut) - 4K Remaster;0;Madonna;FR;NULL;2000-2004
+88;Gasolina;76;Daddy Yankee;FR;Reggaeton;2000-2004
+89;Wierz? w siebie;0;Harlem;FR;NULL;2000-2004
+90;Obsesion;73;Aventura, Judy Santos;FR;NULL;2000-2004
+91;Eso de saber;0;Revolver;FR;LO MAS;2000-2004
+92;Lady - Hear Me Tonight;75;Modjo;FR;House;2000-2004
+93;Take Me Home;0;Terror Squad, remy, Fat Joe, Dre, Armageddon;FR;NULL;2000-2004
+94;Me Gustas Tu;75;Manu Chao;FR;reggae;2000-2004
+95;Love Is Alive - Live;;;;;2000-2004
+96;Bring Me To Life;80;Evanescence;FR;rock;2000-2004
+97;Ni na no;0;Javier Álvarez;FR;NULL;2000-2004
+98;In Da Club;77;50 Cent;FR;rap;2000-2004
+99;Call Me;0;Blondie;FR;80s;2000-2004
+100;Yellow;86;Coldplay;MC;rock;2000-2004
+101;Angel;28;Shaggy, Rayvon;MC;NULL;2000-2004
+102;The Scientist;83;Coldplay;MC;Coldplay;2000-2004
+103;Cabelo Raspadinho;2;Chiclete Com Banana;MC;brasil;2000-2004
+104;Without Me;83;Eminem;MC;rap;2000-2004
+105;Devolva-Me;1;Adriana Calcanhotto;MC;mpb;2000-2004
+106;Numb;83;Linkin Park;MC;rock;2000-2004
+107;La vita è;1;Nek;MC;pop;2000-2004
+108;Mr. Brightside;82;The Killers;MC;rock;2000-2004
+109;This Is My Time;0;Sasha;MC;pop;2000-2004
+110;In the End;82;Linkin Park;MC;rock;2000-2004
+111;He Loves U Not;0;Dream;MC;pop;2000-2004
+112;Sparks;82;Coldplay;MC;rock;2000-2004
+113;Rooftop;0;Sasha;MC;pop;2000-2004
+114;Mockingbird;81;Eminem;MC;rap;2000-2004
+115;Stuck in the Middle with You;0;Louise;MC;pop;2000-2004
+116;Unwritten;81;Natasha Bedingfield;MC;pop;2000-2004
+117;Dímelo bajito;0;Manzanita;MC;NULL;2000-2004
+118;The Real Slim Shady;81;Eminem;MC;rap;2000-2004
+119;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;MC;NULL;2000-2004
+120;Can't Stop;80;Red Hot Chili Peppers;MC;rock;2000-2004
+121;2 Faced;0;Louise;MC;pop;2000-2004
+122;Bring Me To Life;80;Evanescence;MC;rock;2000-2004
+123;Kiedy góral umiera;0;Harlem;MC;polish;2000-2004
+124;Yeah! (feat. Lil Jon & Ludacris);80;USHER, Lil Jon, Ludacris;MC;NULL;2000-2004
+125;San Pedro;0;Revolver, Mick Glossp;MC;NULL;2000-2004
+126;Somewhere Only We Know;80;Keane;MC;britpop;2000-2004
+127;El peligro;0;Revolver;MC;metal;2000-2004
+128;How You Remind Me;80;Nickelback;MC;rock;2000-2004
+129;This Is Me;0;Dream;MC;pop;2000-2004
+130;Toxicity;80;System Of A Down;MC;metal;2000-2004
+131;Here She Comes Again;0;Sasha;MC;pop;2000-2004
+132;Duvet;79;bôa;MC;anime;2000-2004
+133;Turn It into Something Special;0;Sasha;MC;pop;2000-2004
+134;Clocks;79;Coldplay;MC;rock;2000-2004
+135;Beautiful Inside;0;Louise;MC;pop;2000-2004
+136;Till I Collapse;79;Eminem, Nate Dogg;MC;NULL;2000-2004
+137;American Life (Director's Cut) - 4K Remaster;0;Madonna;MC;NULL;2000-2004
+138;Faint;79;Linkin Park;MC;rock;2000-2004
+139;Wierz? w siebie;0;Harlem;MC;NULL;2000-2004
+140;Chop Suey!;79;System Of A Down;MC;alternative metal;2000-2004
+141;Eso de saber;0;Revolver;MC;LO MAS;2000-2004
+142;Seven Nation Army;78;The White Stripes;MC;rock;2000-2004
+143;Love Is Alive - Live;;;;;2000-2004
+144;One Step Closer;78;Linkin Park;MC;Nu Metal;2000-2004
+145;Ni na no;0;Javier Álvarez;MC;NULL;2000-2004
+146;This Love;78;Maroon 5;MC;pop;2000-2004
+147;Call Me;0;Blondie;MC;80s;2000-2004
+148;She Will Be Loved - Radio Mix;78;Maroon 5;MC;pop;2000-2004
+149;Mestizo;0;Revolver;MC;Revolver;2000-2004
+150;Numb;83;Linkin Park;IT;rock;2000-2004
+151;Angel;28;Shaggy, Rayvon;IT;NULL;2000-2004
+152;In the End;82;Linkin Park;IT;rock;2000-2004
+153;La vita è;1;Nek;IT;pop;2000-2004
+154;Without Me;83;Eminem;IT;rap;2000-2004
+155;Dímelo bajito;0;Manzanita;IT;NULL;2000-2004
+156;Yellow;86;Coldplay;IT;rock;2000-2004
+157;Stuck in the Middle with You;0;Louise;IT;pop;2000-2004
+158;Mockingbird;81;Eminem;IT;rap;2000-2004
+159;This Is My Time;0;Sasha;IT;pop;2000-2004
+160;E...;56;Vasco Rossi;IT;vasco rossi;2000-2004
+161;He Loves U Not;0;Dream;IT;pop;2000-2004
+162;The Scientist;83;Coldplay;IT;Coldplay;2000-2004
+163;San Pedro;0;Revolver, Mick Glossp;IT;NULL;2000-2004
+164;Somewhere Only We Know;80;Keane;IT;britpop;2000-2004
+165;Eso de saber;0;Revolver;IT;LO MAS;2000-2004
+166;The Real Slim Shady;81;Eminem;IT;rap;2000-2004
+167;El peligro;0;Revolver;IT;metal;2000-2004
+168;Vieni A Vedere Perchè;54;Cesare Cremonini;IT;italianigdchill;2000-2004
+169;Cabelo Raspadinho;2;Chiclete Com Banana;IT;brasil;2000-2004
+170;Unwritten;81;Natasha Bedingfield;IT;pop;2000-2004
+171;Devolva-Me;1;Adriana Calcanhotto;IT;mpb;2000-2004
+172;Can't Stop;80;Red Hot Chili Peppers;IT;rock;2000-2004
+173;This Is Me;0;Dream;IT;pop;2000-2004
+174;Bring Me To Life;80;Evanescence;IT;rock;2000-2004
+175;Sing For The Moment - Edited;0;Eminem;IT;NULL;2000-2004
+176;Till I Collapse;79;Eminem, Nate Dogg;IT;NULL;2000-2004
+177;Piccolo Amico;0;Gigi D'Alessio;IT;NULL;2000-2004
+178;Lose Yourself;76;Eminem;IT;rap;2000-2004
+179;New Bibi-Hendl - Rap;0;Takeo Ischi;IT;NULL;2000-2004
+180;In Da Club;77;50 Cent;IT;rap;2000-2004
+181;Right Now;0;Korn;IT;Nu Metal;2000-2004
+182;Gasolina;76;Daddy Yankee;IT;Reggaeton;2000-2004
+183;That's The Way - Live at Earls Court, London, England, 5/1975;0;Led Zeppelin;IT;NULL;2000-2004
+184;Mr. Brightside;82;The Killers;IT;rock;2000-2004
+185;Rooftop;0;Sasha;IT;pop;2000-2004
+186;Obsesion;73;Aventura, Judy Santos;IT;NULL;2000-2004
+187;Turn It into Something Special;0;Sasha;IT;pop;2000-2004
+188;How You Remind Me;80;Nickelback;IT;rock;2000-2004
+189;2 Faced;0;Louise;IT;pop;2000-2004
+190;Clocks;79;Coldplay;IT;rock;2000-2004
+191;Guilty Conscience - Director's Cut;0;Eminem, Dr. Dre;IT;NULL;2000-2004
+192;Toxicity;80;System Of A Down;IT;metal;2000-2004
+193;I've Got Mine - Remaster;0;UB40;IT;NULL;2000-2004
+194;Faint;79;Linkin Park;IT;rock;2000-2004
+195;Encore;0;JAY-Z;IT;Hip-Hop;2000-2004
+196;Superman;78;Eminem, Dina Rae;IT;NULL;2000-2004
+197;'03 Bonnie & Clyde;0;JAY-Z, Beyoncé Knowles;IT;NULL;2000-2004
+198;L'Amour Toujours;71;Gigi D'Agostino;IT;dance;2000-2004
+199;American Life (Director's Cut) - 4K Remaster;0;Madonna;IT;NULL;2000-2004
+200;Na Soncu;33;Siddharta;SI;rock;2000-2004
+201;Angel;28;Shaggy, Rayvon;SI;NULL;2000-2004
+202;Yellow;86;Coldplay;SI;rock;2000-2004
+203;2 Faced;0;Louise;SI;pop;2000-2004
+204;Platina;31;Siddharta;SI;rock;2000-2004
+205;Beautiful Inside;0;Louise;SI;pop;2000-2004
+206;Without Me;83;Eminem;SI;rap;2000-2004
+207;Cabelo Raspadinho;2;Chiclete Com Banana;SI;brasil;2000-2004
+208;Unwritten;81;Natasha Bedingfield;SI;pop;2000-2004
+209;Devolva-Me;1;Adriana Calcanhotto;SI;mpb;2000-2004
+210;Mockingbird;81;Eminem;SI;rap;2000-2004
+211;La vita è;1;Nek;SI;pop;2000-2004
+212;Numb;83;Linkin Park;SI;rock;2000-2004
+213;This Is My Time;0;Sasha;SI;pop;2000-2004
+214;Crno i zlatno;46;Seka Aleksić;SI;Seka;2000-2004
+215;He Loves U Not;0;Dream;SI;pop;2000-2004
+216;The Real Slim Shady;81;Eminem;SI;rap;2000-2004
+217;Rooftop;0;Sasha;SI;pop;2000-2004
+218;The Scientist;83;Coldplay;SI;Coldplay;2000-2004
+219;Stuck in the Middle with You;0;Louise;SI;pop;2000-2004
+220;Mr. Brightside;82;The Killers;SI;rock;2000-2004
+221;Dímelo bajito;0;Manzanita;SI;NULL;2000-2004
+222;Ring;29;Siddharta;SI;rock;2000-2004
+223;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;SI;NULL;2000-2004
+224;3 prste tekile;29;Kingston;SI;NULL;2000-2004
+225;Kiedy góral umiera;0;Harlem;SI;polish;2000-2004
+226;In the End;82;Linkin Park;SI;rock;2000-2004
+227;San Pedro;0;Revolver, Mick Glossp;SI;NULL;2000-2004
+228;Somewhere Only We Know;80;Keane;SI;britpop;2000-2004
+229;El peligro;0;Revolver;SI;metal;2000-2004
+230;Naiven Ples;28;Siddharta;SI;rock;2000-2004
+231;This Is Me;0;Dream;SI;pop;2000-2004
+232;Can't Stop;80;Red Hot Chili Peppers;SI;rock;2000-2004
+233;Here She Comes Again;0;Sasha;SI;pop;2000-2004
+234;Lahko Bi Zletela;28;Vlado Kreslin;SI;slovenian;2000-2004
+235;Turn It into Something Special;0;Sasha;SI;pop;2000-2004
+236;Sparks;82;Coldplay;SI;rock;2000-2004
+237;American Life (Director's Cut) - 4K Remaster;0;Madonna;SI;NULL;2000-2004
+238;Od Višine Se Zvrti;28;Vlado Kreslin, Siddharta;SI;NULL;2000-2004
+239;Wierz? w siebie;0;Harlem;SI;NULL;2000-2004
+240;Clocks;79;Coldplay;SI;rock;2000-2004
+241;Eso de saber;0;Revolver;SI;LO MAS;2000-2004
+242;In Da Club;77;50 Cent;SI;rap;2000-2004
+243;Take Me Home;0;Terror Squad, remy, Fat Joe, Dre, Armageddon;SI;NULL;2000-2004
+244;How You Remind Me;80;Nickelback;SI;rock;2000-2004
+245;Love Is Alive - Live;;;;;2000-2004
+246;Marjanca;27;Brendi;SI;NULL;2000-2004
+247;Ni na no;0;Javier Álvarez;SI;NULL;2000-2004
+248;Napoj;27;Siddharta;SI;rock;2000-2004
+249;Call Me;0;Blondie;SI;80s;2000-2004
+250;Dajem ti rič;41;Dalmatino;HR;NULL;2000-2004
+251;Angel;28;Shaggy, Rayvon;HR;NULL;2000-2004
+252;Crno i zlatno;46;Seka Aleksić;HR;Seka;2000-2004
+253;La vita è;1;Nek;HR;pop;2000-2004
+254;Ditelina S Četri Lista (feat. Oliver Dragojević);40;Dalmatino, Oliver Dragojevic;HR;NULL;2000-2004
+255;He Loves U Not;0;Dream;HR;pop;2000-2004
+256;9000 Metara;43;Zeljko Samardzic;HR;niice song;2000-2004
+257;This Is My Time;0;Sasha;HR;pop;2000-2004
+258;Cvit Od Kamena;38;Dalmatino;HR;NULL;2000-2004
+259;Cabelo Raspadinho;2;Chiclete Com Banana;HR;brasil;2000-2004
+260;Kad Mi Dođeš Ti;43;Oliver Dragojevic;HR;NULL;2000-2004
+261;Devolva-Me;1;Adriana Calcanhotto;HR;mpb;2000-2004
+262;Ti Zaplakaćeš Na Mojoj Strani Kreveta;42;Sanja Đorđević;HR;NULL;2000-2004
+263;Rooftop;0;Sasha;HR;pop;2000-2004
+264;Without Me;83;Eminem;HR;rap;2000-2004
+265;Stuck in the Middle with You;0;Louise;HR;pop;2000-2004
+266;Takvi Kao Ti;41;Nina Badric;HR;pop;2000-2004
+267;Dímelo bajito;0;Manzanita;HR;NULL;2000-2004
+268;Yellow;86;Coldplay;HR;rock;2000-2004
+269;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;HR;NULL;2000-2004
+270;Ledena;40;Toše Proeski;HR;pop;2000-2004
+271;2 Faced;0;Louise;HR;pop;2000-2004
+272;Supermen;46;Dino Merlin, Željko Joksimović;HR;NULL;2000-2004
+273;Kiedy góral umiera;0;Harlem;HR;polish;2000-2004
+274;Da Li Si Me Voljela Il' Nisi;44;Sejo Kalač;HR;NULL;2000-2004
+275;San Pedro;0;Revolver, Mick Glossp;HR;NULL;2000-2004
+276;The Real Slim Shady;81;Eminem;HR;rap;2000-2004
+277;El peligro;0;Revolver;HR;metal;2000-2004
+278;Moj Lipi Anđele;40;Oliver Dragojevic;HR;NULL;2000-2004
+279;This Is Me;0;Dream;HR;pop;2000-2004
+280;Lopov;46;Indira Radić;HR;EliZe;2000-2004
+281;Here She Comes Again;0;Sasha;HR;pop;2000-2004
+282;Cija Si;42;Toše Proeski;HR;balkan;2000-2004
+283;Turn It into Something Special;0;Sasha;HR;pop;2000-2004
+284;Ljerka;39;Djordje Balasevic;HR;NULL;2000-2004
+285;Beautiful Inside;0;Louise;HR;pop;2000-2004
+286;Sude Mi;36;Marko Perković Thompson, Miroslav Škoro;HR;NULL;2000-2004
+287;American Life (Director's Cut) - 4K Remaster;0;Madonna;HR;NULL;2000-2004
+288;Numb;83;Linkin Park;HR;rock;2000-2004
+289;Wierz? w siebie;0;Harlem;HR;NULL;2000-2004
+290;Mockingbird;81;Eminem;HR;rap;2000-2004
+291;Eso de saber;0;Revolver;HR;LO MAS;2000-2004
+292;Zmaj;43;Indira Radić;HR;NULL;2000-2004
+293;Take Me Home;0;Terror Squad, remy, Fat Joe, Dre, Armageddon;HR;NULL;2000-2004
+294;Poruči Pesmu Sa Imenom Mojim;39;Sanja Đorđević;HR;NULL;2000-2004
+295;Love Is Alive - Live;;;;;2000-2004
+296;Nije Htjela;40;Kemal Monteno;HR;ex-yu;2000-2004
+297;Ni na no;0;Javier Álvarez;HR;NULL;2000-2004
+298;Can't Stop;80;Red Hot Chili Peppers;HR;rock;2000-2004
+299;Call Me;0;Blondie;HR;80s;2000-2004
+300;Yellow;86;Coldplay;BA;rock;2000-2004
+301;Angel;28;Shaggy, Rayvon;BA;NULL;2000-2004
+302;The Scientist;83;Coldplay;BA;Coldplay;2000-2004
+303;Stuck in the Middle with You;0;Louise;BA;pop;2000-2004
+304;Without Me;83;Eminem;BA;rap;2000-2004
+305;Cabelo Raspadinho;2;Chiclete Com Banana;BA;brasil;2000-2004
+306;Numb;83;Linkin Park;BA;rock;2000-2004
+307;Devolva-Me;1;Adriana Calcanhotto;BA;mpb;2000-2004
+308;Mr. Brightside;82;The Killers;BA;rock;2000-2004
+309;La vita è;1;Nek;BA;pop;2000-2004
+310;In the End;82;Linkin Park;BA;rock;2000-2004
+311;This Is My Time;0;Sasha;BA;pop;2000-2004
+312;Sparks;82;Coldplay;BA;rock;2000-2004
+313;He Loves U Not;0;Dream;BA;pop;2000-2004
+314;Mockingbird;81;Eminem;BA;rap;2000-2004
+315;Rooftop;0;Sasha;BA;pop;2000-2004
+316;Unwritten;81;Natasha Bedingfield;BA;pop;2000-2004
+317;Dímelo bajito;0;Manzanita;BA;NULL;2000-2004
+318;The Real Slim Shady;81;Eminem;BA;rap;2000-2004
+319;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;BA;NULL;2000-2004
+320;Can't Stop;80;Red Hot Chili Peppers;BA;rock;2000-2004
+321;2 Faced;0;Louise;BA;pop;2000-2004
+322;Bring Me To Life;80;Evanescence;BA;rock;2000-2004
+323;Kiedy góral umiera;0;Harlem;BA;polish;2000-2004
+324;Yeah! (feat. Lil Jon & Ludacris);80;USHER, Lil Jon, Ludacris;BA;NULL;2000-2004
+325;San Pedro;0;Revolver, Mick Glossp;BA;NULL;2000-2004
+326;Somewhere Only We Know;80;Keane;BA;britpop;2000-2004
+327;El peligro;0;Revolver;BA;metal;2000-2004
+328;How You Remind Me;80;Nickelback;BA;rock;2000-2004
+329;This Is Me;0;Dream;BA;pop;2000-2004
+330;Toxicity;80;System Of A Down;BA;metal;2000-2004
+331;Here She Comes Again;0;Sasha;BA;pop;2000-2004
+332;Duvet;79;bôa;BA;anime;2000-2004
+333;Turn It into Something Special;0;Sasha;BA;pop;2000-2004
+334;Clocks;79;Coldplay;BA;rock;2000-2004
+335;Beautiful Inside;0;Louise;BA;pop;2000-2004
+336;Till I Collapse;79;Eminem, Nate Dogg;BA;NULL;2000-2004
+337;American Life (Director's Cut) - 4K Remaster;0;Madonna;BA;NULL;2000-2004
+338;Faint;79;Linkin Park;BA;rock;2000-2004
+339;Wierz? w siebie;0;Harlem;BA;NULL;2000-2004
+340;Chop Suey!;79;System Of A Down;BA;alternative metal;2000-2004
+341;Eso de saber;0;Revolver;BA;LO MAS;2000-2004
+342;Seven Nation Army;78;The White Stripes;BA;rock;2000-2004
+343;Take Me Home;0;Terror Squad, remy, Fat Joe, Dre, Armageddon;BA;NULL;2000-2004
+344;One Step Closer;78;Linkin Park;BA;Nu Metal;2000-2004
+345;Love Is Alive - Live;;;;;2000-2004
+346;This Love;78;Maroon 5;BA;pop;2000-2004
+347;Ni na no;0;Javier Álvarez;BA;NULL;2000-2004
+348;She Will Be Loved - Radio Mix;78;Maroon 5;BA;pop;2000-2004
+349;Call Me;0;Blondie;BA;80s;2000-2004
+350;Yellow;86;Coldplay;ME;rock;2000-2004
+351;El peligro;0;Revolver;ME;metal;2000-2004
+352;The Scientist;83;Coldplay;ME;Coldplay;2000-2004
+353;Angel;28;Shaggy, Rayvon;ME;NULL;2000-2004
+354;Without Me;83;Eminem;ME;rap;2000-2004
+355;Cabelo Raspadinho;2;Chiclete Com Banana;ME;brasil;2000-2004
+356;Numb;83;Linkin Park;ME;rock;2000-2004
+357;Devolva-Me;1;Adriana Calcanhotto;ME;mpb;2000-2004
+358;Mr. Brightside;82;The Killers;ME;rock;2000-2004
+359;La vita è;1;Nek;ME;pop;2000-2004
+360;In the End;82;Linkin Park;ME;rock;2000-2004
+361;This Is My Time;0;Sasha;ME;pop;2000-2004
+362;Sparks;82;Coldplay;ME;rock;2000-2004
+363;He Loves U Not;0;Dream;ME;pop;2000-2004
+364;Mockingbird;81;Eminem;ME;rap;2000-2004
+365;Rooftop;0;Sasha;ME;pop;2000-2004
+366;Unwritten;81;Natasha Bedingfield;ME;pop;2000-2004
+367;Stuck in the Middle with You;0;Louise;ME;pop;2000-2004
+368;The Real Slim Shady;81;Eminem;ME;rap;2000-2004
+369;Dímelo bajito;0;Manzanita;ME;NULL;2000-2004
+370;Can't Stop;80;Red Hot Chili Peppers;ME;rock;2000-2004
+371;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;ME;NULL;2000-2004
+372;Bring Me To Life;80;Evanescence;ME;rock;2000-2004
+373;2 Faced;0;Louise;ME;pop;2000-2004
+374;Yeah! (feat. Lil Jon & Ludacris);80;USHER, Lil Jon, Ludacris;ME;NULL;2000-2004
+375;Kiedy góral umiera;0;Harlem;ME;polish;2000-2004
+376;Somewhere Only We Know;80;Keane;ME;britpop;2000-2004
+377;San Pedro;0;Revolver, Mick Glossp;ME;NULL;2000-2004
+378;How You Remind Me;80;Nickelback;ME;rock;2000-2004
+379;This Is Me;0;Dream;ME;pop;2000-2004
+380;Toxicity;80;System Of A Down;ME;metal;2000-2004
+381;Here She Comes Again;0;Sasha;ME;pop;2000-2004
+382;Duvet;79;bôa;ME;anime;2000-2004
+383;Turn It into Something Special;0;Sasha;ME;pop;2000-2004
+384;Clocks;79;Coldplay;ME;rock;2000-2004
+385;Beautiful Inside;0;Louise;ME;pop;2000-2004
+386;Till I Collapse;79;Eminem, Nate Dogg;ME;NULL;2000-2004
+387;American Life (Director's Cut) - 4K Remaster;0;Madonna;ME;NULL;2000-2004
+388;Faint;79;Linkin Park;ME;rock;2000-2004
+389;Wierz? w siebie;0;Harlem;ME;NULL;2000-2004
+390;Chop Suey!;79;System Of A Down;ME;alternative metal;2000-2004
+391;Eso de saber;0;Revolver;ME;LO MAS;2000-2004
+392;Seven Nation Army;78;The White Stripes;ME;rock;2000-2004
+393;Take Me Home;0;Terror Squad, remy, Fat Joe, Dre, Armageddon;ME;NULL;2000-2004
+394;One Step Closer;78;Linkin Park;ME;Nu Metal;2000-2004
+395;Love Is Alive - Live;;;;;2000-2004
+396;This Love;78;Maroon 5;ME;pop;2000-2004
+397;Ni na no;0;Javier Álvarez;ME;NULL;2000-2004
+398;She Will Be Loved - Radio Mix;78;Maroon 5;ME;pop;2000-2004
+399;Call Me;0;Blondie;ME;80s;2000-2004
+400;Yellow;86;Coldplay;AL;rock;2000-2004
+401;Angel;28;Shaggy, Rayvon;AL;NULL;2000-2004
+402;The Scientist;83;Coldplay;AL;Coldplay;2000-2004
+403;Cabelo Raspadinho;2;Chiclete Com Banana;AL;brasil;2000-2004
+404;Without Me;83;Eminem;AL;rap;2000-2004
+405;Devolva-Me;1;Adriana Calcanhotto;AL;mpb;2000-2004
+406;Numb;83;Linkin Park;AL;rock;2000-2004
+407;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;AL;NULL;2000-2004
+408;Mr. Brightside;82;The Killers;AL;rock;2000-2004
+409;Csak Játék;0;Zorán;AL;Ballad;2000-2004
+410;In the End;82;Linkin Park;AL;rock;2000-2004
+411;Tarantula;0;Faithless;AL;electronic;2000-2004
+412;Sparks;82;Coldplay;AL;rock;2000-2004
+413;Guilty Conscience - Director's Cut;0;Eminem, Dr. Dre;AL;NULL;2000-2004
+414;Mockingbird;81;Eminem;AL;rap;2000-2004
+415;Respiration;0;Black Star, Common;AL;NULL;2000-2004
+416;Unwritten;81;Natasha Bedingfield;AL;pop;2000-2004
+417;Smash Sumthin' - Alternate Version;0;Redman;AL;NULL;2000-2004
+418;The Real Slim Shady;81;Eminem;AL;rap;2000-2004
+419;Kaleidoscope World;0;FrancisM;AL;NULL;2000-2004
+420;Can't Stop;80;Red Hot Chili Peppers;AL;rock;2000-2004
+421;Esperanzas;0;Pecos;AL;Baladas;2000-2004
+422;Bring Me To Life;80;Evanescence;AL;rock;2000-2004
+423;Spaceship;0;Katja;AL;NULL;2000-2004
+424;Yeah! (feat. Lil Jon & Ludacris);80;USHER, Lil Jon, Ludacris;AL;NULL;2000-2004
+425;Maçã - Ao Vivo;0;Djavan;AL;NULL;2000-2004
+426;Somewhere Only We Know;80;Keane;AL;britpop;2000-2004
+427;'03 Bonnie & Clyde;0;JAY-Z, Beyoncé Knowles;AL;NULL;2000-2004
+428;How You Remind Me;80;Nickelback;AL;rock;2000-2004
+429;Who Gives A F**K Where You From;0;DJ Kay Slay, Frayser Boy, Lil Wyte, Three 6 Mafia;AL;NULL;2000-2004
+430;Toxicity;80;System Of A Down;AL;metal;2000-2004
+431;St. Anger;0;Metallica;AL;metal;2000-2004
+432;Duvet;79;bôa;AL;anime;2000-2004
+433;Jenny from the Block;0;Jennifer Lopez;AL;pop;2000-2004
+434;Clocks;79;Coldplay;AL;rock;2000-2004
+435;collective mode;0;PE'Z;AL;jazz;2000-2004
+436;Till I Collapse;79;Eminem, Nate Dogg;AL;NULL;2000-2004
+437;HEY! JORDU!;0;PE'Z;AL;NULL;2000-2004
+438;Faint;79;Linkin Park;AL;rock;2000-2004
+439;Un Condenado Te Amo;0;Paolo Meneguzzi;AL;Favoritos;2000-2004
+440;Chop Suey!;79;System Of A Down;AL;alternative metal;2000-2004
+441;Sing For The Moment - Edited;0;Eminem;AL;NULL;2000-2004
+442;Seven Nation Army;78;The White Stripes;AL;rock;2000-2004
+443;The Way I Am;0;Eminem;AL;rap;2000-2004
+444;One Step Closer;78;Linkin Park;AL;Nu Metal;2000-2004
+445;"Rama Hare - From ""Soothradharan""";0;Raveendran, Edappal Viswan, Gayathri Ashokan;AL;NULL;2000-2004
+446;This Love;78;Maroon 5;AL;pop;2000-2004
+447;Oceano - Ao Vivo;0;Djavan;AL;NULL;2000-2004
+448;She Will Be Loved - Radio Mix;78;Maroon 5;AL;pop;2000-2004
+449;Tvou Vuni Stale Znam;0;Frantisek Nedved;AL;NULL;2000-2004
+450;Eho Pethani Gia Sena;44;Anna Vissi;GR;NULL;2000-2004
+451;Angel;28;Shaggy, Rayvon;GR;NULL;2000-2004
+452;Mockingbird;81;Eminem;GR;rap;2000-2004
+453;La vita è;1;Nek;GR;pop;2000-2004
+454;Tesseris Pige;43;Giorgos Mazonakis;GR;NULL;2000-2004
+455;Your Sweetness Is Your Weakness;0;Dead Or Alive;GR;pop;2000-2004
+456;Without Me;83;Eminem;GR;rap;2000-2004
+457;"""Heroes"" - Live At The Isle Of Wight, 2004";0;David Bowie;GR;NULL;2000-2004
+458;Diskola Feggaria;43;Giorgos Mazonakis;GR;NULL;2000-2004
+459;Cabelo Raspadinho;2;Chiclete Com Banana;GR;brasil;2000-2004
+460;Yellow;86;Coldplay;GR;rock;2000-2004
+461;Devolva-Me;1;Adriana Calcanhotto;GR;mpb;2000-2004
+462;O Proskynitis;42;Alkinoos Ioannidis;GR;NULL;2000-2004
+463;This Is My Time;0;Sasha;GR;pop;2000-2004
+464;The Real Slim Shady;81;Eminem;GR;rap;2000-2004
+465;He Loves U Not;0;Dream;GR;pop;2000-2004
+466;Ise;42;Anna Vissi;GR;Greek;2000-2004
+467;Rooftop;0;Sasha;GR;pop;2000-2004
+468;Till I Collapse;79;Eminem, Nate Dogg;GR;NULL;2000-2004
+469;Stuck in the Middle with You;0;Louise;GR;pop;2000-2004
+470;In Da Club;77;50 Cent;GR;rap;2000-2004
+471;Dímelo bajito;0;Manzanita;GR;NULL;2000-2004
+472;Numb;83;Linkin Park;GR;rock;2000-2004
+473;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;GR;NULL;2000-2004
+474;Superman;78;Eminem, Dina Rae;GR;NULL;2000-2004
+475;2 Faced;0;Louise;GR;pop;2000-2004
+476;Yeah! (feat. Lil Jon & Ludacris);80;USHER, Lil Jon, Ludacris;GR;NULL;2000-2004
+477;Kiedy góral umiera;0;Harlem;GR;polish;2000-2004
+478;In the End;82;Linkin Park;GR;rock;2000-2004
+479;San Pedro;0;Revolver, Mick Glossp;GR;NULL;2000-2004
+480;Genethlia;43;Notis Sfakianakis;GR;Greek;2000-2004
+481;El peligro;0;Revolver;GR;metal;2000-2004
+482;Psihedelia;45;Anna Vissi;GR;Greek;2000-2004
+483;This Is Me;0;Dream;GR;pop;2000-2004
+484;Bring Me To Life;80;Evanescence;GR;rock;2000-2004
+485;Here She Comes Again;0;Sasha;GR;pop;2000-2004
+486;Crazy In Love (feat. JAY-Z);76;Beyoncé, JAY-Z;GR;NULL;2000-2004
+487;Turn It into Something Special;0;Sasha;GR;pop;2000-2004
+488;Fallin';73;Alicia Keys;GR;soul;2000-2004
+489;Beautiful Inside;0;Louise;GR;pop;2000-2004
+490;Somewhere Only We Know;80;Keane;GR;britpop;2000-2004
+491;American Life (Director's Cut) - 4K Remaster;0;Madonna;GR;NULL;2000-2004
+492;O Kosmos Pou Allazei;40;Alkinoos Ioannidis;GR;Greek;2000-2004
+493;Wierz? w siebie;0;Harlem;GR;NULL;2000-2004
+494;Sta Ipa Ola;40;Sokratis Malamas;GR;acoustic;2000-2004
+495;Eso de saber;0;Revolver;GR;LO MAS;2000-2004
+496;Agapi Ipervoliki;40;Anna Vissi;GR;Greek;2000-2004
+497;Take Me Home;0;Terror Squad, remy, Fat Joe, Dre, Armageddon;GR;NULL;2000-2004
+498;Ah Koritsi Mou;43;Giannis Ploutarhos;GR;griechische Musik;2000-2004
+499;Love Is Alive - Live;;;;;2000-2004
+500;Yellow;86;Coldplay;MT;rock;2000-2004
+501;Angel;28;Shaggy, Rayvon;MT;NULL;2000-2004
+502;The Scientist;83;Coldplay;MT;Coldplay;2000-2004
+503;2 Faced;0;Louise;MT;pop;2000-2004
+504;Somewhere Only We Know;80;Keane;MT;britpop;2000-2004
+505;Stuck in the Middle with You;0;Louise;MT;pop;2000-2004
+506;Mr. Brightside;82;The Killers;MT;rock;2000-2004
+507;Cabelo Raspadinho;2;Chiclete Com Banana;MT;brasil;2000-2004
+508;Unwritten;81;Natasha Bedingfield;MT;pop;2000-2004
+509;Devolva-Me;1;Adriana Calcanhotto;MT;mpb;2000-2004
+510;Clocks;79;Coldplay;MT;rock;2000-2004
+511;La vita è;1;Nek;MT;pop;2000-2004
+512;Numb;83;Linkin Park;MT;rock;2000-2004
+513;This Is My Time;0;Sasha;MT;pop;2000-2004
+514;Mockingbird;81;Eminem;MT;rap;2000-2004
+515;He Loves U Not;0;Dream;MT;pop;2000-2004
+516;Yeah! (feat. Lil Jon & Ludacris);80;USHER, Lil Jon, Ludacris;MT;NULL;2000-2004
+517;Rooftop;0;Sasha;MT;pop;2000-2004
+518;She Will Be Loved - Radio Mix;78;Maroon 5;MT;pop;2000-2004
+519;Dímelo bajito;0;Manzanita;MT;NULL;2000-2004
+520;Without Me;83;Eminem;MT;rap;2000-2004
+521;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;MT;NULL;2000-2004
+522;In the End;82;Linkin Park;MT;rock;2000-2004
+523;Kiedy góral umiera;0;Harlem;MT;polish;2000-2004
+524;Sparks;82;Coldplay;MT;rock;2000-2004
+525;San Pedro;0;Revolver, Mick Glossp;MT;NULL;2000-2004
+526;The Real Slim Shady;81;Eminem;MT;rap;2000-2004
+527;El peligro;0;Revolver;MT;metal;2000-2004
+528;Can't Stop;80;Red Hot Chili Peppers;MT;rock;2000-2004
+529;This Is Me;0;Dream;MT;pop;2000-2004
+530;White Flag;72;Dido;MT;pop;2000-2004
+531;Here She Comes Again;0;Sasha;MT;pop;2000-2004
+532;Feel;72;Robbie Williams;MT;pop;2000-2004
+533;Turn It into Something Special;0;Sasha;MT;pop;2000-2004
+534;In Da Club;77;50 Cent;MT;rap;2000-2004
+535;Beautiful Inside;0;Louise;MT;pop;2000-2004
+536;How You Remind Me;80;Nickelback;MT;rock;2000-2004
+537;American Life (Director's Cut) - 4K Remaster;0;Madonna;MT;NULL;2000-2004
+538;Till I Collapse;79;Eminem, Nate Dogg;MT;NULL;2000-2004
+539;Wierz? w siebie;0;Harlem;MT;NULL;2000-2004
+540;This Love;78;Maroon 5;MT;pop;2000-2004
+541;Eso de saber;0;Revolver;MT;LO MAS;2000-2004
+542;Lose Yourself;76;Eminem;MT;rap;2000-2004
+543;Take Me Home;0;Terror Squad, remy, Fat Joe, Dre, Armageddon;MT;NULL;2000-2004
+544;Complicated;78;Avril Lavigne;MT;pop;2000-2004
+545;Love Is Alive - Live;;;;;2000-2004
+546;Bring Me To Life;80;Evanescence;MT;rock;2000-2004
+547;Ni na no;0;Javier Álvarez;MT;NULL;2000-2004
+548;Dancing in the Moonlight;75;Toploader;MT;pop;2000-2004
+549;Call Me;0;Blondie;MT;80s;2000-2004
+550;Yellow;86;Coldplay;CY;rock;2000-2004
+551;Angel;28;Shaggy, Rayvon;CY;NULL;2000-2004
+552;Without Me;83;Eminem;CY;rap;2000-2004
+553;This Is Me;0;Dream;CY;pop;2000-2004
+554;Mockingbird;81;Eminem;CY;rap;2000-2004
+555;2 Faced;0;Louise;CY;pop;2000-2004
+556;Numb;83;Linkin Park;CY;rock;2000-2004
+557;Cabelo Raspadinho;2;Chiclete Com Banana;CY;brasil;2000-2004
+558;Eho Pethani Gia Sena;44;Anna Vissi;CY;NULL;2000-2004
+559;Devolva-Me;1;Adriana Calcanhotto;CY;mpb;2000-2004
+560;In the End;82;Linkin Park;CY;rock;2000-2004
+561;La vita è;1;Nek;CY;pop;2000-2004
+562;The Real Slim Shady;81;Eminem;CY;rap;2000-2004
+563;This Is My Time;0;Sasha;CY;pop;2000-2004
+564;Genethlia;43;Notis Sfakianakis;CY;Greek;2000-2004
+565;He Loves U Not;0;Dream;CY;pop;2000-2004
+566;The Scientist;83;Coldplay;CY;Coldplay;2000-2004
+567;Rooftop;0;Sasha;CY;pop;2000-2004
+568;Somewhere Only We Know;80;Keane;CY;britpop;2000-2004
+569;Stuck in the Middle with You;0;Louise;CY;pop;2000-2004
+570;Bring Me To Life;80;Evanescence;CY;rock;2000-2004
+571;Dímelo bajito;0;Manzanita;CY;NULL;2000-2004
+572;O Proskynitis;42;Alkinoos Ioannidis;CY;NULL;2000-2004
+573;Dar A Volta No Brasil - Ao Vivo;0;Chiclete Com Banana;CY;NULL;2000-2004
+574;Till I Collapse;79;Eminem, Nate Dogg;CY;NULL;2000-2004
+575;Kiedy góral umiera;0;Harlem;CY;polish;2000-2004
+576;How You Remind Me;80;Nickelback;CY;rock;2000-2004
+577;San Pedro;0;Revolver, Mick Glossp;CY;NULL;2000-2004
+578;Toxicity;80;System Of A Down;CY;metal;2000-2004
+579;El peligro;0;Revolver;CY;metal;2000-2004
+580;Yeah! (feat. Lil Jon & Ludacris);80;USHER, Lil Jon, Ludacris;CY;NULL;2000-2004
+581;Here She Comes Again;0;Sasha;CY;pop;2000-2004
+582;O Kosmos Pou Allazei;40;Alkinoos Ioannidis;CY;Greek;2000-2004
+583;Turn It into Something Special;0;Sasha;CY;pop;2000-2004
+584;Unwritten;81;Natasha Bedingfield;CY;pop;2000-2004
+585;Beautiful Inside;0;Louise;CY;pop;2000-2004
+586;Can't Stop;80;Red Hot Chili Peppers;CY;rock;2000-2004
+587;American Life (Director's Cut) - 4K Remaster;0;Madonna;CY;NULL;2000-2004
+588;Superman;78;Eminem, Dina Rae;CY;NULL;2000-2004
+589;Wierz? w siebie;0;Harlem;CY;NULL;2000-2004
+590;Psihedelia;45;Anna Vissi;CY;Greek;2000-2004
+591;Eso de saber;0;Revolver;CY;LO MAS;2000-2004
+592;Clocks;79;Coldplay;CY;rock;2000-2004
+593;Take Me Home;0;Terror Squad, remy, Fat Joe, Dre, Armageddon;CY;NULL;2000-2004
+594;In Da Club;77;50 Cent;CY;rap;2000-2004
+595;Love Is Alive - Live;;;;;2000-2004
+596;Chop Suey!;79;System Of A Down;CY;alternative metal;2000-2004
+597;Ni na no;0;Javier Álvarez;CY;NULL;2000-2004
+598;Faint;79;Linkin Park;CY;rock;2000-2004
+599;Call Me;0;Blondie;CY;80s;2000-2004
+600;Caminando por la vida;64;Melendi;ES;pop espanol;2005-2009
+601;Odio;1;Revolver;ES;spanish;2005-2009
+602;Por la boca vive el pez;62;Fito y Fitipaldis;ES;spanish;2005-2009
+603;Historia universal (El amor no es lo que piensas);0;DELUXE;ES;indie;2005-2009
+604;Un violinista en tu tejado;61;Melendi;ES;spanish;2005-2009
+605;Colillas en el sueño;0;DELUXE;ES;NULL;2005-2009
+606;Viva La Vida;82;Coldplay;ES;Coldplay;2005-2009
+607;Tendremos que esperar;0;DELUXE;ES;spanish pop;2005-2009
+608;Antes de que cuente diez;60;Fito y Fitipaldis;ES;spanish;2005-2009
+609;Mi rendición;0;Revolver;ES;Rock en Espanol;2005-2009
+610;No Puedo Vivir Sin Ti;60;Los Ronaldos;ES;spanish;2005-2009
+611;Si es tan solo amor;0;Revolver;ES;blues guitar;2005-2009
+612;Princesas;60;Pereza;ES;Pereza;2005-2009
+613;No va más;0;Revolver;ES;rich spanish pop;2005-2009
+614;Me equivocaría otra vez;59;Fito y Fitipaldis;ES;NULL;2005-2009
+615;Y pasa el tiempo;0;Revolver;ES;NULL;2005-2009
+616;Marta, Sebas, Guille y los demás;59;Amaral;ES;spanish;2005-2009
+617;Rain on Me;0;Beth;ES;pop;2005-2009
+618;Con la luna llena;59;Melendi;ES;spanish;2005-2009
+619;El roce de tu piel;0;Revolver;ES;Spanish Rock;2005-2009
+620;Tenia Tanto Que Darte;58;Nena Daconte;ES;spanish;2005-2009
+621;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;ES;NULL;2005-2009
+622;Zapatillas;58;El Canto Del Loco;ES;spanish;2005-2009
+623;Clapton: Tears in Heaven/video;1;The Choirboys;ES;NULL;2005-2009
+624;Mi Estrella Blanca;58;Fondo Flamenco;ES;Flamenco;2005-2009
+625;Get Around Town;0;Revolver;ES;rock;2005-2009
+626;En Que Estrella Estara;58;Nena Daconte;ES;eurocajon11;2005-2009
+627;Caro diario;0;Javier Álvarez;ES;NULL;2005-2009
+628;Paseo;57;Estopa;ES;paseo;2005-2009
+629;All These Things;0;Beth;ES;guilty pleasure;2005-2009
+630;Fix You;81;Coldplay;ES;Coldplay;2005-2009
+631;J'étais comme eux;0;Demon One;ES;NULL;2005-2009
+632;Kisiera yo saber;57;Melendi;ES;Flamenco;2005-2009
+633;Stars of CCTV - Live at the Astoria;0;Hard-Fi;ES;NULL;2005-2009
+634;Virtual Diva;70;Don Omar;ES;Reggaeton;2005-2009
+635;Nothing to Lose;0;Operator;ES;rock;2005-2009
+636;Sé lo que hicisteis - 2006 Remastered Version;57;Melendi;ES;NULL;2005-2009
+637;Sí, sí - Directo 07;0;Los Ronaldos;ES;NULL;2005-2009
+638;Besos;56;El Canto Del Loco;ES;spanish;2005-2009
+639;Save Me;1;Morandi, Helene;ES;NULL;2005-2009
+640;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;ES;NULL;2005-2009
+641;Con Tanto Héroe - Live;0;Melendi;ES;NULL;2005-2009
+642;Con sólo una sonrisa;57;Melendi;ES;spanish;2005-2009
+643;Goodbye;0;Sasha;ES;pop;2005-2009
+644;Ella Y Yo - Featuring Don Omar;75;Aventura, Don Omar;ES;NULL;2005-2009
+645;Donde Estan las Llaves;0;CantaJuego;ES;NULL;2005-2009
+646;Volvera;56;El Canto Del Loco;ES;spanish;2005-2009
+647;Blue Man Group - Rock Concert Movement #10;0;Blue Man Group;ES;NULL;2005-2009
+648;El Secreto de las Tortugas;55;Maldita Nerea;ES;pop;2005-2009
+649;Smiley Faces - Live T4 Performance;0;Gnarls Barkley;ES;NULL;2005-2009
+650;Viva La Vida;82;Coldplay;FR;Coldplay;2005-2009
+651;Caught Up - Music Video;0;USHER;FR;NULL;2005-2009
+652;Breakin' Dishes;81;Rihanna;FR;rnb;2005-2009
+653;Can I Have It Like That;0;Pharrell, Gwen Stefani;FR;NULL;2005-2009
+654;I Gotta Feeling;77;Black Eyed Peas;FR;pop;2005-2009
+655;How We Do;0;The Game;FR;Hip-Hop;2005-2009
+656;Poker Face;79;Lady Gaga;FR;pop;2005-2009
+657;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;FR;NULL;2005-2009
+658;La Boulette (Génération Nan Nan);59;Diam's;FR;french;2005-2009
+659;Odio;1;Revolver;FR;spanish;2005-2009
+660;Temperature;59;Sean Paul;FR;reggae;2005-2009
+661;Save Me;1;Morandi, Helene;FR;NULL;2005-2009
+662;Feel Good Inc.;82;Gorillaz;FR;alternative;2005-2009
+663;Clapton: Tears in Heaven/video;1;The Choirboys;FR;NULL;2005-2009
+664;Right Round;75;Flo Rida, Kesha;FR;NULL;2005-2009
+665;Historia universal (El amor no es lo que piensas);0;DELUXE;FR;indie;2005-2009
+666;Back To Black;77;Amy Winehouse;FR;soul;2005-2009
+667;Get Around Town;0;Revolver;FR;rock;2005-2009
+668;Il avait les mots;58;Sheryfa Luna;FR;french;2005-2009
+669;Coming Home;0;Sasha;FR;pop;2005-2009
+670;Caravane;59;Raphaël;FR;french;2005-2009
+671;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;FR;NULL;2005-2009
+672;Umbrella;78;Rihanna, JAY-Z;FR;NULL;2005-2009
+673;Colillas en el sueño;0;DELUXE;FR;NULL;2005-2009
+674;505;81;Arctic Monkeys;FR;indie rock;2005-2009
+675;Goodbye;0;Sasha;FR;pop;2005-2009
+676;Don't Stop The Music;78;Rihanna;FR;dance;2005-2009
+677;Stars of CCTV - Live at the Astoria;0;Hard-Fi;FR;NULL;2005-2009
+678;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;FR;NULL;2005-2009
+679;Tendremos que esperar;0;DELUXE;FR;spanish pop;2005-2009
+680;Partenaire Particulier;57;Partenaire Particulier;FR;French 80s;2005-2009
+681;Mi rendición;0;Revolver;FR;Rock en Espanol;2005-2009
+682;Headlock;83;Imogen Heap;FR;electronic;2005-2009
+683;J'étais comme eux;0;Demon One;FR;NULL;2005-2009
+684;Confessions Nocturnes;57;Diam's, Vitaa;FR;NULL;2005-2009
+685;Si es tan solo amor;0;Revolver;FR;blues guitar;2005-2009
+686;The Way I Are;78;Timbaland, Keri Hilson, D.O.E.;FR;NULL;2005-2009
+687;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;FR;NULL;2005-2009
+688;Dis-moi;57;BB Brunes;FR;french;2005-2009
+689;Start Of Something New;0;Troy, Vanessa Hudgens;FR;NULL;2005-2009
+690;Bad Romance;79;Lady Gaga;FR;pop;2005-2009
+691;No va más;0;Revolver;FR;rich spanish pop;2005-2009
+692;Just Dance;77;Lady Gaga, Colby O'Donis;FR;NULL;2005-2009
+693;Slowly;0;Sasha;FR;pop;2005-2009
+694;Gimme More;78;Britney Spears;FR;pop;2005-2009
+695;Soulcrusher;0;Operator;FR;Grunge;2005-2009
+696;Pump It;73;Black Eyed Peas;FR;Hip-Hop;2005-2009
+697;Womanizer (Director's Cut);0;Britney Spears;FR;my dance room;2005-2009
+698;Dog Days Are Over;75;Florence + The Machine;FR;indie;2005-2009
+699;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;FR;NULL;2005-2009
+700;Headlock;83;Imogen Heap;MC;electronic;2005-2009
+701;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;MC;NULL;2005-2009
+702;Viva La Vida;82;Coldplay;MC;Coldplay;2005-2009
+703;Odio;1;Revolver;MC;spanish;2005-2009
+704;Feel Good Inc.;82;Gorillaz;MC;alternative;2005-2009
+705;Save Me;1;Morandi, Helene;MC;NULL;2005-2009
+706;505;81;Arctic Monkeys;MC;indie rock;2005-2009
+707;Historia universal (El amor no es lo que piensas);0;DELUXE;MC;indie;2005-2009
+708;Breakin' Dishes;81;Rihanna;MC;rnb;2005-2009
+709;Get Around Town;0;Revolver;MC;rock;2005-2009
+710;Fix You;81;Coldplay;MC;Coldplay;2005-2009
+711;Coming Home;0;Sasha;MC;pop;2005-2009
+712;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;MC;NULL;2005-2009
+713;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;MC;NULL;2005-2009
+714;Flashing Lights;80;Kanye West, Dwele;MC;NULL;2005-2009
+715;Colillas en el sueño;0;DELUXE;MC;NULL;2005-2009
+716;Promiscuous;80;Nelly Furtado, Timbaland;MC;NULL;2005-2009
+717;Goodbye;0;Sasha;MC;pop;2005-2009
+718;Heartless;80;Kanye West;MC;Kanye West;2005-2009
+719;Stars of CCTV - Live at the Astoria;0;Hard-Fi;MC;NULL;2005-2009
+720;Bad Romance;79;Lady Gaga;MC;pop;2005-2009
+721;Tendremos que esperar;0;DELUXE;MC;spanish pop;2005-2009
+722;Smack That;79;Akon, Eminem;MC;NULL;2005-2009
+723;Mi rendición;0;Revolver;MC;Rock en Espanol;2005-2009
+724;Poker Face;79;Lady Gaga;MC;pop;2005-2009
+725;J'étais comme eux;0;Demon One;MC;NULL;2005-2009
+726;Sex on Fire;79;Kings of Leon;MC;rock;2005-2009
+727;Si es tan solo amor;0;Revolver;MC;blues guitar;2005-2009
+728;Gimme More;78;Britney Spears;MC;pop;2005-2009
+729;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;MC;NULL;2005-2009
+730;Maneater;78;Nelly Furtado;MC;pop;2005-2009
+731;Start Of Something New;0;Troy, Vanessa Hudgens;MC;NULL;2005-2009
+732;The Way I Are;78;Timbaland, Keri Hilson, D.O.E.;MC;NULL;2005-2009
+733;No va más;0;Revolver;MC;rich spanish pop;2005-2009
+734;I Wonder;78;Kanye West;MC;Hip-Hop;2005-2009
+735;Slowly;0;Sasha;MC;pop;2005-2009
+736;How to Save a Life;78;The Fray;MC;alternative;2005-2009
+737;Soulcrusher;0;Operator;MC;Grunge;2005-2009
+738;Umbrella;78;Rihanna, JAY-Z;MC;NULL;2005-2009
+739;Womanizer (Director's Cut);0;Britney Spears;MC;my dance room;2005-2009
+740;Chasing Cars;78;Snow Patrol;MC;indie;2005-2009
+741;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;MC;NULL;2005-2009
+742;Don't Stop The Music;78;Rihanna;MC;dance;2005-2009
+743;B.Y.O.B.;0;System Of A Down;MC;alternative metal;2005-2009
+744;Empire State Of Mind;77;JAY-Z, Alicia Keys;MC;NULL;2005-2009
+745;Nothing to Lose;0;Operator;MC;rock;2005-2009
+746;I Gotta Feeling;77;Black Eyed Peas;MC;pop;2005-2009
+747;Nossa História - Ao Vivo;0;Edson & Hudson;MC;NULL;2005-2009
+748;What I've Done;77;Linkin Park;MC;rock;2005-2009
+749;Até O Sol Quis Ver;0;Exaltasamba;MC;Pagode;2005-2009
+750;Viva La Vida;69;Coldplay;IT;Coldplay;2005-2009
+751;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;IT;NULL;2005-2009
+752;Marmellata #25;57;Cesare Cremonini;IT;NULL;2005-2009
+753;Get Around Town;0;Revolver;IT;rock;2005-2009
+754;Breakin' Dishes;81;Rihanna;IT;rnb;2005-2009
+755;Sono Pazzo Di Te;0;Max Gazzè;IT;alternative;2005-2009
+756;Estate;57;Negramaro;IT;italian;2005-2009
+757;B.Y.O.B.;0;System Of A Down;IT;alternative metal;2005-2009
+758;Poker Face;79;Lady Gaga;IT;pop;2005-2009
+759;No va más;0;Revolver;IT;rich spanish pop;2005-2009
+760;505;81;Arctic Monkeys;IT;indie rock;2005-2009
+761;Stars of CCTV - Live at the Astoria;0;Hard-Fi;IT;NULL;2005-2009
+762;Fix You;81;Coldplay;IT;Coldplay;2005-2009
+763;Save Me;1;Morandi, Helene;IT;NULL;2005-2009
+764;Feel Good Inc.;82;Gorillaz;IT;alternative;2005-2009
+765;Historia universal (El amor no es lo que piensas);0;DELUXE;IT;indie;2005-2009
+766;Heartless;80;Kanye West;IT;Kanye West;2005-2009
+767;Odio;1;Revolver;IT;spanish;2005-2009
+768;Right Round;75;Flo Rida, Kesha;IT;NULL;2005-2009
+769;Mi rendición;0;Revolver;IT;Rock en Espanol;2005-2009
+770;I Gotta Feeling;77;Black Eyed Peas;IT;pop;2005-2009
+771;Si es tan solo amor;0;Revolver;IT;blues guitar;2005-2009
+772;Just Dance;77;Lady Gaga, Colby O'Donis;IT;NULL;2005-2009
+773;Colillas en el sueño;0;DELUXE;IT;NULL;2005-2009
+774;Umbrella;78;Rihanna, JAY-Z;IT;NULL;2005-2009
+775;Clapton: Tears in Heaven/video;1;The Choirboys;IT;NULL;2005-2009
+776;What I've Done;77;Linkin Park;IT;rock;2005-2009
+777;Soulcrusher;0;Operator;IT;Grunge;2005-2009
+778;Bad Romance;79;Lady Gaga;IT;pop;2005-2009
+779;Womanizer (Director's Cut);0;Britney Spears;IT;my dance room;2005-2009
+780;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;IT;NULL;2005-2009
+781;Ass Like That - Super Clean Version;0;Eminem;IT;NULL;2005-2009
+782;Empire State Of Mind;77;JAY-Z, Alicia Keys;IT;NULL;2005-2009
+783;The Streets;0;WC, Snoop Dogg, Nate Dogg;IT;NULL;2005-2009
+784;Don't Stop The Music;78;Rihanna;IT;dance;2005-2009
+785;We're All In This Together;0;Troy, High School Musical Cast, Vanessa Hudgens;IT;NULL;2005-2009
+786;Hot N Cold;72;Katy Perry;IT;pop;2005-2009
+787;From Yesterday;0;Thirty Seconds To Mars;IT;alternative rock;2005-2009
+788;Smack That;79;Akon, Eminem;IT;NULL;2005-2009
+789;Da Rockwilder;0;Method Man, Redman;IT;NULL;2005-2009
+790;How to Save a Life;78;The Fray;IT;alternative;2005-2009
+791;Thriller 25th Anniversary;0;Michael Jackson;IT;NULL;2005-2009
+792;Flashing Lights;80;Kanye West, Dwele;IT;NULL;2005-2009
+793;Cacca Nello Spazio - Live / Milan, Italy / 2009;0;Caparezza;IT;NULL;2005-2009
+794;Dog Days Are Over;75;Florence + The Machine;IT;indie;2005-2009
+795;Japan Summer Sonic, LPTV Episode 10;0;Linkin Park;IT;NULL;2005-2009
+796;Back To Black;77;Amy Winehouse;IT;soul;2005-2009
+797;I Know What I Like (In Your Wardrobe);0;Genesis;IT;Progressive rock;2005-2009
+798;Can't Tell Me Nothing;77;Kanye West;IT;Hip-Hop;2005-2009
+799;Europe / Asia Tour, LPTV Episode 7;0;Linkin Park;IT;NULL;2005-2009
+800;Viva La Vida;82;Coldplay;SI;Coldplay;2005-2009
+801;Clapton: Tears in Heaven/video;1;The Choirboys;SI;NULL;2005-2009
+802;Breakin' Dishes;81;Rihanna;SI;rnb;2005-2009
+803;Get Around Town;0;Revolver;SI;rock;2005-2009
+804;Čas;31;DAN D;SI;emotional;2005-2009
+805;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;SI;NULL;2005-2009
+806;505;81;Arctic Monkeys;SI;indie rock;2005-2009
+807;Odio;1;Revolver;SI;spanish;2005-2009
+808;Heartless;80;Kanye West;SI;Kanye West;2005-2009
+809;Save Me;1;Morandi, Helene;SI;NULL;2005-2009
+810;Soba 102;31;Jan Plestenjak, Lara;SI;NULL;2005-2009
+811;Historia universal (El amor no es lo que piensas);0;DELUXE;SI;indie;2005-2009
+812;Poker Face;79;Lady Gaga;SI;pop;2005-2009
+813;Coming Home;0;Sasha;SI;pop;2005-2009
+814;Iz Pekla Do Raja;30;Jan Plestenjak, Eva Moškon;SI;NULL;2005-2009
+815;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;SI;NULL;2005-2009
+816;Flashing Lights;80;Kanye West, Dwele;SI;NULL;2005-2009
+817;Colillas en el sueño;0;DELUXE;SI;NULL;2005-2009
+818;Headlock;83;Imogen Heap;SI;electronic;2005-2009
+819;Goodbye;0;Sasha;SI;pop;2005-2009
+820;Don't Stop The Music;78;Rihanna;SI;dance;2005-2009
+821;Stars of CCTV - Live at the Astoria;0;Hard-Fi;SI;NULL;2005-2009
+822;Aspirin;46;Seka Aleksić;SI;pop;2005-2009
+823;Tendremos que esperar;0;DELUXE;SI;spanish pop;2005-2009
+824;Feel Good Inc.;82;Gorillaz;SI;alternative;2005-2009
+825;Mi rendición;0;Revolver;SI;Rock en Espanol;2005-2009
+826;Z Goričkega V Piran;29;Vlado Kreslin;SI;NULL;2005-2009
+827;J'étais comme eux;0;Demon One;SI;NULL;2005-2009
+828;Hot N Cold;72;Katy Perry;SI;pop;2005-2009
+829;Si es tan solo amor;0;Revolver;SI;blues guitar;2005-2009
+830;Just Dance;77;Lady Gaga, Colby O'Donis;SI;NULL;2005-2009
+831;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;SI;NULL;2005-2009
+832;I Gotta Feeling;77;Black Eyed Peas;SI;pop;2005-2009
+833;Start Of Something New;0;Troy, Vanessa Hudgens;SI;NULL;2005-2009
+834;Homecoming;76;Kanye West, Chris Martin;SI;NULL;2005-2009
+835;No va más;0;Revolver;SI;rich spanish pop;2005-2009
+836;Sex on Fire;79;Kings of Leon;SI;rock;2005-2009
+837;Slowly;0;Sasha;SI;pop;2005-2009
+838;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;SI;NULL;2005-2009
+839;Soulcrusher;0;Operator;SI;Grunge;2005-2009
+840;Da Se Nađemo Na Pola Puta;42;Neda Ukraden;SI;NULL;2005-2009
+841;Womanizer (Director's Cut);0;Britney Spears;SI;my dance room;2005-2009
+842;Sam Da Ti Maš Mene Rada;28;Jan Plestenjak;SI;NULL;2005-2009
+843;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;SI;NULL;2005-2009
+844;This Is The Life;72;Amy Macdonald;SI;female vocalists;2005-2009
+845;B.Y.O.B.;0;System Of A Down;SI;alternative metal;2005-2009
+846;Prava ljubav;41;Lana Jurcevic, Luka Nizetic;SI;NULL;2005-2009
+847;Nothing to Lose;0;Operator;SI;rock;2005-2009
+848;Bad Romance;79;Lady Gaga;SI;pop;2005-2009
+849;Nossa História - Ao Vivo;0;Edson & Hudson;SI;NULL;2005-2009
+850;Breakin' Dishes;81;Rihanna;HR;rnb;2005-2009
+851;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;HR;NULL;2005-2009
+852;Za Dobra Stara Vremena;43;Novi Fosili;HR;croatian;2005-2009
+853;Clapton: Tears in Heaven/video;1;The Choirboys;HR;NULL;2005-2009
+854;Prava ljubav;41;Lana Jurcevic, Luka Nizetic;HR;NULL;2005-2009
+855;Get Around Town;0;Revolver;HR;rock;2005-2009
+856;505;81;Arctic Monkeys;HR;indie rock;2005-2009
+857;True To The Game;0;Ice Cube;HR;hip hop;2005-2009
+858;Headlock;83;Imogen Heap;HR;electronic;2005-2009
+859;Odio;1;Revolver;HR;spanish;2005-2009
+860;Viva La Vida;82;Coldplay;HR;Coldplay;2005-2009
+861;Save Me;1;Morandi, Helene;HR;NULL;2005-2009
+862;Romale Romali;45;Ana Nikolić;HR;favorites;2005-2009
+863;Historia universal (El amor no es lo que piensas);0;DELUXE;HR;indie;2005-2009
+864;Heartless;80;Kanye West;HR;Kanye West;2005-2009
+865;Coming Home;0;Sasha;HR;pop;2005-2009
+866;Poker Face;79;Lady Gaga;HR;pop;2005-2009
+867;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;HR;NULL;2005-2009
+868;Iza Devet Sela;38;Nenad Ninčevič;HR;NULL;2005-2009
+869;Colillas en el sueño;0;DELUXE;HR;NULL;2005-2009
+870;Usne boje vina;45;Boban Rajovic;HR;narodna muzika;2005-2009
+871;Goodbye;0;Sasha;HR;pop;2005-2009
+872;Sude Mi;39;Miroslav Škoro;HR;croatian;2005-2009
+873;Stars of CCTV - Live at the Astoria;0;Hard-Fi;HR;NULL;2005-2009
+874;Dvi Sestre Blizanke (feat. Prva Liga);38;Dalmatino, Prva Liga;HR;NULL;2005-2009
+875;Tendremos que esperar;0;DELUXE;HR;spanish pop;2005-2009
+876;Tvoje Oci;45;Goga Sekulić, Osman Hadzic;HR;NULL;2005-2009
+877;Mi rendición;0;Revolver;HR;Rock en Espanol;2005-2009
+878;Tako Mlada;44;Tanja Savic;HR;pop;2005-2009
+879;J'étais comme eux;0;Demon One;HR;NULL;2005-2009
+880;Feel Good Inc.;82;Gorillaz;HR;alternative;2005-2009
+881;Si es tan solo amor;0;Revolver;HR;blues guitar;2005-2009
+882;Aspirin;46;Seka Aleksić;HR;pop;2005-2009
+883;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;HR;NULL;2005-2009
+884;Da Se Nađemo Na Pola Puta;42;Neda Ukraden;HR;NULL;2005-2009
+885;Start Of Something New;0;Troy, Vanessa Hudgens;HR;NULL;2005-2009
+886;Don't Stop The Music;78;Rihanna;HR;dance;2005-2009
+887;No va más;0;Revolver;HR;rich spanish pop;2005-2009
+888;Gacice;43;Goga Sekulić;HR;NULL;2005-2009
+889;Slowly;0;Sasha;HR;pop;2005-2009
+890;Just Dance;77;Lady Gaga, Colby O'Donis;HR;NULL;2005-2009
+891;Soulcrusher;0;Operator;HR;Grunge;2005-2009
+892;Neću Izdat Ja;36;Nenad Ninčevič;HR;NULL;2005-2009
+893;Womanizer (Director's Cut);0;Britney Spears;HR;my dance room;2005-2009
+894;Flashing Lights;80;Kanye West, Dwele;HR;NULL;2005-2009
+895;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;HR;NULL;2005-2009
+896;Boze Brani Je Od Zla;42;Toše Proeski;HR;sexy;2005-2009
+897;B.Y.O.B.;0;System Of A Down;HR;alternative metal;2005-2009
+898;Sto puta;41;Zdravko Čolić;HR;NULL;2005-2009
+899;Nothing to Lose;0;Operator;HR;rock;2005-2009
+900;Headlock;83;Imogen Heap;BA;electronic;2005-2009
+901;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;BA;NULL;2005-2009
+902;Viva La Vida;82;Coldplay;BA;Coldplay;2005-2009
+903;Odio;1;Revolver;BA;spanish;2005-2009
+904;Feel Good Inc.;82;Gorillaz;BA;alternative;2005-2009
+905;Save Me;1;Morandi, Helene;BA;NULL;2005-2009
+906;505;81;Arctic Monkeys;BA;indie rock;2005-2009
+907;Historia universal (El amor no es lo que piensas);0;DELUXE;BA;indie;2005-2009
+908;Breakin' Dishes;81;Rihanna;BA;rnb;2005-2009
+909;Get Around Town;0;Revolver;BA;rock;2005-2009
+910;Fix You;81;Coldplay;BA;Coldplay;2005-2009
+911;Coming Home;0;Sasha;BA;pop;2005-2009
+912;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;BA;NULL;2005-2009
+913;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;BA;NULL;2005-2009
+914;Flashing Lights;80;Kanye West, Dwele;BA;NULL;2005-2009
+915;Colillas en el sueño;0;DELUXE;BA;NULL;2005-2009
+916;Promiscuous;80;Nelly Furtado, Timbaland;BA;NULL;2005-2009
+917;Goodbye;0;Sasha;BA;pop;2005-2009
+918;Heartless;80;Kanye West;BA;Kanye West;2005-2009
+919;Stars of CCTV - Live at the Astoria;0;Hard-Fi;BA;NULL;2005-2009
+920;Bad Romance;79;Lady Gaga;BA;pop;2005-2009
+921;Tendremos que esperar;0;DELUXE;BA;spanish pop;2005-2009
+922;Smack That;79;Akon, Eminem;BA;NULL;2005-2009
+923;Mi rendición;0;Revolver;BA;Rock en Espanol;2005-2009
+924;Poker Face;79;Lady Gaga;BA;pop;2005-2009
+925;J'étais comme eux;0;Demon One;BA;NULL;2005-2009
+926;Sex on Fire;79;Kings of Leon;BA;rock;2005-2009
+927;Si es tan solo amor;0;Revolver;BA;blues guitar;2005-2009
+928;Gimme More;78;Britney Spears;BA;pop;2005-2009
+929;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;BA;NULL;2005-2009
+930;Maneater;78;Nelly Furtado;BA;pop;2005-2009
+931;Start Of Something New;0;Troy, Vanessa Hudgens;BA;NULL;2005-2009
+932;The Way I Are;78;Timbaland, Keri Hilson, D.O.E.;BA;NULL;2005-2009
+933;No va más;0;Revolver;BA;rich spanish pop;2005-2009
+934;I Wonder;78;Kanye West;BA;Hip-Hop;2005-2009
+935;Slowly;0;Sasha;BA;pop;2005-2009
+936;How to Save a Life;78;The Fray;BA;alternative;2005-2009
+937;Soulcrusher;0;Operator;BA;Grunge;2005-2009
+938;Umbrella;78;Rihanna, JAY-Z;BA;NULL;2005-2009
+939;Womanizer (Director's Cut);0;Britney Spears;BA;my dance room;2005-2009
+940;Chasing Cars;78;Snow Patrol;BA;indie;2005-2009
+941;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;BA;NULL;2005-2009
+942;Don't Stop The Music;78;Rihanna;BA;dance;2005-2009
+943;B.Y.O.B.;0;System Of A Down;BA;alternative metal;2005-2009
+944;Empire State Of Mind;77;JAY-Z, Alicia Keys;BA;NULL;2005-2009
+945;Nothing to Lose;0;Operator;BA;rock;2005-2009
+946;I Gotta Feeling;77;Black Eyed Peas;BA;pop;2005-2009
+947;Nossa História - Ao Vivo;0;Edson & Hudson;BA;NULL;2005-2009
+948;What I've Done;77;Linkin Park;BA;rock;2005-2009
+949;Até O Sol Quis Ver;0;Exaltasamba;BA;Pagode;2005-2009
+950;Headlock;83;Imogen Heap;ME;electronic;2005-2009
+951;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;ME;NULL;2005-2009
+952;Viva La Vida;82;Coldplay;ME;Coldplay;2005-2009
+953;Odio;1;Revolver;ME;spanish;2005-2009
+954;Feel Good Inc.;82;Gorillaz;ME;alternative;2005-2009
+955;Save Me;1;Morandi, Helene;ME;NULL;2005-2009
+956;505;81;Arctic Monkeys;ME;indie rock;2005-2009
+957;Clapton: Tears in Heaven/video;1;The Choirboys;ME;NULL;2005-2009
+958;Breakin' Dishes;81;Rihanna;ME;rnb;2005-2009
+959;Historia universal (El amor no es lo que piensas);0;DELUXE;ME;indie;2005-2009
+960;Fix You;81;Coldplay;ME;Coldplay;2005-2009
+961;Get Around Town;0;Revolver;ME;rock;2005-2009
+962;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;ME;NULL;2005-2009
+963;Coming Home;0;Sasha;ME;pop;2005-2009
+964;Flashing Lights;80;Kanye West, Dwele;ME;NULL;2005-2009
+965;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;ME;NULL;2005-2009
+966;Promiscuous;80;Nelly Furtado, Timbaland;ME;NULL;2005-2009
+967;Colillas en el sueño;0;DELUXE;ME;NULL;2005-2009
+968;Heartless;80;Kanye West;ME;Kanye West;2005-2009
+969;Goodbye;0;Sasha;ME;pop;2005-2009
+970;Bad Romance;79;Lady Gaga;ME;pop;2005-2009
+971;Stars of CCTV - Live at the Astoria;0;Hard-Fi;ME;NULL;2005-2009
+972;Smack That;79;Akon, Eminem;ME;NULL;2005-2009
+973;Tendremos que esperar;0;DELUXE;ME;spanish pop;2005-2009
+974;Poker Face;79;Lady Gaga;ME;pop;2005-2009
+975;Mi rendición;0;Revolver;ME;Rock en Espanol;2005-2009
+976;Sex on Fire;79;Kings of Leon;ME;rock;2005-2009
+977;J'étais comme eux;0;Demon One;ME;NULL;2005-2009
+978;Gimme More;78;Britney Spears;ME;pop;2005-2009
+979;Si es tan solo amor;0;Revolver;ME;blues guitar;2005-2009
+980;Maneater;78;Nelly Furtado;ME;pop;2005-2009
+981;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;ME;NULL;2005-2009
+982;The Way I Are;78;Timbaland, Keri Hilson, D.O.E.;ME;NULL;2005-2009
+983;Start Of Something New;0;Troy, Vanessa Hudgens;ME;NULL;2005-2009
+984;I Wonder;78;Kanye West;ME;Hip-Hop;2005-2009
+985;No va más;0;Revolver;ME;rich spanish pop;2005-2009
+986;How to Save a Life;78;The Fray;ME;alternative;2005-2009
+987;Slowly;0;Sasha;ME;pop;2005-2009
+988;Umbrella;78;Rihanna, JAY-Z;ME;NULL;2005-2009
+989;Soulcrusher;0;Operator;ME;Grunge;2005-2009
+990;Chasing Cars;78;Snow Patrol;ME;indie;2005-2009
+991;Womanizer (Director's Cut);0;Britney Spears;ME;my dance room;2005-2009
+992;Don't Stop The Music;78;Rihanna;ME;dance;2005-2009
+993;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;ME;NULL;2005-2009
+994;Empire State Of Mind;77;JAY-Z, Alicia Keys;ME;NULL;2005-2009
+995;B.Y.O.B.;0;System Of A Down;ME;alternative metal;2005-2009
+996;I Gotta Feeling;77;Black Eyed Peas;ME;pop;2005-2009
+997;Nothing to Lose;0;Operator;ME;rock;2005-2009
+998;What I've Done;77;Linkin Park;ME;rock;2005-2009
+999;Nossa História - Ao Vivo;0;Edson & Hudson;ME;NULL;2005-2009
+1000;Headlock;83;Imogen Heap;AL;electronic;2005-2009
+1001;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;AL;NULL;2005-2009
+1002;Viva La Vida;82;Coldplay;AL;Coldplay;2005-2009
+1003;Save Me;1;Morandi, Helene;AL;NULL;2005-2009
+1004;Feel Good Inc.;82;Gorillaz;AL;alternative;2005-2009
+1005;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;AL;NULL;2005-2009
+1006;505;81;Arctic Monkeys;AL;indie rock;2005-2009
+1007;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;AL;NULL;2005-2009
+1008;Breakin' Dishes;81;Rihanna;AL;rnb;2005-2009
+1009;Start Of Something New;0;Troy, Vanessa Hudgens;AL;NULL;2005-2009
+1010;Fix You;81;Coldplay;AL;Coldplay;2005-2009
+1011;Womanizer (Director's Cut);0;Britney Spears;AL;my dance room;2005-2009
+1012;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;AL;NULL;2005-2009
+1013;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;AL;NULL;2005-2009
+1014;Flashing Lights;80;Kanye West, Dwele;AL;NULL;2005-2009
+1015;B.Y.O.B.;0;System Of A Down;AL;alternative metal;2005-2009
+1016;Promiscuous;80;Nelly Furtado, Timbaland;AL;NULL;2005-2009
+1017;Nossa História - Ao Vivo;0;Edson & Hudson;AL;NULL;2005-2009
+1018;Heartless;80;Kanye West;AL;Kanye West;2005-2009
+1019;Até O Sol Quis Ver;0;Exaltasamba;AL;Pagode;2005-2009
+1020;Bad Romance;79;Lady Gaga;AL;pop;2005-2009
+1021;Dança Do Bole, Bole - Live;0;Exaltasamba;AL;NULL;2005-2009
+1022;Smack That;79;Akon, Eminem;AL;NULL;2005-2009
+1023;Samba Menina / Ay Cosita Linda - Ao Vivo;0;Moinho;AL;NULL;2005-2009
+1024;Poker Face;79;Lady Gaga;AL;pop;2005-2009
+1025;É Para Ficar - Live from Ilha de Magia, Florianópolis, Brazil/2008;0;Exaltasamba;AL;NULL;2005-2009
+1026;Sex on Fire;79;Kings of Leon;AL;rock;2005-2009
+1027;Por La Herida De Un Amor;0;Gilberto Santa Rosa;AL;salsa;2005-2009
+1028;Gimme More;78;Britney Spears;AL;pop;2005-2009
+1029;Yeah! - T4 Performance;0;USHER;AL;NULL;2005-2009
+1030;Maneater;78;Nelly Furtado;AL;pop;2005-2009
+1031;My Name Is;0;Eminem;AL;rap;2005-2009
+1032;I Wonder;78;Kanye West;AL;Hip-Hop;2005-2009
+1033;Ainda Ontem Chorei De Saudade - Live From Villa Country, São Paulo, Brazil/2007;0;Edson & Hudson;AL;NULL;2005-2009
+1034;How to Save a Life;78;The Fray;AL;alternative;2005-2009
+1035;Ass Like That - Super Clean Version;0;Eminem;AL;NULL;2005-2009
+1036;Umbrella;78;Rihanna, JAY-Z;AL;NULL;2005-2009
+1037;Bons Momentos - Ao Vivo;0;Inimigos Da HP;AL;NULL;2005-2009
+1038;Chasing Cars;78;Snow Patrol;AL;indie;2005-2009
+1039;A Gente Vai - Ao Vivo;0;Edson & Hudson;AL;NULL;2005-2009
+1040;Don't Stop The Music;78;Rihanna;AL;dance;2005-2009
+1041;How We Do;0;The Game;AL;Hip-Hop;2005-2009
+1042;Empire State Of Mind;77;JAY-Z, Alicia Keys;AL;NULL;2005-2009
+1043;Assovia - Ao Vivo;0;Edson & Hudson;AL;NULL;2005-2009
+1044;I Gotta Feeling;77;Black Eyed Peas;AL;pop;2005-2009
+1045;How Come/Git Up - (Edited Version);0;D12;AL;NULL;2005-2009
+1046;What I've Done;77;Linkin Park;AL;rock;2005-2009
+1047;Le Vide;0;Wir sind Helden;AL;Franzoesich fuer Anfaenger;2005-2009
+1048;Breakeven;77;The Script;AL;rock;2005-2009
+1049;Meu Eu em Você (Video);0;Victor & Leo;AL;NULL;2005-2009
+1050;Breakin' Dishes;81;Rihanna;GR;rnb;2005-2009
+1051;Save Me;1;Morandi, Helene;GR;NULL;2005-2009
+1052;Ola Gia Sena;44;Nikos Oikonomopoulos;GR;NULL;2005-2009
+1053;Get Around Town;0;Revolver;GR;rock;2005-2009
+1054;Svise To Fegari;45;Dimitris Mitropanos;GR;NULL;2005-2009
+1055;Clapton: Tears in Heaven/video;1;The Choirboys;GR;NULL;2005-2009
+1056;505;81;Arctic Monkeys;GR;indie rock;2005-2009
+1057;Stars of CCTV - Live at the Astoria;0;Hard-Fi;GR;NULL;2005-2009
+1058;To Gramma;44;Sokratis Malamas;GR;Greek;2005-2009
+1059;Baby When the Light;0;David Guetta - Steve Angello - Cozi - Joachim Garraud;GR;domicc;2005-2009
+1060;Heartless;80;Kanye West;GR;Kanye West;2005-2009
+1061;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;GR;NULL;2005-2009
+1062;Thes;44;Dimitris Mitropanos;GR;NULL;2005-2009
+1063;Odio;1;Revolver;GR;spanish;2005-2009
+1064;T aneipota;45;Dimitris Zervoudakis;GR;Greek;2005-2009
+1065;Historia universal (El amor no es lo que piensas);0;DELUXE;GR;indie;2005-2009
+1066;Erotas Archagelos;45;Dimitris Mitropanos;GR;NULL;2005-2009
+1067;Coming Home;0;Sasha;GR;pop;2005-2009
+1068;Vradiazei;46;Stelios Kazantzidis;GR;goat;2005-2009
+1069;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;GR;NULL;2005-2009
+1070;Viva La Vida;82;Coldplay;GR;Coldplay;2005-2009
+1071;Colillas en el sueño;0;DELUXE;GR;NULL;2005-2009
+1072;Sti Pira;43;Anna Vissi;GR;cyprus;2005-2009
+1073;Goodbye;0;Sasha;GR;pop;2005-2009
+1074;Smack That;79;Akon, Eminem;GR;NULL;2005-2009
+1075;Tendremos que esperar;0;DELUXE;GR;spanish pop;2005-2009
+1076;Pios Ehi Logo Stin Agapi;42;Filippos Pliatsikas;GR;greek rock;2005-2009
+1077;Mi rendición;0;Revolver;GR;Rock en Espanol;2005-2009
+1078;Poker Face;79;Lady Gaga;GR;pop;2005-2009
+1079;J'étais comme eux;0;Demon One;GR;NULL;2005-2009
+1080;Pio Psila;43;Vegas, Monsieur Zeraw;GR;NULL;2005-2009
+1081;Si es tan solo amor;0;Revolver;GR;blues guitar;2005-2009
+1082;Don't Stop The Music;78;Rihanna;GR;dance;2005-2009
+1083;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;GR;NULL;2005-2009
+1084;Ola Giro Sou Girizoun;42;Sakis Rouvas;GR;Greek;2005-2009
+1085;Start Of Something New;0;Troy, Vanessa Hudgens;GR;NULL;2005-2009
+1086;Back To Black;77;Amy Winehouse;GR;soul;2005-2009
+1087;No va más;0;Revolver;GR;rich spanish pop;2005-2009
+1088;Gimme More;78;Britney Spears;GR;pop;2005-2009
+1089;Slowly;0;Sasha;GR;pop;2005-2009
+1090;Flashing Lights;80;Kanye West, Dwele;GR;NULL;2005-2009
+1091;Soulcrusher;0;Operator;GR;Grunge;2005-2009
+1092;The Way I Are;78;Timbaland, Keri Hilson, D.O.E.;GR;NULL;2005-2009
+1093;Womanizer (Director's Cut);0;Britney Spears;GR;my dance room;2005-2009
+1094;I Fani;41;Vasilis Kazoulis;GR;NULL;2005-2009
+1095;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;GR;NULL;2005-2009
+1096;Feel Good Inc.;82;Gorillaz;GR;alternative;2005-2009
+1097;B.Y.O.B.;0;System Of A Down;GR;alternative metal;2005-2009
+1098;Just A Lil Bit;73;50 Cent;GR;50 Cent;2005-2009
+1099;Nothing to Lose;0;Operator;GR;rock;2005-2009
+1100;Viva La Vida;82;Coldplay;MT;Coldplay;2005-2009
+1101;Save Me;1;Morandi, Helene;MT;NULL;2005-2009
+1102;Fix You;81;Coldplay;MT;Coldplay;2005-2009
+1103;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;MT;NULL;2005-2009
+1104;Heartless;80;Kanye West;MT;Kanye West;2005-2009
+1105;Odio;1;Revolver;MT;spanish;2005-2009
+1106;Smack That;79;Akon, Eminem;MT;NULL;2005-2009
+1107;Clapton: Tears in Heaven/video;1;The Choirboys;MT;NULL;2005-2009
+1108;Chasing Cars;78;Snow Patrol;MT;indie;2005-2009
+1109;Historia universal (El amor no es lo que piensas);0;DELUXE;MT;indie;2005-2009
+1110;Breakin' Dishes;81;Rihanna;MT;rnb;2005-2009
+1111;Get Around Town;0;Revolver;MT;rock;2005-2009
+1112;Poker Face;79;Lady Gaga;MT;pop;2005-2009
+1113;Coming Home;0;Sasha;MT;pop;2005-2009
+1114;Sex on Fire;79;Kings of Leon;MT;rock;2005-2009
+1115;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;MT;NULL;2005-2009
+1116;Promiscuous;80;Nelly Furtado, Timbaland;MT;NULL;2005-2009
+1117;Colillas en el sueño;0;DELUXE;MT;NULL;2005-2009
+1118;505;81;Arctic Monkeys;MT;indie rock;2005-2009
+1119;Goodbye;0;Sasha;MT;pop;2005-2009
+1120;The Way I Are;78;Timbaland, Keri Hilson, D.O.E.;MT;NULL;2005-2009
+1121;Stars of CCTV - Live at the Astoria;0;Hard-Fi;MT;NULL;2005-2009
+1122;Feel Good Inc.;82;Gorillaz;MT;alternative;2005-2009
+1123;Tendremos que esperar;0;DELUXE;MT;spanish pop;2005-2009
+1124;Headlock;83;Imogen Heap;MT;electronic;2005-2009
+1125;Mi rendición;0;Revolver;MT;Rock en Espanol;2005-2009
+1126;Umbrella;78;Rihanna, JAY-Z;MT;NULL;2005-2009
+1127;J'étais comme eux;0;Demon One;MT;NULL;2005-2009
+1128;Don't Stop The Music;78;Rihanna;MT;dance;2005-2009
+1129;Si es tan solo amor;0;Revolver;MT;blues guitar;2005-2009
+1130;Total Eclipse of the Heart;76;Bonnie Tyler;MT;80s;2005-2009
+1131;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;MT;NULL;2005-2009
+1132;I Gotta Feeling;77;Black Eyed Peas;MT;pop;2005-2009
+1133;Start Of Something New;0;Troy, Vanessa Hudgens;MT;NULL;2005-2009
+1134;Just Dance;77;Lady Gaga, Colby O'Donis;MT;NULL;2005-2009
+1135;No va más;0;Revolver;MT;rich spanish pop;2005-2009
+1136;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;MT;NULL;2005-2009
+1137;Slowly;0;Sasha;MT;pop;2005-2009
+1138;Flashing Lights;80;Kanye West, Dwele;MT;NULL;2005-2009
+1139;Soulcrusher;0;Operator;MT;Grunge;2005-2009
+1140;We Are The People;76;Empire Of The Sun;MT;electronic;2005-2009
+1141;Womanizer (Director's Cut);0;Britney Spears;MT;my dance room;2005-2009
+1142;How to Save a Life;78;The Fray;MT;alternative;2005-2009
+1143;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;MT;NULL;2005-2009
+1144;Bad Romance;79;Lady Gaga;MT;pop;2005-2009
+1145;B.Y.O.B.;0;System Of A Down;MT;alternative metal;2005-2009
+1146;Say It Right;76;Nelly Furtado;MT;pop;2005-2009
+1147;Nothing to Lose;0;Operator;MT;rock;2005-2009
+1148;Party In The U.S.A.;76;Miley Cyrus;MT;pop;2005-2009
+1149;Nossa História - Ao Vivo;0;Edson & Hudson;MT;NULL;2005-2009
+1150;Intro;67;The xx;CY;indie;2005-2009
+1151;Save Me;1;Morandi, Helene;CY;NULL;2005-2009
+1152;Breakin' Dishes;81;Rihanna;CY;rnb;2005-2009
+1153;Tu Vuoi Da Me Qualcosa - Live;1;Vasco Rossi;CY;NULL;2005-2009
+1154;505;81;Arctic Monkeys;CY;indie rock;2005-2009
+1155;Odio;1;Revolver;CY;spanish;2005-2009
+1156;Viva La Vida;82;Coldplay;CY;Coldplay;2005-2009
+1157;Clapton: Tears in Heaven/video;1;The Choirboys;CY;NULL;2005-2009
+1158;Heartless;80;Kanye West;CY;Kanye West;2005-2009
+1159;Historia universal (El amor no es lo que piensas);0;DELUXE;CY;indie;2005-2009
+1160;Erotas Archagelos;45;Dimitris Mitropanos;CY;NULL;2005-2009
+1161;Get Around Town;0;Revolver;CY;rock;2005-2009
+1162;Vradiazei;46;Stelios Kazantzidis;CY;goat;2005-2009
+1163;Coming Home;0;Sasha;CY;pop;2005-2009
+1164;Svise To Fegari;45;Dimitris Mitropanos;CY;NULL;2005-2009
+1165;Esqueça Que Eu Te Amo - Ao Vivo;0;Edson & Hudson;CY;NULL;2005-2009
+1166;Smack That;79;Akon, Eminem;CY;NULL;2005-2009
+1167;Colillas en el sueño;0;DELUXE;CY;NULL;2005-2009
+1168;Thes;44;Dimitris Mitropanos;CY;NULL;2005-2009
+1169;Goodbye;0;Sasha;CY;pop;2005-2009
+1170;Ola Gia Sena;44;Nikos Oikonomopoulos;CY;NULL;2005-2009
+1171;Stars of CCTV - Live at the Astoria;0;Hard-Fi;CY;NULL;2005-2009
+1172;T aneipota;45;Dimitris Zervoudakis;CY;Greek;2005-2009
+1173;Tendremos que esperar;0;DELUXE;CY;spanish pop;2005-2009
+1174;Headlock;83;Imogen Heap;CY;electronic;2005-2009
+1175;Mi rendición;0;Revolver;CY;Rock en Espanol;2005-2009
+1176;Lose Yourself;73;Eminem;CY;rap;2005-2009
+1177;J'étais comme eux;0;Demon One;CY;NULL;2005-2009
+1178;Poker Face;79;Lady Gaga;CY;pop;2005-2009
+1179;Si es tan solo amor;0;Revolver;CY;blues guitar;2005-2009
+1180;Feel Good Inc.;82;Gorillaz;CY;alternative;2005-2009
+1181;Tá No Meu Coração - Ao Vivo;0;Edson & Hudson;CY;NULL;2005-2009
+1182;Pios Ehi Logo Stin Agapi;42;Filippos Pliatsikas;CY;greek rock;2005-2009
+1183;Start Of Something New;0;Troy, Vanessa Hudgens;CY;NULL;2005-2009
+1184;Don't Stop The Music;78;Rihanna;CY;dance;2005-2009
+1185;No va más;0;Revolver;CY;rich spanish pop;2005-2009
+1186;Flashing Lights;80;Kanye West, Dwele;CY;NULL;2005-2009
+1187;Slowly;0;Sasha;CY;pop;2005-2009
+1188;Back To Black;77;Amy Winehouse;CY;soul;2005-2009
+1189;Soulcrusher;0;Operator;CY;Grunge;2005-2009
+1190;To Gramma;44;Sokratis Malamas;CY;Greek;2005-2009
+1191;Womanizer (Director's Cut);0;Britney Spears;CY;my dance room;2005-2009
+1192;Sti Pira;43;Anna Vissi;CY;cyprus;2005-2009
+1193;Disco Eterno - Gira Me Verás Volver;0;Soda Stereo;CY;NULL;2005-2009
+1194;The Way I Are;78;Timbaland, Keri Hilson, D.O.E.;CY;NULL;2005-2009
+1195;B.Y.O.B.;0;System Of A Down;CY;alternative metal;2005-2009
+1196;Hips Don't Lie (feat. Wyclef Jean);80;Shakira, Wyclef Jean;CY;NULL;2005-2009
+1197;Nothing to Lose;0;Operator;CY;rock;2005-2009
+1198;Promiscuous;80;Nelly Furtado, Timbaland;CY;NULL;2005-2009
+1199;Nossa História - Ao Vivo;0;Edson & Hudson;CY;NULL;2005-2009
+1200;Tu jardín con enanitos;69;Melendi;ES;pop;2010-2014
+1201;Now Is the Time (feat. Jasmine V);0;Wally Lopez;ES;NULL;2010-2014
+1202;Es un Secreto;77;Plan B;ES;Reggaeton;2010-2014
+1203;Plastic Dreams 2003;2;JayDee;ES;NULL;2010-2014
+1204;La promesa;65;Melendi;ES;NULL;2010-2014
+1205;Smile;0;Abel The Kid, Julio Iglesias Jr.;ES;NULL;2010-2014
+1206;Another Love;82;Tom Odell;ES;indie;2010-2014
+1207;No hay mañanas;0;Revolver;ES;revolver88;2010-2014
+1208;Just the Way You Are;78;Bruno Mars;ES;pop;2010-2014
+1209;Smooth Criminal;0;Michael Jackson;ES;pop;2010-2014
+1210;Lágrimas desordenadas;60;Melendi;ES;melendi;2010-2014
+1211;Quiero aire;0;Revolver;ES;NULL;2010-2014
+1212;A Sky Full of Stars;83;Coldplay;ES;pop;2010-2014
+1213;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;ES;NULL;2010-2014
+1214;Propuesta Indecente;75;Romeo Santos;ES;bachata;2010-2014
+1215;My Love a Piece of My Love (feat. Snoop Dogg);0;Abel The Kid, Julio Iglesias Jr.;ES;NULL;2010-2014
+1216;Barbie de extrarradio;60;Melendi;ES;español;2010-2014
+1217;Il fait chaud;0;Patrick Sébastien;ES;fiesta;2010-2014
+1218;Locked out of Heaven;85;Bruno Mars;ES;pop;2010-2014
+1219;Bitch House;0;Sexplosion;ES;NULL;2010-2014
+1220;Wake Me Up;82;Avicii;ES;electronic;2010-2014
+1221;Losing You;0;Revolver;ES;fip;2010-2014
+1222;Demons;79;Imagine Dragons;ES;rock;2010-2014
+1223;Wind Song;0;Revolver;ES;indie;2010-2014
+1224;Bailando por Ahi;58;Juan Magán;ES;NULL;2010-2014
+1225;Iré tras de ti;0;Mr.;ES;NULL;2010-2014
+1226;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;ES;NULL;2010-2014
+1227;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;ES;NULL;2010-2014
+1228;Limbo;71;Daddy Yankee;ES;Reggaeton;2010-2014
+1229;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;ES;NULL;2010-2014
+1230;La Mujer de Verde;57;IZAL;ES;NULL;2010-2014
+1231;Wild Out Anthem (feat. Jay Colin);0;Wally Lopez;ES;NULL;2010-2014
+1232;When I Was Your Man;83;Bruno Mars;ES;pop;2010-2014
+1233;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;ES;NULL;2010-2014
+1234;Cheque al portamor;62;Melendi;ES;NULL;2010-2014
+1235;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;ES;NULL;2010-2014
+1236;Estoy Hecho De Pedacitos De Ti;56;Antonio Orozco;ES;Flamenco;2010-2014
+1237;Ballada o Janku Wisniewskim;1;Kazik;ES;rock;2010-2014
+1238;All of Me;81;John Legend;ES;rnb;2010-2014
+1239;Invisibili;0;Ape Escape;ES;NULL;2010-2014
+1240;Titanium (feat. Sia);77;David Guetta, Sia;ES;NULL;2010-2014
+1241;"Rum Whisky (From ""Vicky Donor"")";0;Abhishek - Akshay, Akshay Verma;ES;NULL;2010-2014
+1242;Si te vas...;57;Extremoduro;ES;extremoduro;2010-2014
+1243;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;ES;NULL;2010-2014
+1244;I Wanna Be Yours;86;Arctic Monkeys;ES;indie rock;2010-2014
+1245;Bound 2;0;Kanye West;ES;uh huh honey;2010-2014
+1246;Counting Stars;82;OneRepublic;ES;pop rock;2010-2014
+1247;Arramsamsam;0;CantaJuego;ES;NULL;2010-2014
+1248;Yo Te Esperaré;66;Cali Y El Dandee;ES;spanish;2010-2014
+1249;Thoda Thoda;0;Shreya Ghoshal, Sachin;ES;NULL;2010-2014
+1250;Can't Hold Us (feat. Ray Dalton);80;Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton;FR;NULL;2010-2014
+1251;Bede Z Toba;9;Lemon;FR;NULL;2010-2014
+1252;Tu la love;63;Jul;FR;rr;2010-2014
+1253;Plastic Dreams 2003;2;JayDee;FR;NULL;2010-2014
+1254;J'oublie tout;64;Jul;FR;MySpotigramBot;2010-2014
+1255;Bede Z Toba - Hangout Live;2;Lemon;FR;NULL;2010-2014
+1256;Sweater Weather;85;The Neighbourhood;FR;indie;2010-2014
+1257;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;FR;NULL;2010-2014
+1258;I Wanna Be Yours;86;Arctic Monkeys;FR;indie rock;2010-2014
+1259;Ballada o Janku Wisniewskim;1;Kazik;FR;rock;2010-2014
+1260;On se connaît;61;Youssoupha, Noémie;FR;NULL;2010-2014
+1261;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;FR;NULL;2010-2014
+1262;Locked out of Heaven;85;Bruno Mars;FR;pop;2010-2014
+1263;Il fait chaud;0;Patrick Sébastien;FR;fiesta;2010-2014
+1264;A Sky Full of Stars;83;Coldplay;FR;pop;2010-2014
+1265;Lågsus (feat. Medina);0;Specktors, Medina;FR;NULL;2010-2014
+1266;Wati by Night;60;Sexion d'Assaut;FR;french;2010-2014
+1267;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;FR;NULL;2010-2014
+1268;Another Love;59;Tom Odell;FR;indie;2010-2014
+1269;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;FR;NULL;2010-2014
+1270;Demons;79;Imagine Dragons;FR;rock;2010-2014
+1271;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;FR;NULL;2010-2014
+1272;J'me tire;63;GIMS;FR;NULL;2010-2014
+1273;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;FR;NULL;2010-2014
+1274;Take Me To Church;78;Hozier;FR;indie;2010-2014
+1275;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;FR;NULL;2010-2014
+1276;Riptide;78;Vance Joy;FR;folk;2010-2014
+1277;Smile;0;Abel The Kid, Julio Iglesias Jr.;FR;NULL;2010-2014
+1278;Game Over;60;Vitaa, GIMS;FR;NULL;2010-2014
+1279;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;FR;NULL;2010-2014
+1280;Dans ma paranoïa;59;Jul;FR;NULL;2010-2014
+1281;G.U.Y. - An ARTPOP Film;0;Lady Gaga;FR;gaga;2010-2014
+1282;Counting Stars;82;OneRepublic;FR;pop rock;2010-2014
+1283;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;FR;NULL;2010-2014
+1284;Danza Kuduro;71;Don Omar, Lucenzo;FR;NULL;2010-2014
+1285;The Real Slim Shady - Edited;0;Eminem;FR;NULL;2010-2014
+1286;Titanium (feat. Sia);77;David Guetta, Sia;FR;NULL;2010-2014
+1287;好不好;0;Evan Yo;FR;fabulous boys;2010-2014
+1288;Wake Me Up;82;Avicii;FR;electronic;2010-2014
+1289;Samba Pras Moças;0;Mariene De Castro;FR;NULL;2010-2014
+1290;When I Was Your Man;83;Bruno Mars;FR;pop;2010-2014
+1291;Hardkor i disko;0;Sofa;FR;indie;2010-2014
+1292;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;FR;NULL;2010-2014
+1293;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;FR;NULL;2010-2014
+1294;We Found Love;73;Rihanna, Calvin Harris;FR;NULL;2010-2014
+1295;Losing You;0;Revolver;FR;fip;2010-2014
+1296;Prayer In C - Robin Schulz Remix - Radio Edit;58;Lilly Wood and The Prick, Robin Schulz;FR;NULL;2010-2014
+1297;Byłem (feat. As);0;Pezet, As;FR;NULL;2010-2014
+1298;Je te laisserai des mots;78;Patrick Watson;FR;french;2010-2014
+1299;"Rum Whisky (From ""Vicky Donor"")";0;Abhishek - Akshay, Akshay Verma;FR;NULL;2010-2014
+1300;I Wanna Be Yours;86;Arctic Monkeys;MC;indie rock;2010-2014
+1301;Bede Z Toba;9;Lemon;MC;NULL;2010-2014
+1302;Sweater Weather;85;The Neighbourhood;MC;indie;2010-2014
+1303;Plastic Dreams 2003;2;JayDee;MC;NULL;2010-2014
+1304;No. 1 Party Anthem;84;Arctic Monkeys;MC;indie rock;2010-2014
+1305;Bede Z Toba - Hangout Live;2;Lemon;MC;NULL;2010-2014
+1306;A Sky Full of Stars;83;Coldplay;MC;pop;2010-2014
+1307;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;MC;NULL;2010-2014
+1308;Night Changes;83;One Direction;MC;pop;2010-2014
+1309;Ballada o Janku Wisniewskim;1;Kazik;MC;rock;2010-2014
+1310;Lovers Rock;82;TV Girl;MC;indie pop;2010-2014
+1311;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;MC;NULL;2010-2014
+1312;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;MC;NULL;2010-2014
+1313;Iré tras de ti;0;Mr.;MC;NULL;2010-2014
+1314;I Love You So;82;The Walters;MC;MySpotigramBot;2010-2014
+1315;Il fait chaud;0;Patrick Sébastien;MC;fiesta;2010-2014
+1316;Another Love;82;Tom Odell;MC;indie;2010-2014
+1317;Now Is the Time (feat. Jasmine V);0;Wally Lopez;MC;NULL;2010-2014
+1318;Do I Wanna Know?;82;Arctic Monkeys;MC;indie rock;2010-2014
+1319;Lågsus (feat. Medina);0;Specktors, Medina;MC;NULL;2010-2014
+1320;Counting Stars;82;OneRepublic;MC;pop rock;2010-2014
+1321;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;MC;NULL;2010-2014
+1322;Wake Me Up;82;Avicii;MC;electronic;2010-2014
+1323;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;MC;NULL;2010-2014
+1324;All of Me;81;John Legend;MC;rnb;2010-2014
+1325;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;MC;NULL;2010-2014
+1326;Story of My Life;81;One Direction;MC;pop;2010-2014
+1327;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;MC;NULL;2010-2014
+1328;No Role Modelz;81;J. Cole;MC;MySpotigramBot;2010-2014
+1329;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;MC;NULL;2010-2014
+1330;Sure Thing;81;Miguel;MC;rnb;2010-2014
+1331;Smile;0;Abel The Kid, Julio Iglesias Jr.;MC;NULL;2010-2014
+1332;Thinkin Bout You;81;Frank Ocean;MC;rnb;2010-2014
+1333;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;MC;NULL;2010-2014
+1334;Young And Beautiful;80;Lana Del Rey;MC;indie;2010-2014
+1335;G.U.Y. - An ARTPOP Film;0;Lady Gaga;MC;gaga;2010-2014
+1336;Love Me;80;Lil Wayne, Drake, Future;MC;NULL;2010-2014
+1337;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;MC;NULL;2010-2014
+1338;Shut Up and Dance;80;WALK THE MOON;MC;indie pop;2010-2014
+1339;The Real Slim Shady - Edited;0;Eminem;MC;NULL;2010-2014
+1340;Skyfall;80;Adele;MC;Soundtrack;2010-2014
+1341;好不好;0;Evan Yo;MC;fabulous boys;2010-2014
+1342;Why'd You Only Call Me When You're High?;80;Arctic Monkeys;MC;indie rock;2010-2014
+1343;Hardkor i disko;0;Sofa;MC;indie;2010-2014
+1344;Pumped Up Kicks;80;Foster The People;MC;indie;2010-2014
+1345;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;MC;NULL;2010-2014
+1346;Can't Hold Us (feat. Ray Dalton);80;Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton;MC;NULL;2010-2014
+1347;Losing You;0;Revolver;MC;fip;2010-2014
+1348;The Nights;80;Avicii;MC;dance;2010-2014
+1349;Byłem (feat. As);0;Pezet, As;MC;NULL;2010-2014
+1350;Brivido;62;Guè, Marracash;IT;NULL;2010-2014
+1351;Plastic Dreams 2003;2;JayDee;IT;NULL;2010-2014
+1352;La Nuova Stella Di Broadway;62;Cesare Cremonini;IT;italianigdchill;2010-2014
+1353;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;IT;NULL;2010-2014
+1354;L'amore eternit;61;Fedez, Noemi;IT;NULL;2010-2014
+1355;Хэндз ап!;0;Basta;IT;NULL;2010-2014
+1356;Can't Hold Us (feat. Ray Dalton);80;Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton;IT;NULL;2010-2014
+1357;Crawling - Live from the iTunes Festival at the Roundhouse, London, England, 7/4/2011;0;Linkin Park;IT;NULL;2010-2014
+1358;Another Love;82;Tom Odell;IT;indie;2010-2014
+1359;I Cento Passi - Live at Estragon, Bologna / 2014;0;Modena City Ramblers;IT;NULL;2010-2014
+1360;I Wanna Be Yours;86;Arctic Monkeys;IT;indie rock;2010-2014
+1361;93 Million Miles;0;Quadriphonix;IT;NULL;2010-2014
+1362;Sweater Weather;85;The Neighbourhood;IT;indie;2010-2014
+1363;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;IT;NULL;2010-2014
+1364;Skyfall;80;Adele;IT;Soundtrack;2010-2014
+1365;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;IT;NULL;2010-2014
+1366;Demons;79;Imagine Dragons;IT;rock;2010-2014
+1367;Quiero aire;0;Revolver;IT;NULL;2010-2014
+1368;Locked out of Heaven;85;Bruno Mars;IT;pop;2010-2014
+1369;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;IT;NULL;2010-2014
+1370;A Sky Full of Stars;83;Coldplay;IT;pop;2010-2014
+1371;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;IT;NULL;2010-2014
+1372;Just the Way You Are;78;Bruno Mars;IT;pop;2010-2014
+1373;My Girl (feat. Trevor Jackson);0;Diggy, Trevor Jackson;IT;NULL;2010-2014
+1374;Wake Me Up;82;Avicii;IT;electronic;2010-2014
+1375;Sing About Me, I'm Dying Of Thirst - Part 1;0;Kendrick Lamar;IT;NULL;2010-2014
+1376;Counting Stars;82;OneRepublic;IT;pop rock;2010-2014
+1377;Journey To Regionals Performance;0;Glee Cast;IT;NULL;2010-2014
+1378;All of Me;81;John Legend;IT;rnb;2010-2014
+1379;G.U.Y. - An ARTPOP Film;0;Lady Gaga;IT;gaga;2010-2014
+1380;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;IT;NULL;2010-2014
+1381;R.E.B (Guè Vs Crookers);0;Guè, Crookers;IT;NULL;2010-2014
+1382;Limbo;71;Daddy Yankee;IT;Reggaeton;2010-2014
+1383;S.e.n.i.c.a.r. / Brivido (feat. Marracash) (Live @ Bravo Ragazzo Tour 2013);0;Guè;IT;NULL;2010-2014
+1384;Someone Like You;77;Adele;IT;Adele;2010-2014
+1385;Scappati Di Casa (Live @ Bravo Ragazzo Tour 2013);0;Guè;IT;NULL;2010-2014
+1386;Titanium (feat. Sia);77;David Guetta, Sia;IT;NULL;2010-2014
+1387;Il sale della terra@Arena di Verona 2013;0;Ligabue;IT;NULL;2010-2014
+1388;Timber;80;Pitbull, Kesha;IT;NULL;2010-2014
+1389;Rose Nere (Live @ Bravo Ragazzo Tour 2013);0;Guè;IT;NULL;2010-2014
+1390;Do I Wanna Know?;82;Arctic Monkeys;IT;indie rock;2010-2014
+1391;Bede Z Toba;9;Lemon;IT;NULL;2010-2014
+1392;Try;78;P!nk;IT;pop;2010-2014
+1393;Abre tus brazos (apri le braccia);0;Gigi D'Alessio, Cristian Castro;IT;NULL;2010-2014
+1394;When I Was Your Man;83;Bruno Mars;IT;pop;2010-2014
+1395;Invisibili;0;Ape Escape;IT;NULL;2010-2014
+1396;We Found Love;73;Rihanna, Calvin Harris;IT;NULL;2010-2014
+1397;Chelsea Smile (Live in Mexico City);0;Bring Me The Horizon;IT;NULL;2010-2014
+1398;Set Fire to the Rain;77;Adele;IT;soul;2010-2014
+1399;Smooth Criminal;0;Michael Jackson;IT;pop;2010-2014
+1400;Brad Pitt;47;Severina;SI;kim kardashian;2010-2014
+1401;Plastic Dreams 2003;2;JayDee;SI;NULL;2010-2014
+1402;Sweater Weather;85;The Neighbourhood;SI;indie;2010-2014
+1403;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;SI;NULL;2010-2014
+1404;Italiana;47;Severina;SI;female vocalists;2010-2014
+1405;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;SI;NULL;2010-2014
+1406;I Wanna Be Yours;86;Arctic Monkeys;SI;indie rock;2010-2014
+1407;Bede Z Toba;9;Lemon;SI;NULL;2010-2014
+1408;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;SI;NULL;2010-2014
+1409;Bede Z Toba - Hangout Live;2;Lemon;SI;NULL;2010-2014
+1410;Danza Kuduro;71;Don Omar, Lucenzo;SI;NULL;2010-2014
+1411;Ballada o Janku Wisniewskim;1;Kazik;SI;rock;2010-2014
+1412;A Sky Full of Stars;83;Coldplay;SI;pop;2010-2014
+1413;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;SI;NULL;2010-2014
+1414;Locked out of Heaven;85;Bruno Mars;SI;pop;2010-2014
+1415;Iré tras de ti;0;Mr.;SI;NULL;2010-2014
+1416;Wake Me Up;82;Avicii;SI;electronic;2010-2014
+1417;Il fait chaud;0;Patrick Sébastien;SI;fiesta;2010-2014
+1418;Tarapana;47;Severina;SI;soul;2010-2014
+1419;Lågsus (feat. Medina);0;Specktors, Medina;SI;NULL;2010-2014
+1420;Just the Way You Are;78;Bruno Mars;SI;pop;2010-2014
+1421;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;SI;NULL;2010-2014
+1422;Moje leto;44;In Vivo, Boyant;SI;NULL;2010-2014
+1423;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;SI;NULL;2010-2014
+1424;Ljubavi Moja;48;Elitni Odredi, Dado Polumenta;SI;NULL;2010-2014
+1425;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;SI;NULL;2010-2014
+1426;Timber;80;Pitbull, Kesha;SI;NULL;2010-2014
+1427;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;SI;NULL;2010-2014
+1428;Shut Up and Dance;80;WALK THE MOON;SI;indie pop;2010-2014
+1429;Smile;0;Abel The Kid, Julio Iglesias Jr.;SI;NULL;2010-2014
+1430;Another Love;82;Tom Odell;SI;indie;2010-2014
+1431;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;SI;NULL;2010-2014
+1432;Da Raskinem Sa Njom;47;Ceca;SI;pop;2010-2014
+1433;G.U.Y. - An ARTPOP Film;0;Lady Gaga;SI;gaga;2010-2014
+1434;We Found Love;78;Rihanna, Calvin Harris;SI;NULL;2010-2014
+1435;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;SI;NULL;2010-2014
+1436;Counting Stars;82;OneRepublic;SI;pop rock;2010-2014
+1437;The Real Slim Shady - Edited;0;Eminem;SI;NULL;2010-2014
+1438;Story of My Life;81;One Direction;SI;pop;2010-2014
+1439;好不好;0;Evan Yo;SI;fabulous boys;2010-2014
+1440;Tu tu tu;44;In Vivo;SI;fast;2010-2014
+1441;Samba Pras Moças;0;Mariene De Castro;SI;NULL;2010-2014
+1442;Only Girl (In The World);79;Rihanna;SI;pop;2010-2014
+1443;Hardkor i disko;0;Sofa;SI;indie;2010-2014
+1444;Drive By;76;Train;SI;pop;2010-2014
+1445;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;SI;NULL;2010-2014
+1446;No Role Modelz;81;J. Cole;SI;MySpotigramBot;2010-2014
+1447;Losing You;0;Revolver;SI;fip;2010-2014
+1448;Call Me Maybe;76;Carly Rae Jepsen;SI;pop;2010-2014
+1449;Byłem (feat. As);0;Pezet, As;SI;NULL;2010-2014
+1450;Samo Je Ljubav Tajna Dvaju Svjetova;42;Marko Perković Thompson;HR;NULL;2010-2014
+1451;Addicted To You - Live;0;Avicii;HR;NULL;2010-2014
+1452;Pukni Pusko;43;Marko Perković Thompson;HR;NULL;2010-2014
+1453;Plastic Dreams 2003;2;JayDee;HR;NULL;2010-2014
+1454;Moj Ivane;42;Marko Perković Thompson;HR;croatian music;2010-2014
+1455;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;HR;NULL;2010-2014
+1456;Ljubavi Moja;48;Elitni Odredi, Dado Polumenta;HR;NULL;2010-2014
+1457;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;HR;NULL;2010-2014
+1458;Zaustavi Se, Vjetre;41;Marko Perković Thompson;HR;NULL;2010-2014
+1459;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;HR;NULL;2010-2014
+1460;Dolazak Hrvata;41;Marko Perković Thompson;HR;NULL;2010-2014
+1461;Bede Z Toba;9;Lemon;HR;NULL;2010-2014
+1462;Zapali Grad;46;Elitni Odredi;HR;NULL;2010-2014
+1463;Bede Z Toba - Hangout Live;2;Lemon;HR;NULL;2010-2014
+1464;Ne Koci;47;Elitni Odredi;HR;Elitnioderdi;2010-2014
+1465;Ballada o Janku Wisniewskim;1;Kazik;HR;rock;2010-2014
+1466;Tarapana;47;Severina;HR;soul;2010-2014
+1467;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;HR;NULL;2010-2014
+1468;Anica - Kninska Kraljica;41;Marko Perković Thompson;HR;NULL;2010-2014
+1469;Iré tras de ti;0;Mr.;HR;NULL;2010-2014
+1470;Brad Pitt;47;Severina;HR;kim kardashian;2010-2014
+1471;Il fait chaud;0;Patrick Sébastien;HR;fiesta;2010-2014
+1472;Sweater Weather;85;The Neighbourhood;HR;indie;2010-2014
+1473;Lågsus (feat. Medina);0;Specktors, Medina;HR;NULL;2010-2014
+1474;Devojka tvog druga;42;Sandra Afrika, Costi;HR;NULL;2010-2014
+1475;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;HR;NULL;2010-2014
+1476;I Wanna Be Yours;86;Arctic Monkeys;HR;indie rock;2010-2014
+1477;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;HR;NULL;2010-2014
+1478;Italiana;47;Severina;HR;female vocalists;2010-2014
+1479;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;HR;NULL;2010-2014
+1480;Rijeka Snova;40;Neno Belan, Fiumens;HR;NULL;2010-2014
+1481;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;HR;NULL;2010-2014
+1482;Neka Niko Ne Dira U Moj Mali Dio Svemira;39;Marko Perković Thompson;HR;NULL;2010-2014
+1483;Smile;0;Abel The Kid, Julio Iglesias Jr.;HR;NULL;2010-2014
+1484;Da Raskinem Sa Njom;47;Ceca;HR;pop;2010-2014
+1485;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;HR;NULL;2010-2014
+1486;Danza Kuduro;71;Don Omar, Lucenzo;HR;NULL;2010-2014
+1487;G.U.Y. - An ARTPOP Film;0;Lady Gaga;HR;gaga;2010-2014
+1488;Bojna Čavoglave;40;Marko Perković Thompson;HR;NULL;2010-2014
+1489;The Real Slim Shady - Edited;0;Eminem;HR;NULL;2010-2014
+1490;Kletva Kralja Zvonimira;38;Marko Perković Thompson;HR;croatian music;2010-2014
+1491;好不好;0;Evan Yo;HR;fabulous boys;2010-2014
+1492;Terca Na Tišinu;39;Silente;HR;pop rock;2010-2014
+1493;Samba Pras Moças;0;Mariene De Castro;HR;NULL;2010-2014
+1494;KO Me Tjero;44;Severina;HR;soul;2010-2014
+1495;Hardkor i disko;0;Sofa;HR;indie;2010-2014
+1496;Gdje Sam Bio;41;Željko Bebek;HR;NULL;2010-2014
+1497;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;HR;NULL;2010-2014
+1498;Lijepa Li Si;39;Marko Perković Thompson;HR;NULL;2010-2014
+1499;Losing You;0;Revolver;HR;fip;2010-2014
+1500;I Wanna Be Yours;86;Arctic Monkeys;BA;indie rock;2010-2014
+1501;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;BA;NULL;2010-2014
+1502;Sweater Weather;85;The Neighbourhood;BA;indie;2010-2014
+1503;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;BA;NULL;2010-2014
+1504;Locked out of Heaven;85;Bruno Mars;BA;pop;2010-2014
+1505;Bede Z Toba;9;Lemon;BA;NULL;2010-2014
+1506;No. 1 Party Anthem;84;Arctic Monkeys;BA;indie rock;2010-2014
+1507;Plastic Dreams 2003;2;JayDee;BA;NULL;2010-2014
+1508;When I Was Your Man;83;Bruno Mars;BA;pop;2010-2014
+1509;Bede Z Toba - Hangout Live;2;Lemon;BA;NULL;2010-2014
+1510;A Sky Full of Stars;83;Coldplay;BA;pop;2010-2014
+1511;Ballada o Janku Wisniewskim;1;Kazik;BA;rock;2010-2014
+1512;Night Changes;83;One Direction;BA;pop;2010-2014
+1513;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;BA;NULL;2010-2014
+1514;Lovers Rock;82;TV Girl;BA;indie pop;2010-2014
+1515;Iré tras de ti;0;Mr.;BA;NULL;2010-2014
+1516;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;BA;NULL;2010-2014
+1517;Il fait chaud;0;Patrick Sébastien;BA;fiesta;2010-2014
+1518;I Love You So;82;The Walters;BA;MySpotigramBot;2010-2014
+1519;Lågsus (feat. Medina);0;Specktors, Medina;BA;NULL;2010-2014
+1520;Another Love;82;Tom Odell;BA;indie;2010-2014
+1521;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;BA;NULL;2010-2014
+1522;Do I Wanna Know?;82;Arctic Monkeys;BA;indie rock;2010-2014
+1523;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;BA;NULL;2010-2014
+1524;Counting Stars;82;OneRepublic;BA;pop rock;2010-2014
+1525;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;BA;NULL;2010-2014
+1526;Wake Me Up;82;Avicii;BA;electronic;2010-2014
+1527;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;BA;NULL;2010-2014
+1528;All of Me;81;John Legend;BA;rnb;2010-2014
+1529;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;BA;NULL;2010-2014
+1530;Story of My Life;81;One Direction;BA;pop;2010-2014
+1531;Smile;0;Abel The Kid, Julio Iglesias Jr.;BA;NULL;2010-2014
+1532;Photograph;81;Ed Sheeran;BA;pop;2010-2014
+1533;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;BA;NULL;2010-2014
+1534;No Role Modelz;81;J. Cole;BA;MySpotigramBot;2010-2014
+1535;G.U.Y. - An ARTPOP Film;0;Lady Gaga;BA;gaga;2010-2014
+1536;Sure Thing;81;Miguel;BA;rnb;2010-2014
+1537;The Real Slim Shady - Edited;0;Eminem;BA;NULL;2010-2014
+1538;Thinkin Bout You;81;Frank Ocean;BA;rnb;2010-2014
+1539;好不好;0;Evan Yo;BA;fabulous boys;2010-2014
+1540;Young And Beautiful;80;Lana Del Rey;BA;indie;2010-2014
+1541;Samba Pras Moças;0;Mariene De Castro;BA;NULL;2010-2014
+1542;Love Me;80;Lil Wayne, Drake, Future;BA;NULL;2010-2014
+1543;Hardkor i disko;0;Sofa;BA;indie;2010-2014
+1544;Shut Up and Dance;80;WALK THE MOON;BA;indie pop;2010-2014
+1545;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;BA;NULL;2010-2014
+1546;Skyfall;80;Adele;BA;Soundtrack;2010-2014
+1547;Losing You;0;Revolver;BA;fip;2010-2014
+1548;Why'd You Only Call Me When You're High?;80;Arctic Monkeys;BA;indie rock;2010-2014
+1549;Byłem (feat. As);0;Pezet, As;BA;NULL;2010-2014
+1550;I Wanna Be Yours;86;Arctic Monkeys;ME;indie rock;2010-2014
+1551;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;ME;NULL;2010-2014
+1552;Sweater Weather;85;The Neighbourhood;ME;indie;2010-2014
+1553;Bede Z Toba;9;Lemon;ME;NULL;2010-2014
+1554;Locked out of Heaven;85;Bruno Mars;ME;pop;2010-2014
+1555;Plastic Dreams 2003;2;JayDee;ME;NULL;2010-2014
+1556;No. 1 Party Anthem;84;Arctic Monkeys;ME;indie rock;2010-2014
+1557;Bede Z Toba - Hangout Live;2;Lemon;ME;NULL;2010-2014
+1558;When I Was Your Man;83;Bruno Mars;ME;pop;2010-2014
+1559;Ballada o Janku Wisniewskim;1;Kazik;ME;rock;2010-2014
+1560;A Sky Full of Stars;83;Coldplay;ME;pop;2010-2014
+1561;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;ME;NULL;2010-2014
+1562;Night Changes;83;One Direction;ME;pop;2010-2014
+1563;Iré tras de ti;0;Mr.;ME;NULL;2010-2014
+1564;Lovers Rock;82;TV Girl;ME;indie pop;2010-2014
+1565;Il fait chaud;0;Patrick Sébastien;ME;fiesta;2010-2014
+1566;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;ME;NULL;2010-2014
+1567;Lågsus (feat. Medina);0;Specktors, Medina;ME;NULL;2010-2014
+1568;I Love You So;82;The Walters;ME;MySpotigramBot;2010-2014
+1569;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;ME;NULL;2010-2014
+1570;Another Love;82;Tom Odell;ME;indie;2010-2014
+1571;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;ME;NULL;2010-2014
+1572;Do I Wanna Know?;82;Arctic Monkeys;ME;indie rock;2010-2014
+1573;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;ME;NULL;2010-2014
+1574;Counting Stars;82;OneRepublic;ME;pop rock;2010-2014
+1575;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;ME;NULL;2010-2014
+1576;Wake Me Up;82;Avicii;ME;electronic;2010-2014
+1577;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;ME;NULL;2010-2014
+1578;All of Me;81;John Legend;ME;rnb;2010-2014
+1579;Smile;0;Abel The Kid, Julio Iglesias Jr.;ME;NULL;2010-2014
+1580;Story of My Life;81;One Direction;ME;pop;2010-2014
+1581;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;ME;NULL;2010-2014
+1582;Photograph;81;Ed Sheeran;ME;pop;2010-2014
+1583;G.U.Y. - An ARTPOP Film;0;Lady Gaga;ME;gaga;2010-2014
+1584;No Role Modelz;81;J. Cole;ME;MySpotigramBot;2010-2014
+1585;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;ME;NULL;2010-2014
+1586;Sure Thing;81;Miguel;ME;rnb;2010-2014
+1587;The Real Slim Shady - Edited;0;Eminem;ME;NULL;2010-2014
+1588;Thinkin Bout You;81;Frank Ocean;ME;rnb;2010-2014
+1589;好不好;0;Evan Yo;ME;fabulous boys;2010-2014
+1590;Young And Beautiful;80;Lana Del Rey;ME;indie;2010-2014
+1591;Samba Pras Moças;0;Mariene De Castro;ME;NULL;2010-2014
+1592;Love Me;80;Lil Wayne, Drake, Future;ME;NULL;2010-2014
+1593;Hardkor i disko;0;Sofa;ME;indie;2010-2014
+1594;Shut Up and Dance;80;WALK THE MOON;ME;indie pop;2010-2014
+1595;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;ME;NULL;2010-2014
+1596;Skyfall;80;Adele;ME;Soundtrack;2010-2014
+1597;Losing You;0;Revolver;ME;fip;2010-2014
+1598;Why'd You Only Call Me When You're High?;80;Arctic Monkeys;ME;indie rock;2010-2014
+1599;Byłem (feat. As);0;Pezet, As;ME;NULL;2010-2014
+1600;I Wanna Be Yours;86;Arctic Monkeys;AL;indie rock;2010-2014
+1601;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;AL;NULL;2010-2014
+1602;Sweater Weather;85;The Neighbourhood;AL;indie;2010-2014
+1603;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;AL;NULL;2010-2014
+1604;Locked out of Heaven;85;Bruno Mars;AL;pop;2010-2014
+1605;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;AL;NULL;2010-2014
+1606;No. 1 Party Anthem;84;Arctic Monkeys;AL;indie rock;2010-2014
+1607;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;AL;NULL;2010-2014
+1608;When I Was Your Man;83;Bruno Mars;AL;pop;2010-2014
+1609;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;AL;NULL;2010-2014
+1610;A Sky Full of Stars;83;Coldplay;AL;pop;2010-2014
+1611;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;AL;NULL;2010-2014
+1612;Night Changes;83;One Direction;AL;pop;2010-2014
+1613;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;AL;NULL;2010-2014
+1614;Lovers Rock;82;TV Girl;AL;indie pop;2010-2014
+1615;G.U.Y. - An ARTPOP Film;0;Lady Gaga;AL;gaga;2010-2014
+1616;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;AL;NULL;2010-2014
+1617;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;AL;NULL;2010-2014
+1618;I Love You So;82;The Walters;AL;MySpotigramBot;2010-2014
+1619;The Real Slim Shady - Edited;0;Eminem;AL;NULL;2010-2014
+1620;Another Love;82;Tom Odell;AL;indie;2010-2014
+1621;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;AL;NULL;2010-2014
+1622;Do I Wanna Know?;82;Arctic Monkeys;AL;indie rock;2010-2014
+1623;"Rum Whisky (From ""Vicky Donor"")";0;Abhishek - Akshay, Akshay Verma;AL;NULL;2010-2014
+1624;Counting Stars;82;OneRepublic;AL;pop rock;2010-2014
+1625;"Muskurane (Film Version) [From ""Citylights""]";0;Jeet Gannguli, Arijit Singh;AL;NULL;2010-2014
+1626;Wake Me Up;82;Avicii;AL;electronic;2010-2014
+1627;Eu Aposto - Ao Vivo;0;Eduardo Costa;AL;NULL;2010-2014
+1628;All of Me;81;John Legend;AL;rnb;2010-2014
+1629;"Cloud 9 - From ""Cloud 9"" / Original TV Movie Soundtrack";0;Dove Cameron, Luke Benward;AL;NULL;2010-2014
+1630;Story of My Life;81;One Direction;AL;pop;2010-2014
+1631;Cups (Pitch Perfect’s “When I’m Gone”) - Director's Cut / Closed-Captioned;0;Anna Kendrick;AL;NULL;2010-2014
+1632;Photograph;81;Ed Sheeran;AL;pop;2010-2014
+1633;Verlieben, verloren, vergessen, verzeih'n (ZDF Hitparade 30.01.1992) - VOD;0;Wolfgang Petry;AL;NULL;2010-2014
+1634;No Role Modelz;81;J. Cole;AL;MySpotigramBot;2010-2014
+1635;Find Your Love - Extended Version;0;Drake;AL;NULL;2010-2014
+1636;Sure Thing;81;Miguel;AL;rnb;2010-2014
+1637;All By Myself (ZDF Tele-Illustrierte 17.01.1989) - VOD;0;Peter Hofmann;AL;NULL;2010-2014
+1638;Thinkin Bout You;81;Frank Ocean;AL;rnb;2010-2014
+1639;Pai;0;Grupo Revelação;AL;samba;2010-2014
+1640;Young And Beautiful;80;Lana Del Rey;AL;indie;2010-2014
+1641;Wrecking Ball - Director's Cut;0;Miley Cyrus;AL;NULL;2010-2014
+1642;Love Me;80;Lil Wayne, Drake, Future;AL;NULL;2010-2014
+1643;Smooth Criminal;0;Michael Jackson;AL;pop;2010-2014
+1644;Shut Up and Dance;80;WALK THE MOON;AL;indie pop;2010-2014
+1645;Magia - Intro;0;Maluma;AL;NULL;2010-2014
+1646;Skyfall;80;Adele;AL;Soundtrack;2010-2014
+1647;Se Eu Não Te Amasse Tanto Assim;0;Caetano Veloso, Gilberto Gil, Ivete Sangalo;AL;NULL;2010-2014
+1648;Why'd You Only Call Me When You're High?;80;Arctic Monkeys;AL;indie rock;2010-2014
+1649;Politik Kills;0;Manu Chao;AL;latin;2010-2014
+1650;Pame Stihima Tha Xanarthis;50;Pantelis Pantelidis;GR;NULL;2010-2014
+1651;Plastic Dreams 2003;2;JayDee;GR;NULL;2010-2014
+1652;Paramithiazome;47;Pantelis Pantelidis;GR;NULL;2010-2014
+1653;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;GR;NULL;2010-2014
+1654;I Wanna Be Yours;86;Arctic Monkeys;GR;indie rock;2010-2014
+1655;Losing You;0;Revolver;GR;fip;2010-2014
+1656;Lioma Se Gremo;48;Pantelis Pantelidis;GR;NULL;2010-2014
+1657;Iré tras de ti;0;Mr.;GR;NULL;2010-2014
+1658;Sweater Weather;85;The Neighbourhood;GR;indie;2010-2014
+1659;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;GR;NULL;2010-2014
+1660;Mousiki Gia Tsoglanous;45;LEX, Dof Twogee;GR;NULL;2010-2014
+1661;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;GR;NULL;2010-2014
+1662;Itheles Na Mplekseis;44;Kako;GR;NULL;2010-2014
+1663;My Girl (feat. Trevor Jackson);0;Diggy, Trevor Jackson;GR;NULL;2010-2014
+1664;Melagholia Mou;46;Nikos Oikonomopoulos;GR;NULL;2010-2014
+1665;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;GR;NULL;2010-2014
+1666;Etoimase Mia Efchi;44;Kako;GR;NULL;2010-2014
+1667;The Way We See The World;0;AFROJACK, Dimitri Vegas & Like Mike, NERVO;GR;NULL;2010-2014
+1668;Ginete;49;Pantelis Pantelidis;GR;world;2010-2014
+1669;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;GR;NULL;2010-2014
+1670;Den Teriazete Sou Leo;47;Pantelis Pantelidis;GR;NULL;2010-2014
+1671;Bede Z Toba;9;Lemon;GR;NULL;2010-2014
+1672;Mono Ex Epafis;44;Giorgos Sabanis;GR;NULL;2010-2014
+1673;Bede Z Toba - Hangout Live;2;Lemon;GR;NULL;2010-2014
+1674;De Se Sighoro (Sto 'ha Pi);45;Pantelis Pantelidis;GR;NULL;2010-2014
+1675;Ballada o Janku Wisniewskim;1;Kazik;GR;rock;2010-2014
+1676;Iha Kapote Mia Agapi;47;Pantelis Pantelidis;GR;NULL;2010-2014
+1677;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;GR;NULL;2010-2014
+1678;Money Trees;79;Kendrick Lamar, Jay Rock;GR;NULL;2010-2014
+1679;Il fait chaud;0;Patrick Sébastien;GR;fiesta;2010-2014
+1680;Eleges;44;Melisses;GR;NULL;2010-2014
+1681;Now Is the Time (feat. Jasmine V);0;Wally Lopez;GR;NULL;2010-2014
+1682;Fraxtis;43;LEX, Dof Twogee;GR;NULL;2010-2014
+1683;Lågsus (feat. Medina);0;Specktors, Medina;GR;NULL;2010-2014
+1684;Doro Gia Sena;44;Nikos Oikonomopoulos;GR;Nicos oikonomopoulos-Doro Gia Sena;2010-2014
+1685;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;GR;NULL;2010-2014
+1686;Do I Wanna Know?;82;Arctic Monkeys;GR;indie rock;2010-2014
+1687;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;GR;NULL;2010-2014
+1688;West Coast;78;Lana Del Rey;GR;alternative;2010-2014
+1689;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;GR;NULL;2010-2014
+1690;Gia Ton Idio Anthropo Milame;47;Vasilis Karras, Pantelis Pantelidis;GR;NULL;2010-2014
+1691;Smile;0;Abel The Kid, Julio Iglesias Jr.;GR;NULL;2010-2014
+1692;She Will;75;Lil Wayne, Drake;GR;NULL;2010-2014
+1693;G.U.Y. - An ARTPOP Film;0;Lady Gaga;GR;gaga;2010-2014
+1694;Ma Pou Na Pao;45;Themis Adamantidis;GR;Greek;2010-2014
+1695;The Real Slim Shady - Edited;0;Eminem;GR;NULL;2010-2014
+1696;Perastika Tis;45;Vasilis Karras, Foivos;GR;NULL;2010-2014
+1697;好不好;0;Evan Yo;GR;fabulous boys;2010-2014
+1698;Alkoolikes I Nihtes;44;Pantelis Pantelidis;GR;NULL;2010-2014
+1699;Hardkor i disko;0;Sofa;GR;indie;2010-2014
+1700;Just the Way You Are;78;Bruno Mars;MT;pop;2010-2014
+1701;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;MT;NULL;2010-2014
+1702;A Sky Full of Stars;83;Coldplay;MT;pop;2010-2014
+1703;Plastic Dreams 2003;2;JayDee;MT;NULL;2010-2014
+1704;Another Love;82;Tom Odell;MT;indie;2010-2014
+1705;Now Is the Time (feat. Jasmine V);0;Wally Lopez;MT;NULL;2010-2014
+1706;Locked out of Heaven;85;Bruno Mars;MT;pop;2010-2014
+1707;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;MT;NULL;2010-2014
+1708;She Will;75;Lil Wayne, Drake;MT;NULL;2010-2014
+1709;Bede Z Toba;9;Lemon;MT;NULL;2010-2014
+1710;Sweater Weather;85;The Neighbourhood;MT;indie;2010-2014
+1711;Bede Z Toba - Hangout Live;2;Lemon;MT;NULL;2010-2014
+1712;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;MT;NULL;2010-2014
+1713;Ballada o Janku Wisniewskim;1;Kazik;MT;rock;2010-2014
+1714;Wake Me Up;82;Avicii;MT;electronic;2010-2014
+1715;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;MT;NULL;2010-2014
+1716;Story of My Life;81;One Direction;MT;pop;2010-2014
+1717;Iré tras de ti;0;Mr.;MT;NULL;2010-2014
+1718;Night Changes;83;One Direction;MT;pop;2010-2014
+1719;Il fait chaud;0;Patrick Sébastien;MT;fiesta;2010-2014
+1720;All of Me;81;John Legend;MT;rnb;2010-2014
+1721;Lågsus (feat. Medina);0;Specktors, Medina;MT;NULL;2010-2014
+1722;Demons;79;Imagine Dragons;MT;rock;2010-2014
+1723;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;MT;NULL;2010-2014
+1724;I Wanna Be Yours;86;Arctic Monkeys;MT;indie rock;2010-2014
+1725;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;MT;NULL;2010-2014
+1726;Paradise;79;Coldplay;MT;rock;2010-2014
+1727;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;MT;NULL;2010-2014
+1728;Try;78;P!nk;MT;pop;2010-2014
+1729;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;MT;NULL;2010-2014
+1730;Photograph;81;Ed Sheeran;MT;pop;2010-2014
+1731;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;MT;NULL;2010-2014
+1732;Take Me To Church;78;Hozier;MT;indie;2010-2014
+1733;Smile;0;Abel The Kid, Julio Iglesias Jr.;MT;NULL;2010-2014
+1734;When I Was Your Man;83;Bruno Mars;MT;pop;2010-2014
+1735;G.U.Y. - An ARTPOP Film;0;Lady Gaga;MT;gaga;2010-2014
+1736;Set Fire to the Rain;77;Adele;MT;soul;2010-2014
+1737;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;MT;NULL;2010-2014
+1738;Titanium (feat. Sia);77;David Guetta, Sia;MT;NULL;2010-2014
+1739;The Real Slim Shady - Edited;0;Eminem;MT;NULL;2010-2014
+1740;Marry You;77;Bruno Mars;MT;pop;2010-2014
+1741;好不好;0;Evan Yo;MT;fabulous boys;2010-2014
+1742;Money Trees;79;Kendrick Lamar, Jay Rock;MT;NULL;2010-2014
+1743;Hardkor i disko;0;Sofa;MT;indie;2010-2014
+1744;Grenade;77;Bruno Mars;MT;pop;2010-2014
+1745;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;MT;NULL;2010-2014
+1746;Love Me;80;Lil Wayne, Drake, Future;MT;NULL;2010-2014
+1747;Losing You;0;Revolver;MT;fip;2010-2014
+1748;Someone Like You;77;Adele;MT;Adele;2010-2014
+1749;Byłem (feat. As);0;Pezet, As;MT;NULL;2010-2014
+1750;Pame Stihima Tha Xanarthis;50;Pantelis Pantelidis;CY;NULL;2010-2014
+1751;Cheri Cheri Lady (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;2;Modern Talking;CY;NULL;2010-2014
+1752;Sweater Weather;85;The Neighbourhood;CY;indie;2010-2014
+1753;Bede Z Toba;9;Lemon;CY;NULL;2010-2014
+1754;I Wanna Be Yours;86;Arctic Monkeys;CY;indie rock;2010-2014
+1755;Plastic Dreams 2003;2;JayDee;CY;NULL;2010-2014
+1756;Paramithiazome;47;Pantelis Pantelidis;CY;NULL;2010-2014
+1757;Bede Z Toba - Hangout Live;2;Lemon;CY;NULL;2010-2014
+1758;Lioma Se Gremo;48;Pantelis Pantelidis;CY;NULL;2010-2014
+1759;Ballada o Janku Wisniewskim;1;Kazik;CY;rock;2010-2014
+1760;Another Love;82;Tom Odell;CY;indie;2010-2014
+1761;You Are Not Alone (Wetten, dass...? 20.02.1999) - Live from Wetten, dass...?, 1999;0;Modern Talking;CY;NULL;2010-2014
+1762;Just the Way You Are;78;Bruno Mars;CY;pop;2010-2014
+1763;Iré tras de ti;0;Mr.;CY;NULL;2010-2014
+1764;Locked out of Heaven;85;Bruno Mars;CY;pop;2010-2014
+1765;Il fait chaud;0;Patrick Sébastien;CY;fiesta;2010-2014
+1766;She Will;75;Lil Wayne, Drake;CY;NULL;2010-2014
+1767;Now Is the Time (feat. Jasmine V);0;Wally Lopez;CY;NULL;2010-2014
+1768;A Sky Full of Stars;83;Coldplay;CY;pop;2010-2014
+1769;Lågsus (feat. Medina);0;Specktors, Medina;CY;NULL;2010-2014
+1770;Ginete;49;Pantelis Pantelidis;CY;world;2010-2014
+1771;"Pani Da Rang (From ""Vicky Donor"") - Male Vocals";0;Abhishek - Akshay, Ayushmann Khurrana;CY;NULL;2010-2014
+1772;No Role Modelz;81;J. Cole;CY;MySpotigramBot;2010-2014
+1773;You Can Win If You Want (Wetten, dass...? 18.05.1985) - Live from Wetten, dass...?, 1985;0;Modern Talking;CY;NULL;2010-2014
+1774;Do I Wanna Know?;82;Arctic Monkeys;CY;indie rock;2010-2014
+1775;25 ปี (มีหวัง);0;พงษ์สิทธิ์ คำภีร์;CY;NULL;2010-2014
+1776;Money Trees;79;Kendrick Lamar, Jay Rock;CY;NULL;2010-2014
+1777;Geronimo's Cadillac (Peters Pop-Show 06.12.1986) - Live from Peters Pop-Show, 1986;0;Modern Talking;CY;NULL;2010-2014
+1778;Den Teriazete Sou Leo;47;Pantelis Pantelidis;CY;NULL;2010-2014
+1779;Fragile (Director's Cut);0;Tech N9ne, Kendrick Lamar, ¡MAYDAY!, Kendall Morgan;CY;NULL;2010-2014
+1780;Danza Kuduro;77;Don Omar, Lucenzo;CY;NULL;2010-2014
+1781;Smile;0;Abel The Kid, Julio Iglesias Jr.;CY;NULL;2010-2014
+1782;Gia Ton Idio Anthropo Milame;47;Vasilis Karras, Pantelis Pantelidis;CY;NULL;2010-2014
+1783;Atlantis Is Calling (Na, sowas! 17.05.1986) - Live from Na, sowas!, 1986;0;Modern Talking;CY;NULL;2010-2014
+1784;Iha Kapote Mia Agapi;47;Pantelis Pantelidis;CY;NULL;2010-2014
+1785;G.U.Y. - An ARTPOP Film;0;Lady Gaga;CY;gaga;2010-2014
+1786;Melagholia Mou;46;Nikos Oikonomopoulos;CY;NULL;2010-2014
+1787;Heaven Will Know (Peters Pop-Show 30.11.1985) - Live from Peters Pop Show, 1985;0;Modern Talking;CY;NULL;2010-2014
+1788;Love Me;80;Lil Wayne, Drake, Future;CY;NULL;2010-2014
+1789;The Real Slim Shady - Edited;0;Eminem;CY;NULL;2010-2014
+1790;Perastika Tis;45;Vasilis Karras, Foivos;CY;NULL;2010-2014
+1791;好不好;0;Evan Yo;CY;fabulous boys;2010-2014
+1792;Set Fire to the Rain;77;Adele;CY;soul;2010-2014
+1793;Hardkor i disko;0;Sofa;CY;indie;2010-2014
+1794;Give Me Everything (feat. Nayer);82;Pitbull, AFROJACK, Ne-Yo, Nayer;CY;NULL;2010-2014
+1795;Red Light (feat. Snoop Lion);0;Eddie Murphy, Snoop Lion;CY;NULL;2010-2014
+1796;No. 1 Party Anthem;84;Arctic Monkeys;CY;indie rock;2010-2014
+1797;Losing You;0;Revolver;CY;fip;2010-2014
+1798;Take Me To Church;78;Hozier;CY;indie;2010-2014
+1799;Byłem (feat. As);0;Pezet, As;CY;NULL;2010-2014
+1800;El Efecto - Remix;68;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;ES;NULL;2015-2019
+1801;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;ES;NULL;2015-2019
+1802;Amanece;75;Anuel AA, Haze;ES;NULL;2015-2019
+1803;Enamorado;2;Alexander Stewart;ES;pop;2015-2019
+1804;Hasta Que Me Muera;70;Bryant Myers;ES;NULL;2015-2019
+1805;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;ES;NULL;2015-2019
+1806;Fiebre (Prod. King DouDou);67;Bad Gyal;ES;neoperreo;2015-2019
+1807;Слэмятся пацаны;2;Little Big, Ruki Vverh!;ES;NULL;2015-2019
+1808;No Me Conoce - Remix;77;JHAYCO, J Balvin, Bad Bunny;ES;NULL;2015-2019
+1809;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;ES;NULL;2015-2019
+1810;LA CANCIÓN;80;J Balvin, Bad Bunny;ES;NULL;2015-2019
+1811;Stretch;0;Louise;ES;great quality stuff;2015-2019
+1812;Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn);75;Maluma, Trap Capos, Noriel, Bryant Myers, Juhn;ES;NULL;2015-2019
+1813;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;ES;NULL;2015-2019
+1814;Sola (Remix);74;Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin;ES;NULL;2015-2019
+1815;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;ES;NULL;2015-2019
+1816;Borro Cassette;77;Maluma;ES;Reggaeton;2015-2019
+1817;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;ES;NULL;2015-2019
+1818;A Mí;76;Rels B;ES;latin;2015-2019
+1819;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;ES;NULL;2015-2019
+1820;Madura;73;Cosculluela, Bad Bunny;ES;NULL;2015-2019
+1821;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;ES;NULL;2015-2019
+1822;Antes de Morirme (feat. ROSALÍA);67;C. Tangana, ROSALÍA;ES;NULL;2015-2019
+1823;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;ES;NULL;2015-2019
+1824;Esclava - Remix;72;Bryant Myers, Anonimus, Anuel AA, Almighty;ES;NULL;2015-2019
+1825;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;ES;NULL;2015-2019
+1826;Se Preparó;75;Ozuna;ES;latin;2015-2019
+1827;Did You Love Me;0;Shannon & the Clams;ES;NULL;2015-2019
+1828;Diles;74;Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz;ES;NULL;2015-2019
+1829;Even Angels (feat. Blas Cantó);0;Carlos Marco, Blas Cantó;ES;NULL;2015-2019
+1830;Cómo Te Atreves;71;Morat;ES;spanish;2015-2019
+1831;言葉のいらない約束;0;sana;ES;J-rock;2015-2019
+1832;Te Pintaron Pajaritos;70;Yandar & Yostin, Andy Rivera;ES;NULL;2015-2019
+1833;Skrrt;7;K27, Einar;ES;NULL;2015-2019
+1834;X (feat. Maluma & Ozuna) - Remix;77;Nicky Jam, J Balvin, Maluma, Ozuna;ES;NULL;2015-2019
+1835;Tabarnak;0;Volo;ES;NULL;2015-2019
+1836;Cuando Nadie Ve;74;Morat;ES;NULL;2015-2019
+1837;Hate to Love (feat. Jamie T);0;Beatsteaks, Jamie T;ES;NULL;2015-2019
+1838;Besos En Guerra;73;Morat, Juanes;ES;NULL;2015-2019
+1839;REASON;0;SYU(from GALNERYUS);ES;NULL;2015-2019
+1840;Caile;69;Bad Bunny, Bryant Myers, De La Ghetto, Revol, Zion;ES;NULL;2015-2019
+1841;Smooth Sailin' - Live;0;Leon Bridges;ES;NULL;2015-2019
+1842;Manicomio;70;Cosculluela;ES;NULL;2015-2019
+1843;Lead Me On;0;Louise;ES;NULL;2015-2019
+1844;She Don't Give a Fo;69;Duki, KHEA;ES;NULL;2015-2019
+1845;Popurrí Navidad Navidad (Campana sobre campana / 25 de diciembre / Alegría, alegría, alegría);0;Pica-Pica;ES;NULL;2015-2019
+1846;El Perdedor;76;Maluma;ES;Reggaeton;2015-2019
+1847;No Soy Como Tú Crees (Acústico);0;Ana Mena;ES;NULL;2015-2019
+1848;Loco;73;Beéle;ES;NULL;2015-2019
+1849;Lo Saben Mis Zapatos - En Directo En El Palau Sant Jordi / 2018;0;Pablo López;ES;NULL;2015-2019
+1850;Vrais;68;Ninho;FR;NULL;2015-2019
+1851;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;FR;NULL;2015-2019
+1852;Sous la lune;70;Jul;FR;NULL;2015-2019
+1853;Слэмятся пацаны;2;Little Big, Ruki Vverh!;FR;NULL;2015-2019
+1854;La vie qu'on mène;68;Ninho;FR;NULL;2015-2019
+1855;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;FR;NULL;2015-2019
+1856;Putana;67;Ninho;FR;NULL;2015-2019
+1857;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;FR;NULL;2015-2019
+1858;Big Daddy Jok;66;Jok'air;FR;NULL;2015-2019
+1859;Mi Gna (Maître Gims Remix) (feat. Hayko);0;GIMS, Super Sako, Hayko;FR;NULL;2015-2019
+1860;Où aller;64;GIMS;FR;NULL;2015-2019
+1861;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;FR;NULL;2015-2019
+1862;92i veyron;65;Booba;FR;numbers;2015-2019
+1863;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;FR;NULL;2015-2019
+1864;Bonbon à la menthe;64;Jok'air, Mallaury;FR;NULL;2015-2019
+1865;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;FR;NULL;2015-2019
+1866;Ridin';64;Booba;FR;NULL;2015-2019
+1867;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;FR;NULL;2015-2019
+1868;Placebo;65;Dinos;FR;NULL;2015-2019
+1869;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;FR;NULL;2015-2019
+1870;All The Stars (with SZA);90;Kendrick Lamar, SZA;FR;NULL;2015-2019
+1871;Downtown;14;Anitta, J Balvin;FR;NULL;2015-2019
+1872;Dis-moi que tu m'aimes;64;Ninho;FR;NULL;2015-2019
+1873;Skrrt;7;K27, Einar;FR;NULL;2015-2019
+1874;Θ. Macarena;64;Damso;FR;NULL;2015-2019
+1875;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;FR;NULL;2015-2019
+1876;Sourire;62;Ninho;FR;NULL;2015-2019
+1877;Enamorado;2;Alexander Stewart;FR;pop;2015-2019
+1878;Maman ne le sait pas (feat. Niska);63;Ninho, Niska;FR;NULL;2015-2019
+1879;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;FR;NULL;2015-2019
+1880;Reine;64;Dadju;FR;NULL;2015-2019
+1881;Matador (feat. Tommy);1;CAPO, Tommy;FR;NULL;2015-2019
+1882;Avec Toi;63;OBOY;FR;NULL;2015-2019
+1883;Milion słów;1;Jula;FR;polish;2015-2019
+1884;The Night We Met;85;Lord Huron;FR;indie;2015-2019
+1885;Дождь (feat. МакSим);1;Geegun, MAKSIM;FR;NULL;2015-2019
+1886;La misère est si belle;63;PNL;FR;MySpotigramBot;2015-2019
+1887;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;FR;NULL;2015-2019
+1888;Δ. Dieu ne ment jamais;62;Damso;FR;NULL;2015-2019
+1889;Stretch;0;Louise;FR;great quality stuff;2015-2019
+1890;Ce soir ne sors pas;63;Lacrim, GIMS;FR;NULL;2015-2019
+1891;Die Heelal (feat. Early B);0;Janie Bay, Early B;FR;NULL;2015-2019
+1892;Scarface;62;Booba;FR;french rap;2015-2019
+1893;Sirenen;0;Tommy;FR;NULL;2015-2019
+1894;J'fais mes affaires;62;Djadja & Dinaz;FR;NULL;2015-2019
+1895;言葉のいらない約束;0;sana;FR;J-rock;2015-2019
+1896;Est-ce que tu m'aimes ? - Pilule bleue;71;GIMS;FR;MySpotigramBot;2015-2019
+1897;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;FR;NULL;2015-2019
+1898;Un Poco;61;Ninho;FR;MySpotigramBot;2015-2019
+1899;Pakete;0;Tommy;FR;NULL;2015-2019
+1900;All The Stars (with SZA);90;Kendrick Lamar, SZA;MC;NULL;2015-2019
+1901;Downtown;14;Anitta, J Balvin;MC;NULL;2015-2019
+1902;See You Again (feat. Kali Uchis);86;Tyler, The Creator, Kali Uchis;MC;NULL;2015-2019
+1903;Skrrt;7;K27, Einar;MC;NULL;2015-2019
+1904;The Night We Met;85;Lord Huron;MC;indie;2015-2019
+1905;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;MC;NULL;2015-2019
+1906;HUMBLE.;84;Kendrick Lamar;MC;rap;2015-2019
+1907;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;MC;NULL;2015-2019
+1908;That's What I Like;84;Bruno Mars;MC;funk;2015-2019
+1909;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;MC;NULL;2015-2019
+1910;Starboy;84;The Weeknd, Daft Punk;MC;NULL;2015-2019
+1911;Enamorado;2;Alexander Stewart;MC;pop;2015-2019
+1912;Cruel Summer;84;Taylor Swift;MC;electropop;2015-2019
+1913;Слэмятся пацаны;2;Little Big, Ruki Vverh!;MC;NULL;2015-2019
+1914;Swim;83;Chase Atlantic;MC;seen live;2015-2019
+1915;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;MC;NULL;2015-2019
+1916;Something Just Like This;83;The Chainsmokers, Coldplay;MC;NULL;2015-2019
+1917;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;MC;NULL;2015-2019
+1918;Perfect;83;Ed Sheeran;MC;Ballad;2015-2019
+1919;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;MC;NULL;2015-2019
+1920;Shape of You;83;Ed Sheeran;MC;pop;2015-2019
+1921;Matador (feat. Tommy);1;CAPO, Tommy;MC;NULL;2015-2019
+1922;Pink + White;83;Frank Ocean;MC;NULL;2015-2019
+1923;Milion słów;1;Jula;MC;polish;2015-2019
+1924;lovely (with Khalid);83;Billie Eilish, Khalid;MC;NULL;2015-2019
+1925;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;MC;NULL;2015-2019
+1926;Closer;82;The Chainsmokers, Halsey;MC;NULL;2015-2019
+1927;Дождь (feat. МакSим);1;Geegun, MAKSIM;MC;NULL;2015-2019
+1928;Believer;81;Imagine Dragons;MC;rock;2015-2019
+1929;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;MC;NULL;2015-2019
+1930;goosebumps;81;Travis Scott;MC;MySpotigramBot;2015-2019
+1931;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;MC;NULL;2015-2019
+1932;Dandelions;81;Ruth B.;MC;pop;2015-2019
+1933;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;MC;NULL;2015-2019
+1934;White Ferrari;81;Frank Ocean;MC;singer-songwriter;2015-2019
+1935;Stretch;0;Louise;MC;great quality stuff;2015-2019
+1936;Someone You Loved;81;Lewis Capaldi;MC;2010s;2015-2019
+1937;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;MC;NULL;2015-2019
+1938;One Dance;81;Drake, Wizkid, Kyla;MC;NULL;2015-2019
+1939;Die Heelal (feat. Early B);0;Janie Bay, Early B;MC;NULL;2015-2019
+1940;Ransom;81;Lil Tecca;MC;2010s;2015-2019
+1941;Sirenen;0;Tommy;MC;NULL;2015-2019
+1942;The Hills;81;The Weeknd;MC;rnb;2015-2019
+1943;言葉のいらない約束;0;sana;MC;J-rock;2015-2019
+1944;Die For You;81;The Weeknd;MC;rnb;2015-2019
+1945;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;MC;NULL;2015-2019
+1946;Best Part (feat. H.E.R.);81;Daniel Caesar, H.E.R.;MC;NULL;2015-2019
+1947;Pakete;0;Tommy;MC;NULL;2015-2019
+1948;There's Nothing Holdin' Me Back;81;Shawn Mendes;MC;pop;2015-2019
+1949;Stronger Together;0;Paul van Dyk, Pierre Pienaar;MC;NULL;2015-2019
+1950;Visiera A Becco;63;Sfera Ebbasta;IT;MySpotigramBot;2015-2019
+1951;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;IT;NULL;2015-2019
+1952;Bang Bang;63;Sfera Ebbasta;IT;MySpotigramBot;2015-2019
+1953;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;IT;NULL;2015-2019
+1954;All The Stars (with SZA);90;Kendrick Lamar, SZA;IT;NULL;2015-2019
+1955;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;IT;NULL;2015-2019
+1956;The Night We Met;85;Lord Huron;IT;indie;2015-2019
+1957;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;IT;NULL;2015-2019
+1958;X (feat. Maluma & Ozuna) - Remix;77;Nicky Jam, J Balvin, Maluma, Ozuna;IT;NULL;2015-2019
+1959;Du bist schön - Live;0;Alligatoah;IT;NULL;2015-2019
+1960;Se Preparó;75;Ozuna;IT;latin;2015-2019
+1961;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;IT;NULL;2015-2019
+1962;goosebumps;81;Travis Scott;IT;MySpotigramBot;2015-2019
+1963;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;IT;NULL;2015-2019
+1964;MALA (feat. Anuel AA);73;6ix9ine, Anuel AA;IT;NULL;2015-2019
+1965;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;IT;NULL;2015-2019
+1966;Starboy;84;The Weeknd, Daft Punk;IT;NULL;2015-2019
+1967;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;IT;NULL;2015-2019
+1968;Something Just Like This;83;The Chainsmokers, Coldplay;IT;NULL;2015-2019
+1969;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;IT;NULL;2015-2019
+1970;See You Again (feat. Kali Uchis);86;Tyler, The Creator, Kali Uchis;IT;NULL;2015-2019
+1971;La somma (feat. Martina Attili) [Live at Massive Arts Studios, Milano, 2019];0;Mr.Rain, Martina Attili;IT;NULL;2015-2019
+1972;HIGHEST IN THE ROOM;80;Travis Scott;IT;MySpotigramBot;2015-2019
+1973;Stretch;0;Louise;IT;great quality stuff;2015-2019
+1974;Mirándote;70;Rvfv;IT;MySpotigramBot;2015-2019
+1975;Enamorado;2;Alexander Stewart;IT;pop;2015-2019
+1976;HUMBLE.;84;Kendrick Lamar;IT;rap;2015-2019
+1977;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;IT;NULL;2015-2019
+1978;Swim;83;Chase Atlantic;IT;seen live;2015-2019
+1979;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;IT;NULL;2015-2019
+1980;LA CANCIÓN;80;J Balvin, Bad Bunny;IT;NULL;2015-2019
+1981;Senza farlo apposta;0;Shade, Federica Carta;IT;NULL;2015-2019
+1982;Someone You Loved;81;Lewis Capaldi;IT;2010s;2015-2019
+1983;All I've Ever Known;0;Grace Hodgett Young, Dónal Finn;IT;NULL;2015-2019
+1984;Ransom;81;Lil Tecca;IT;2010s;2015-2019
+1985;Слэмятся пацаны;2;Little Big, Ruki Vverh!;IT;NULL;2015-2019
+1986;Perfect;83;Ed Sheeran;IT;Ballad;2015-2019
+1987;Cristo;0;Cromo;IT;NULL;2015-2019
+1988;Amanece;75;Anuel AA, Haze;IT;NULL;2015-2019
+1989;Downtown;14;Anitta, J Balvin;IT;NULL;2015-2019
+1990;El Efecto;74;Rauw Alejandro, Chencho Corleone;IT;NULL;2015-2019
+1991;Into It - Live;0;Chase Atlantic;IT;NULL;2015-2019
+1992;Shallow;79;Lady Gaga, Bradley Cooper;IT;NULL;2015-2019
+1993;Famous;0;Kanye West;IT;MySpotigramBot;2015-2019
+1994;Believer;81;Imagine Dragons;IT;rock;2015-2019
+1995;25 (feat. KZ);0;Kojey Radical, KZ;IT;NULL;2015-2019
+1996;Always Remember Us This Way;79;Lady Gaga;IT;Love;2015-2019
+1997;REASON;0;SYU(from GALNERYUS);IT;NULL;2015-2019
+1998;X;72;Nicky Jam, J Balvin;IT;NULL;2015-2019
+1999;Did You Love Me;0;Shannon & the Clams;IT;NULL;2015-2019
+2000;All The Stars (with SZA);90;Kendrick Lamar, SZA;SI;NULL;2015-2019
+2001;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;SI;NULL;2015-2019
+2002;The Night We Met;85;Lord Huron;SI;indie;2015-2019
+2003;Enamorado;2;Alexander Stewart;SI;pop;2015-2019
+2004;Biseri Iz Blata;53;Coby;SI;NULL;2015-2019
+2005;Lead Me On;0;Louise;SI;NULL;2015-2019
+2006;Euforija;52;Rasta;SI;NULL;2015-2019
+2007;Stretch;0;Louise;SI;great quality stuff;2015-2019
+2008;Balerina;33;Mambo Kings;SI;NULL;2015-2019
+2009;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;SI;NULL;2015-2019
+2010;Comfort;51;Buba Corelli;SI;NULL;2015-2019
+2011;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;SI;NULL;2015-2019
+2012;Leto je;49;Coby;SI;NULL;2015-2019
+2013;Skrrt;7;K27, Einar;SI;NULL;2015-2019
+2014;Moja;32;Modrijani;SI;NULL;2015-2019
+2015;Downtown;14;Anitta, J Balvin;SI;NULL;2015-2019
+2016;Indigo;49;Rasta;SI;NULL;2015-2019
+2017;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;SI;NULL;2015-2019
+2018;See You Again (feat. Kali Uchis);86;Tyler, The Creator, Kali Uchis;SI;NULL;2015-2019
+2019;Слэмятся пацаны;2;Little Big, Ruki Vverh!;SI;NULL;2015-2019
+2020;Opasno;51;Buba Corelli;SI;NULL;2015-2019
+2021;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;SI;NULL;2015-2019
+2022;Tuga iz Porschea;47;Relja;SI;NULL;2015-2019
+2023;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;SI;NULL;2015-2019
+2024;Balenciaga;49;Buba Corelli;SI;NULL;2015-2019
+2025;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;SI;NULL;2015-2019
+2026;4 Strane Sveta;50;Coby, Senidah;SI;NULL;2015-2019
+2027;Matador (feat. Tommy);1;CAPO, Tommy;SI;NULL;2015-2019
+2028;HUMBLE.;84;Kendrick Lamar;SI;rap;2015-2019
+2029;Milion słów;1;Jula;SI;polish;2015-2019
+2030;100%;56;Senidah, RAF Camora;SI;NULL;2015-2019
+2031;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;SI;NULL;2015-2019
+2032;Latino Evropa;48;Relja;SI;NULL;2015-2019
+2033;Дождь (feat. МакSим);1;Geegun, MAKSIM;SI;NULL;2015-2019
+2034;Pucam Pucam;49;Rasta;SI;NULL;2015-2019
+2035;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;SI;NULL;2015-2019
+2036;S Teboj;31;Modrijani;SI;NULL;2015-2019
+2037;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;SI;NULL;2015-2019
+2038;Otrove;48;Severina, Jala Brat;SI;NULL;2015-2019
+2039;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;SI;NULL;2015-2019
+2040;Ransom;81;Lil Tecca;SI;2010s;2015-2019
+2041;Die Heelal (feat. Early B);0;Janie Bay, Early B;SI;NULL;2015-2019
+2042;HIGHEST IN THE ROOM;80;Travis Scott;SI;MySpotigramBot;2015-2019
+2043;Sirenen;0;Tommy;SI;NULL;2015-2019
+2044;Sporije;49;Buba Corelli;SI;NULL;2015-2019
+2045;言葉のいらない約束;0;sana;SI;J-rock;2015-2019
+2046;Something Just Like This;83;The Chainsmokers, Coldplay;SI;NULL;2015-2019
+2047;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;SI;NULL;2015-2019
+2048;Ledena;30;Siddharta;SI;NULL;2015-2019
+2049;Pakete;0;Tommy;SI;NULL;2015-2019
+2050;Comfort;51;Buba Corelli;HR;NULL;2015-2019
+2051;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;HR;NULL;2015-2019
+2052;Opasno;51;Buba Corelli;HR;NULL;2015-2019
+2053;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;HR;NULL;2015-2019
+2054;Sporije;49;Buba Corelli;HR;NULL;2015-2019
+2055;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;HR;NULL;2015-2019
+2056;Klinka;48;Jala Brat, Buba Corelli;HR;NULL;2015-2019
+2057;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;HR;NULL;2015-2019
+2058;Usta Na Usta;47;Buba Corelli;HR;NULL;2015-2019
+2059;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;HR;NULL;2015-2019
+2060;Biseri Iz Blata;53;Coby;HR;NULL;2015-2019
+2061;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;HR;NULL;2015-2019
+2062;Trinidad i Tobago;47;Jala, Buba Corelli;HR;NULL;2015-2019
+2063;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;HR;NULL;2015-2019
+2064;4 Strane Sveta;50;Coby, Senidah;HR;NULL;2015-2019
+2065;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;HR;NULL;2015-2019
+2066;Balenciaga;49;Buba Corelli;HR;NULL;2015-2019
+2067;Enamorado;2;Alexander Stewart;HR;pop;2015-2019
+2068;Slučajnost;49;Rasta, Ana Nikolić;HR;NULL;2015-2019
+2069;REASON;0;SYU(from GALNERYUS);HR;NULL;2015-2019
+2070;Euforija;52;Rasta;HR;NULL;2015-2019
+2071;Did You Love Me;0;Shannon & the Clams;HR;NULL;2015-2019
+2072;Nisi ti za male stvari;46;Zeljko Samardzic;HR;NULL;2015-2019
+2073;Слэмятся пацаны;2;Little Big, Ruki Vverh!;HR;NULL;2015-2019
+2074;Otrove;48;Severina, Jala Brat;HR;NULL;2015-2019
+2075;Downtown;14;Anitta, J Balvin;HR;NULL;2015-2019
+2076;All The Stars (with SZA);90;Kendrick Lamar, SZA;HR;NULL;2015-2019
+2077;Skrrt;7;K27, Einar;HR;NULL;2015-2019
+2078;Konkretno;49;Ana Nikolić, Rasta;HR;NULL;2015-2019
+2079;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;HR;NULL;2015-2019
+2080;Leto je;49;Coby;HR;NULL;2015-2019
+2081;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;HR;NULL;2015-2019
+2082;La Martina;46;Jala Brat;HR;NULL;2015-2019
+2083;Matador (feat. Tommy);1;CAPO, Tommy;HR;NULL;2015-2019
+2084;Pleši;45;Jala, Buba Corelli;HR;NULL;2015-2019
+2085;Milion słów;1;Jula;HR;polish;2015-2019
+2086;Indigo;49;Rasta;HR;NULL;2015-2019
+2087;Дождь (feat. МакSим);1;Geegun, MAKSIM;HR;NULL;2015-2019
+2088;SOS;44;Balkaton Gang, Rasta, Sandra Afrika;HR;NULL;2015-2019
+2089;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;HR;NULL;2015-2019
+2090;Ne volim;45;Jala Brat, Buba Corelli, Elena;HR;NULL;2015-2019
+2091;Stretch;0;Louise;HR;great quality stuff;2015-2019
+2092;Zver;47;Coby;HR;NULL;2015-2019
+2093;Die Heelal (feat. Early B);0;Janie Bay, Early B;HR;NULL;2015-2019
+2094;The Night We Met;85;Lord Huron;HR;indie;2015-2019
+2095;Sirenen;0;Tommy;HR;NULL;2015-2019
+2096;Fetiš;45;Buba Corelli;HR;NULL;2015-2019
+2097;言葉のいらない約束;0;sana;HR;J-rock;2015-2019
+2098;Pravo Vreme;46;Maya Berovic, Buba Corelli;HR;NULL;2015-2019
+2099;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;HR;NULL;2015-2019
+2100;All The Stars (with SZA);90;Kendrick Lamar, SZA;BA;NULL;2015-2019
+2101;Full Automatic (feat. Diego);0;Sleiman, Diego;BA;NULL;2015-2019
+2102;See You Again (feat. Kali Uchis);86;Tyler, The Creator, Kali Uchis;BA;NULL;2015-2019
+2103;Downtown;14;Anitta, J Balvin;BA;NULL;2015-2019
+2104;The Night We Met;85;Lord Huron;BA;indie;2015-2019
+2105;Skrrt;7;K27, Einar;BA;NULL;2015-2019
+2106;HUMBLE.;84;Kendrick Lamar;BA;rap;2015-2019
+2107;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;BA;NULL;2015-2019
+2108;That's What I Like;84;Bruno Mars;BA;funk;2015-2019
+2109;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;BA;NULL;2015-2019
+2110;Starboy;84;The Weeknd, Daft Punk;BA;NULL;2015-2019
+2111;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;BA;NULL;2015-2019
+2112;Cruel Summer;84;Taylor Swift;BA;electropop;2015-2019
+2113;Enamorado;2;Alexander Stewart;BA;pop;2015-2019
+2114;Swim;83;Chase Atlantic;BA;seen live;2015-2019
+2115;Слэмятся пацаны;2;Little Big, Ruki Vverh!;BA;NULL;2015-2019
+2116;Something Just Like This;83;The Chainsmokers, Coldplay;BA;NULL;2015-2019
+2117;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;BA;NULL;2015-2019
+2118;Perfect;83;Ed Sheeran;BA;Ballad;2015-2019
+2119;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;BA;NULL;2015-2019
+2120;Shape of You;83;Ed Sheeran;BA;pop;2015-2019
+2121;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;BA;NULL;2015-2019
+2122;Pink + White;83;Frank Ocean;BA;NULL;2015-2019
+2123;Matador (feat. Tommy);1;CAPO, Tommy;BA;NULL;2015-2019
+2124;lovely (with Khalid);83;Billie Eilish, Khalid;BA;NULL;2015-2019
+2125;Milion słów;1;Jula;BA;polish;2015-2019
+2126;Closer;82;The Chainsmokers, Halsey;BA;NULL;2015-2019
+2127;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;BA;NULL;2015-2019
+2128;Believer;81;Imagine Dragons;BA;rock;2015-2019
+2129;Дождь (feat. МакSим);1;Geegun, MAKSIM;BA;NULL;2015-2019
+2130;goosebumps;81;Travis Scott;BA;MySpotigramBot;2015-2019
+2131;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;BA;NULL;2015-2019
+2132;Dandelions;81;Ruth B.;BA;pop;2015-2019
+2133;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;BA;NULL;2015-2019
+2134;White Ferrari;81;Frank Ocean;BA;singer-songwriter;2015-2019
+2135;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;BA;NULL;2015-2019
+2136;Someone You Loved;81;Lewis Capaldi;BA;2010s;2015-2019
+2137;Stretch;0;Louise;BA;great quality stuff;2015-2019
+2138;One Dance;81;Drake, Wizkid, Kyla;BA;NULL;2015-2019
+2139;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;BA;NULL;2015-2019
+2140;Ransom;81;Lil Tecca;BA;2010s;2015-2019
+2141;Die Heelal (feat. Early B);0;Janie Bay, Early B;BA;NULL;2015-2019
+2142;The Hills;81;The Weeknd;BA;rnb;2015-2019
+2143;Sirenen;0;Tommy;BA;NULL;2015-2019
+2144;Die For You;81;The Weeknd;BA;rnb;2015-2019
+2145;言葉のいらない約束;0;sana;BA;J-rock;2015-2019
+2146;Best Part (feat. H.E.R.);81;Daniel Caesar, H.E.R.;BA;NULL;2015-2019
+2147;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;BA;NULL;2015-2019
+2148;There's Nothing Holdin' Me Back;81;Shawn Mendes;BA;pop;2015-2019
+2149;Pakete;0;Tommy;BA;NULL;2015-2019
+2150;All The Stars (with SZA);90;Kendrick Lamar, SZA;ME;NULL;2015-2019
+2151;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;ME;NULL;2015-2019
+2152;See You Again (feat. Kali Uchis);86;Tyler, The Creator, Kali Uchis;ME;NULL;2015-2019
+2153;Слэмятся пацаны;2;Little Big, Ruki Vverh!;ME;NULL;2015-2019
+2154;The Night We Met;85;Lord Huron;ME;indie;2015-2019
+2155;Downtown;14;Anitta, J Balvin;ME;NULL;2015-2019
+2156;HUMBLE.;84;Kendrick Lamar;ME;rap;2015-2019
+2157;Skrrt;7;K27, Einar;ME;NULL;2015-2019
+2158;That's What I Like;84;Bruno Mars;ME;funk;2015-2019
+2159;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;ME;NULL;2015-2019
+2160;Starboy;84;The Weeknd, Daft Punk;ME;NULL;2015-2019
+2161;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;ME;NULL;2015-2019
+2162;Cruel Summer;84;Taylor Swift;ME;electropop;2015-2019
+2163;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;ME;NULL;2015-2019
+2164;Swim;83;Chase Atlantic;ME;seen live;2015-2019
+2165;Enamorado;2;Alexander Stewart;ME;pop;2015-2019
+2166;Something Just Like This;83;The Chainsmokers, Coldplay;ME;NULL;2015-2019
+2167;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;ME;NULL;2015-2019
+2168;Perfect;83;Ed Sheeran;ME;Ballad;2015-2019
+2169;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;ME;NULL;2015-2019
+2170;Shape of You;83;Ed Sheeran;ME;pop;2015-2019
+2171;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;ME;NULL;2015-2019
+2172;Pink + White;83;Frank Ocean;ME;NULL;2015-2019
+2173;Matador (feat. Tommy);1;CAPO, Tommy;ME;NULL;2015-2019
+2174;lovely (with Khalid);83;Billie Eilish, Khalid;ME;NULL;2015-2019
+2175;Milion słów;1;Jula;ME;polish;2015-2019
+2176;Closer;82;The Chainsmokers, Halsey;ME;NULL;2015-2019
+2177;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;ME;NULL;2015-2019
+2178;Believer;81;Imagine Dragons;ME;rock;2015-2019
+2179;Дождь (feat. МакSим);1;Geegun, MAKSIM;ME;NULL;2015-2019
+2180;goosebumps;81;Travis Scott;ME;MySpotigramBot;2015-2019
+2181;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;ME;NULL;2015-2019
+2182;Dandelions;81;Ruth B.;ME;pop;2015-2019
+2183;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;ME;NULL;2015-2019
+2184;White Ferrari;81;Frank Ocean;ME;singer-songwriter;2015-2019
+2185;Stretch;0;Louise;ME;great quality stuff;2015-2019
+2186;Someone You Loved;81;Lewis Capaldi;ME;2010s;2015-2019
+2187;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;ME;NULL;2015-2019
+2188;One Dance;81;Drake, Wizkid, Kyla;ME;NULL;2015-2019
+2189;Die Heelal (feat. Early B);0;Janie Bay, Early B;ME;NULL;2015-2019
+2190;Ransom;81;Lil Tecca;ME;2010s;2015-2019
+2191;Sirenen;0;Tommy;ME;NULL;2015-2019
+2192;The Hills;81;The Weeknd;ME;rnb;2015-2019
+2193;言葉のいらない約束;0;sana;ME;J-rock;2015-2019
+2194;Die For You;81;The Weeknd;ME;rnb;2015-2019
+2195;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;ME;NULL;2015-2019
+2196;Best Part (feat. H.E.R.);81;Daniel Caesar, H.E.R.;ME;NULL;2015-2019
+2197;Pakete;0;Tommy;ME;NULL;2015-2019
+2198;There's Nothing Holdin' Me Back;81;Shawn Mendes;ME;pop;2015-2019
+2199;Stronger Together;0;Paul van Dyk, Pierre Pienaar;ME;NULL;2015-2019
+2200;All The Stars (with SZA);90;Kendrick Lamar, SZA;AL;NULL;2015-2019
+2201;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;AL;NULL;2015-2019
+2202;See You Again (feat. Kali Uchis);86;Tyler, The Creator, Kali Uchis;AL;NULL;2015-2019
+2203;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;AL;NULL;2015-2019
+2204;The Night We Met;85;Lord Huron;AL;indie;2015-2019
+2205;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;AL;NULL;2015-2019
+2206;HUMBLE.;84;Kendrick Lamar;AL;rap;2015-2019
+2207;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;AL;NULL;2015-2019
+2208;That's What I Like;84;Bruno Mars;AL;funk;2015-2019
+2209;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;AL;NULL;2015-2019
+2210;Starboy;84;The Weeknd, Daft Punk;AL;NULL;2015-2019
+2211;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;AL;NULL;2015-2019
+2212;Cruel Summer;84;Taylor Swift;AL;electropop;2015-2019
+2213;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;AL;NULL;2015-2019
+2214;Swim;83;Chase Atlantic;AL;seen live;2015-2019
+2215;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;AL;NULL;2015-2019
+2216;Something Just Like This;83;The Chainsmokers, Coldplay;AL;NULL;2015-2019
+2217;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;AL;NULL;2015-2019
+2218;Perfect;83;Ed Sheeran;AL;Ballad;2015-2019
+2219;言葉のいらない約束;0;sana;AL;J-rock;2015-2019
+2220;Shape of You;83;Ed Sheeran;AL;pop;2015-2019
+2221;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;AL;NULL;2015-2019
+2222;Pink + White;83;Frank Ocean;AL;NULL;2015-2019
+2223;Stronger Together;0;Paul van Dyk, Pierre Pienaar;AL;NULL;2015-2019
+2224;lovely (with Khalid);83;Billie Eilish, Khalid;AL;NULL;2015-2019
+2225;Kapitel 1 / Frühling;0;DLG;AL;NULL;2015-2019
+2226;Closer;82;The Chainsmokers, Halsey;AL;NULL;2015-2019
+2227;Inquilina - Ao Vivo;0;Aviões do Forró;AL;NULL;2015-2019
+2228;Believer;81;Imagine Dragons;AL;rock;2015-2019
+2229;God Is Gangsta;0;Kendrick Lamar;AL;NULL;2015-2019
+2230;goosebumps;81;Travis Scott;AL;MySpotigramBot;2015-2019
+2231;Győzni Jöttünk;0;Begi Lotfi, Freddie;AL;NULL;2015-2019
+2232;Dandelions;81;Ruth B.;AL;pop;2015-2019
+2233;M A N I A;0;The Weeknd;AL;NULL;2015-2019
+2234;White Ferrari;81;Frank Ocean;AL;singer-songwriter;2015-2019
+2235;Von Heinz zu Heinz (Folge 2: NDW);0;Heinz Rudolf Kunze;AL;NULL;2015-2019
+2236;Someone You Loved;81;Lewis Capaldi;AL;2010s;2015-2019
+2237;Lana Film;0;Lana Del Rey;AL;NULL;2015-2019
+2238;One Dance;81;Drake, Wizkid, Kyla;AL;NULL;2015-2019
+2239;NFWMB - Acoustic / Live;0;Hozier;AL;NULL;2015-2019
+2240;Ransom;81;Lil Tecca;AL;2010s;2015-2019
+2241;Fuck it I love you / The greatest;0;Lana Del Rey;AL;NULL;2015-2019
+2242;The Hills;81;The Weeknd;AL;rnb;2015-2019
+2243;Du bist schön - Live;0;Alligatoah;AL;NULL;2015-2019
+2244;Die For You;81;The Weeknd;AL;rnb;2015-2019
+2245;Verdi: Il Trovatore - Tacea la notte placida;0;Giuseppe Verdi, Sonya Yoncheva, Massimo Zanetti, Munich Radio Orchestra;AL;NULL;2015-2019
+2246;Best Part (feat. H.E.R.);81;Daniel Caesar, H.E.R.;AL;NULL;2015-2019
+2247;Crowd Control;0;Dimitri Vegas, Like Mike, W&W;AL;NULL;2015-2019
+2248;There's Nothing Holdin' Me Back;81;Shawn Mendes;AL;pop;2015-2019
+2249;"Igor Levit über ""Bach, Beethoven, Rzewski""";0;Frederic Rzewski, Johann Sebastian Bach, Ludwig van Beethoven, Igor Levit;AL;NULL;2015-2019
+2250;Sandra;52;TOQUEL;GR;NULL;2015-2019
+2251;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;GR;NULL;2015-2019
+2252;777;52;TOQUEL;GR;NULL;2015-2019
+2253;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;GR;NULL;2015-2019
+2254;Tipota Ston Kosmo;51;LEX;GR;NULL;2015-2019
+2255;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;GR;NULL;2015-2019
+2256;All The Stars (with SZA);90;Kendrick Lamar, SZA;GR;NULL;2015-2019
+2257;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;GR;NULL;2015-2019
+2258;Xorepse Mazi Mou;49;Saske, Gamecue;GR;NULL;2015-2019
+2259;Enamorado;2;Alexander Stewart;GR;pop;2015-2019
+2260;Kolasi;48;TOQUEL;GR;NULL;2015-2019
+2261;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;GR;NULL;2015-2019
+2262;To Kyma;49;Melisses;GR;NULL;2015-2019
+2263;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;GR;NULL;2015-2019
+2264;GANGSTA;48;SNIK, A!MS;GR;NULL;2015-2019
+2265;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;GR;NULL;2015-2019
+2266;Netflix;47;TOQUEL, Hawk;GR;NULL;2015-2019
+2267;Слэмятся пацаны;2;Little Big, Ruki Vverh!;GR;NULL;2015-2019
+2268;Ores Mikres;48;Giorgos Mazonakis;GR;NULL;2015-2019
+2269;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;GR;NULL;2015-2019
+2270;Guccci;46;Mad Clip;GR;NULL;2015-2019
+2271;Skrrt;7;K27, Einar;GR;NULL;2015-2019
+2272;HUMBLE.;84;Kendrick Lamar;GR;rap;2015-2019
+2273;Did You Love Me;0;Shannon & the Clams;GR;NULL;2015-2019
+2274;The Night We Met;85;Lord Huron;GR;indie;2015-2019
+2275;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;GR;NULL;2015-2019
+2276;Starboy;84;The Weeknd, Daft Punk;GR;NULL;2015-2019
+2277;REASON;0;SYU(from GALNERYUS);GR;NULL;2015-2019
+2278;Anagki Na Se Do;46;Bloody Hawk;GR;hip hop;2015-2019
+2279;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;GR;NULL;2015-2019
+2280;Low Life (feat. The Weeknd);80;Future, The Weeknd;GR;NULL;2015-2019
+2281;Pictures of You;0;Sonny Smith;GR;fip;2015-2019
+2282;HIGHEST IN THE ROOM;80;Travis Scott;GR;MySpotigramBot;2015-2019
+2283;Fuck it I love you / The greatest;0;Lana Del Rey;GR;NULL;2015-2019
+2284;Swim;83;Chase Atlantic;GR;seen live;2015-2019
+2285;Downtown;14;Anitta, J Balvin;GR;NULL;2015-2019
+2286;Lost in the Fire (feat. The Weeknd);77;Gesaffelstein, The Weeknd;GR;NULL;2015-2019
+2287;Matador (feat. Tommy);1;CAPO, Tommy;GR;NULL;2015-2019
+2288;Tis Kardias Mou To Grammeno;48;Pantelis Pantelidis;GR;NULL;2015-2019
+2289;Milion słów;1;Jula;GR;polish;2015-2019
+2290;Den Eho Idea;46;Christos Mastoras;GR;NULL;2015-2019
+2291;Дождь (feat. МакSим);1;Geegun, MAKSIM;GR;NULL;2015-2019
+2292;Call Out My Name;80;The Weeknd;GR;rnb;2015-2019
+2293;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;GR;NULL;2015-2019
+2294;Louloudi Tou Dromou;45;Yorgos Rous;GR;NULL;2015-2019
+2295;Stretch;0;Louise;GR;great quality stuff;2015-2019
+2296;Άμα ρωτήσουν που χάθηκα;44;Βέβηλος, Anser;GR;NULL;2015-2019
+2297;Die Heelal (feat. Early B);0;Janie Bay, Early B;GR;NULL;2015-2019
+2298;Ric Flair Drip (with Metro Boomin);77;Offset, Metro Boomin;GR;NULL;2015-2019
+2299;Sirenen;0;Tommy;GR;NULL;2015-2019
+2300;All The Stars (with SZA);90;Kendrick Lamar, SZA;MT;NULL;2015-2019
+2301;Дождь (feat. МакSим);1;Geegun, MAKSIM;MT;NULL;2015-2019
+2302;The Night We Met;85;Lord Huron;MT;indie;2015-2019
+2303;Enamorado;2;Alexander Stewart;MT;pop;2015-2019
+2304;Something Just Like This;83;The Chainsmokers, Coldplay;MT;NULL;2015-2019
+2305;Skrrt;7;K27, Einar;MT;NULL;2015-2019
+2306;Always Remember Us This Way;79;Lady Gaga;MT;Love;2015-2019
+2307;Слэмятся пацаны;2;Little Big, Ruki Vverh!;MT;NULL;2015-2019
+2308;Starboy;84;The Weeknd, Daft Punk;MT;NULL;2015-2019
+2309;Downtown;14;Anitta, J Balvin;MT;NULL;2015-2019
+2310;Low Life (feat. The Weeknd);80;Future, The Weeknd;MT;NULL;2015-2019
+2311;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;MT;NULL;2015-2019
+2312;Cruel Summer;84;Taylor Swift;MT;electropop;2015-2019
+2313;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;MT;NULL;2015-2019
+2314;HUMBLE.;84;Kendrick Lamar;MT;rap;2015-2019
+2315;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;MT;NULL;2015-2019
+2316;Unforgettable;81;French Montana, Swae Lee;MT;NULL;2015-2019
+2317;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;MT;NULL;2015-2019
+2318;Perfect;83;Ed Sheeran;MT;Ballad;2015-2019
+2319;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;MT;NULL;2015-2019
+2320;Someone You Loved;81;Lewis Capaldi;MT;2010s;2015-2019
+2321;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;MT;NULL;2015-2019
+2322;See You Again (feat. Kali Uchis);86;Tyler, The Creator, Kali Uchis;MT;NULL;2015-2019
+2323;Matador (feat. Tommy);1;CAPO, Tommy;MT;NULL;2015-2019
+2324;Hymn for the Weekend;79;Coldplay;MT;pop;2015-2019
+2325;Milion słów;1;Jula;MT;polish;2015-2019
+2326;Shallow;79;Lady Gaga, Bradley Cooper;MT;NULL;2015-2019
+2327;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;MT;NULL;2015-2019
+2328;lovely (with Khalid);83;Billie Eilish, Khalid;MT;NULL;2015-2019
+2329;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;MT;NULL;2015-2019
+2330;Solo;78;Future;MT;MySpotigramBot;2015-2019
+2331;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;MT;NULL;2015-2019
+2332;Love On The Brain;81;Rihanna;MT;soul;2015-2019
+2333;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;MT;NULL;2015-2019
+2334;HIGHEST IN THE ROOM;80;Travis Scott;MT;MySpotigramBot;2015-2019
+2335;Stretch;0;Louise;MT;great quality stuff;2015-2019
+2336;Dusk Till Dawn (feat. Sia) - Radio Edit;78;ZAYN, Sia;MT;NULL;2015-2019
+2337;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;MT;NULL;2015-2019
+2338;Circles;80;Post Malone;MT;pop;2015-2019
+2339;Die Heelal (feat. Early B);0;Janie Bay, Early B;MT;NULL;2015-2019
+2340;Closer;82;The Chainsmokers, Halsey;MT;NULL;2015-2019
+2341;Sirenen;0;Tommy;MT;NULL;2015-2019
+2342;Shape of You;83;Ed Sheeran;MT;pop;2015-2019
+2343;言葉のいらない約束;0;sana;MT;J-rock;2015-2019
+2344;Without You (feat. Sandro Cavazza);77;Avicii, Sandro Cavazza;MT;NULL;2015-2019
+2345;Do It Like You Mean It (feat. Yoel 905);0;Frans, Yoel905;MT;NULL;2015-2019
+2346;Are You With Me;75;Lost Frequencies;MT;deep house;2015-2019
+2347;Pakete;0;Tommy;MT;NULL;2015-2019
+2348;Before You Go;78;Lewis Capaldi;MT;alternative;2015-2019
+2349;Stronger Together;0;Paul van Dyk, Pierre Pienaar;MT;NULL;2015-2019
+2350;All The Stars (with SZA);90;Kendrick Lamar, SZA;CY;NULL;2015-2019
+2351;Слэмятся пацаны;2;Little Big, Ruki Vverh!;CY;NULL;2015-2019
+2352;Tipota Ston Kosmo;51;LEX;CY;NULL;2015-2019
+2353;Enamorado;2;Alexander Stewart;CY;pop;2015-2019
+2354;The Night We Met;85;Lord Huron;CY;indie;2015-2019
+2355;Greenwood, Philip Selway, Edward O'Brien, Colin Greenwood: Pyramid Song (Arr. Lawson);3;Jonny Greenwood, Thom Yorke, Philip Selway, Edward O’Brien, Colin Greenwood, VOCES8, Thomas Gould, Matthew Sharp, Eleanor Turner;CY;NULL;2015-2019
+2356;To Kyma;49;Melisses;CY;NULL;2015-2019
+2357;REASON;0;SYU(from GALNERYUS);CY;NULL;2015-2019
+2358;Sandra;52;TOQUEL;CY;NULL;2015-2019
+2359;So Beautiful (Live at Ziggo Dome, Amsterdam);1;Simply Red;CY;NULL;2015-2019
+2360;HUMBLE.;84;Kendrick Lamar;CY;rap;2015-2019
+2361;SLOW DANCING IN THE DARK;0;Joji;CY;alternative rnb;2015-2019
+2362;Starboy;84;The Weeknd, Daft Punk;CY;NULL;2015-2019
+2363;Умамы;0;Potap & Nastya;CY;NULL;2015-2019
+2364;Swim;83;Chase Atlantic;CY;seen live;2015-2019
+2365;Downtown;14;Anitta, J Balvin;CY;NULL;2015-2019
+2366;Low Life (feat. The Weeknd);80;Future, The Weeknd;CY;NULL;2015-2019
+2367;Skrrt;7;K27, Einar;CY;NULL;2015-2019
+2368;777;52;TOQUEL;CY;NULL;2015-2019
+2369;Holding Back the Years (Live at Ziggo Dome, Amsterdam);2;Simply Red;CY;NULL;2015-2019
+2370;Ores Mikres;48;Giorgos Mazonakis;CY;NULL;2015-2019
+2371;I'm Better (feat. Lamb);2;Missy Elliott, Lamb;CY;NULL;2015-2019
+2372;HIGHEST IN THE ROOM;80;Travis Scott;CY;MySpotigramBot;2015-2019
+2373;Say You Love Me (Live at Ziggo Dome, Amsterdam);1;Simply Red;CY;NULL;2015-2019
+2374;Anagki Na Se Do;46;Bloody Hawk;CY;hip hop;2015-2019
+2375;For Your Babies (Live at Ziggo Dome, Amsterdam);1;Simply Red;CY;NULL;2015-2019
+2376;Tis Kardias Mou To Grammeno;48;Pantelis Pantelidis;CY;NULL;2015-2019
+2377;Matador (feat. Tommy);1;CAPO, Tommy;CY;NULL;2015-2019
+2378;Unforgettable;81;French Montana, Swae Lee;CY;NULL;2015-2019
+2379;Milion słów;1;Jula;CY;polish;2015-2019
+2380;See You Again (feat. Kali Uchis);86;Tyler, The Creator, Kali Uchis;CY;NULL;2015-2019
+2381;Your Mirror (Live at Ziggo Dome, Amsterdam);1;Simply Red;CY;NULL;2015-2019
+2382;lovely (with Khalid);83;Billie Eilish, Khalid;CY;NULL;2015-2019
+2383;Дождь (feat. МакSим);1;Geegun, MAKSIM;CY;NULL;2015-2019
+2384;ocean eyes;79;Billie Eilish;CY;indie;2015-2019
+2385;Someday in My Life (Live at Ziggo Dome, Amsterdam);0;Simply Red;CY;NULL;2015-2019
+2386;Call Out My Name;80;The Weeknd;CY;rnb;2015-2019
+2387;"Ee Khalbitha (From ""IDI"")";0;Rahul Raj, Suchith Sureshan;CY;NULL;2015-2019
+2388;goosebumps;81;Travis Scott;CY;MySpotigramBot;2015-2019
+2389;Wenn jetzt Sommer wär (feat. Chapeau Claque);0;Pretty Pink, Chapeau Claque;CY;NULL;2015-2019
+2390;Something Just Like This;83;The Chainsmokers, Coldplay;CY;NULL;2015-2019
+2391;Stretch;0;Louise;CY;great quality stuff;2015-2019
+2392;Love On The Brain;81;Rihanna;CY;soul;2015-2019
+2393;A New Flame (Live at Ziggo Dome, Amsterdam);0;Simply Red;CY;NULL;2015-2019
+2394;Softcore;81;The Neighbourhood;CY;alternative;2015-2019
+2395;Die Heelal (feat. Early B);0;Janie Bay, Early B;CY;NULL;2015-2019
+2396;GANGSTA;48;SNIK, A!MS;CY;NULL;2015-2019
+2397;Sirenen;0;Tommy;CY;NULL;2015-2019
+2398;Lost in the Fire (feat. The Weeknd);77;Gesaffelstein, The Weeknd;CY;NULL;2015-2019
+2399;言葉のいらない約束;0;sana;CY;J-rock;2015-2019
+2400;Mi Refe;84;Beéle, Ovy On The Drums;ES;NULL;2020-2024
+2401;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;ES;NULL;2020-2024
+2402;GRAN VÍA;74;Quevedo, Aitana;ES;NULL;2020-2024
+2403;Hurt;12;OneRepublic;ES;NULL;2020-2024
+2404;capaz (merengueton);80;Alleh, Yorghaki;ES;NULL;2020-2024
+2405;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;ES;NULL;2020-2024
+2406;capaz (merengueton);81;Alleh, Yorghaki;ES;NULL;2020-2024
+2407;Cono Hielo;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;ES;NULL;2020-2024
+2408;Si Antes Te Hubiera Conocido;87;KAROL G;ES;latin;2020-2024
+2409;J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda;3;Johann Sebastian Bach, Carolin Widmann;ES;NULL;2020-2024
+2410;el ingeniero;77;Alleh, Yorghaki;ES;NULL;2020-2024
+2411;DUMBAI;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;ES;NULL;2020-2024
+2412;Yo sé;76;Yan Block, TORRRES;ES;NULL;2020-2024
+2413;Circles;7;SAINt JHN;ES;NULL;2020-2024
+2414;Qué Pasaría...;86;Rauw Alejandro, Bad Bunny;ES;NULL;2020-2024
+2415;Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile);3;Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra;ES;NULL;2020-2024
+2416;una noche;75;Alleh, Yorghaki;ES;NULL;2020-2024
+2417;Family Feud - Live at The Ford;2;FINNEAS;ES;NULL;2020-2024
+2418;Imagínate;83;Danny Ocean, Kapo;ES;NULL;2020-2024
+2419;Ciao;0;Rouss, Walls;ES;NULL;2020-2024
+2420;Se Pone Las Nike;70;Cano;ES;NULL;2020-2024
+2421;TV - Live From Singapore’s Cloud Forest;3;Billie Eilish;ES;NULL;2020-2024
+2422;IA;74;Clarent, Mora;ES;NULL;2020-2024
+2423;BABY GANGSTA;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;ES;NULL;2020-2024
+2424;Q U E V A S H A C E R H O Y ?;81;Omar Courtz, De La Rose;ES;NULL;2020-2024
+2425;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;ES;NULL;2020-2024
+2426;DEGENERE 👑 (feat. benny blanco);80;Myke Towers, benny blanco;ES;NULL;2020-2024
+2427;Adiquerala - Bulería;0;Kiki Morente, Carlos De La Jacoba;ES;NULL;2020-2024
+2428;Te Regalo;74;Rels B, J Abecia;ES;NULL;2020-2024
+2429;Passenger Princess;6;Aminé, Smino;ES;NULL;2020-2024
+2430;SE FUE;70;Moncho Chavea, Morad;ES;NULL;2020-2024
+2431;MR. MOONDIAL;70;Quevedo, Pitbull;ES;NULL;2020-2024
+2432;Aimer à moitié;2;Calema;ES;NULL;2020-2024
+2433;STAR;68;JC Reyes;ES;NULL;2020-2024
+2434;Rodeo (Remix);9;Lah Pat, Flo Milli;ES;NULL;2020-2024
+2435;Die With A Smile;96;Lady Gaga, Bruno Mars;ES;NULL;2020-2024
+2436;La Carta Que Nunca Te Escribí - Remix;0;Lu Decker, Dudi;ES;NULL;2020-2024
+2437;Luck Ra: Bzrp Music Sessions, Vol. 61;76;Bizarrap, Luck Ra;ES;NULL;2020-2024
+2438;Pasatiempo;4;La China, ECKO;ES;NULL;2020-2024
+2439;Duro De Verdad pt.2;68;Los Sufridos, Bad Gyal;ES;NULL;2020-2024
+2440;Tuck Your Chain;0;Money Man, Danny Towers;ES;NULL;2020-2024
+2441;Luna llena;68;Beny Jr;ES;NULL;2020-2024
+2442;Tussi Code Mari;5;Marcianeke, Crismj;ES;NULL;2020-2024
+2443;LUNA;84;Feid, ATL Jacob;ES;NULL;2020-2024
+2444;Party Jumpin’;2;Jamie Brown, Marshmello;ES;NULL;2020-2024
+2445;Hm Hm Hm - Remix;68;Rvfv, Youka, Wesh Music;ES;NULL;2020-2024
+2446;TRES - Cortometraje;1;Bratty;ES;NULL;2020-2024
+2447;Ohnana;77;Kapo;ES;summer;2020-2024
+2448;Don't Play by the Rules;3;D.T.E, PREZIOSO;ES;NULL;2020-2024
+2449;NANANI NANANA;74;Gazo;FR;NULL;2020-2024
+2450;Happier Than Ever - Live From Disney’s Happier Than Ever/A Love Letter to Los Angeles;3;Billie Eilish;FR;NULL;2020-2024
+2451;CIEL;72;GIMS;FR;NULL;2020-2024
+2452;TV - Live From Singapore’s Cloud Forest;3;Billie Eilish;FR;NULL;2020-2024
+2453;Die With A Smile;96;Lady Gaga, Bruno Mars;FR;NULL;2020-2024
+2454;J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda;3;Johann Sebastian Bach, Carolin Widmann;FR;NULL;2020-2024
+2455;4 Kampé;73;Joé Dwèt Filé;FR;NULL;2020-2024
+2456;Silverlines Orchestral Version;0;Damiano David;FR;NULL;2020-2024
+2457;CARTIER SANTOS;71;SDM;FR;NULL;2020-2024
+2458;Love Of Mine;0;Imagine Dragons;FR;NULL;2020-2024
+2459;CIEL;71;GIMS;FR;NULL;2020-2024
+2460;Don't Play by the Rules;3;D.T.E, PREZIOSO;FR;NULL;2020-2024
+2461;Minimum ça;71;Dr. Yaro;FR;NULL;2020-2024
+2462;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;FR;NULL;2020-2024
+2463;APT.;91;ROSÉ, Bruno Mars;FR;NULL;2020-2024
+2464;Rid Of Me - Live;3;Still Woozy;FR;NULL;2020-2024
+2465;POUR ELLE;70;SDM;FR;NULL;2020-2024
+2466;Babylon - Live;4;Tamino;FR;NULL;2020-2024
+2467;BIRDS OF A FEATHER;93;Billie Eilish;FR;alt-pop;2020-2024
+2468;Family Feud - Live at The Ford;2;FINNEAS;FR;NULL;2020-2024
+2469;Ça parle mal;70;Bouss;FR;NULL;2020-2024
+2470;Full Round Table;0;CQ Wrestling;FR;NULL;2020-2024
+2471;Mauvais Garçon;69;Helena;FR;pop;2020-2024
+2472;ขอบคุณที่เลิกกัน;0;KLEAR, Tilly Birds;FR;NULL;2020-2024
+2473;SOIS PAS TIMIDE;71;GIMS;FR;NULL;2020-2024
+2474;City;0;Tommy Saint;FR;NULL;2020-2024
+2475;Si Antes Te Hubiera Conocido;87;KAROL G;FR;latin;2020-2024
+2476;หากันจนเจอ (ซนซน 40 ปี GMM GRAMMY);0;พลพล, Punch;FR;NULL;2020-2024
+2477;DIANA;70;GIMS;FR;NULL;2020-2024
+2478;อย่างที่ฉันนั้นเป็นของเธอ (I'm Yours);0;Sonya Saranphat, Lookmhee Punyapat;FR;NULL;2020-2024
+2479;Born With a Broken Heart;77;Damiano David;FR;alternative pop;2020-2024
+2480;เพิ่งรู้(Never Knew);0;Earth Pirapat, Mix Sahaphap;FR;NULL;2020-2024
+2481;SPIDER;71;GIMS, DYSTINCT;FR;NULL;2020-2024
+2482;ไม่ต้องการ Your Love (feat. DABOYWAY);0;MATCHA, DABOYWAY;FR;NULL;2020-2024
+2483;Messy;86;Lola Young;FR;indie rock;2020-2024
+2484;2001 // Life Is Yours - The Colour Wheel Session , London 2022;0;Foals;FR;NULL;2020-2024
+2485;Ma Meilleure Ennemie (from the series Arcane League of Legends);79;Stromae, Pomme, Arcane;FR;NULL;2020-2024
+2486;ลบยัง (Re-Move On);0;GEMINI, FOURTH;FR;NULL;2020-2024
+2487;SOIS PAS TIMIDE;69;GIMS;FR;NULL;2020-2024
+2488;Party Jumpin’;2;Jamie Brown, Marshmello;FR;NULL;2020-2024
+2489;Collabo;67;Ninho, Niska;FR;NULL;2020-2024
+2490;Lindo Momento;21;Julliany Souza;FR;NULL;2020-2024
+2491;CARRÉ OK;69;Soolking, GIMS;FR;NULL;2020-2024
+2492;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;FR;NULL;2020-2024
+2493;That’s So True;91;Gracie Abrams;FR;love at first listen;2020-2024
+2494;Hurt;12;OneRepublic;FR;NULL;2020-2024
+2495;Alpha;67;Damso, Kalash;FR;NULL;2020-2024
+2496;Seu Astral / Mistérios;11;Fiorella;FR;NULL;2020-2024
+2497;Forever Young;77;David Guetta, Alphaville, Ava Max;FR;NULL;2020-2024
+2498;Rodeo (Remix);9;Lah Pat, Flo Milli;FR;NULL;2020-2024
+2499;Die With A Smile;96;Lady Gaga, Bruno Mars;MC;NULL;2020-2024
+2500;Oublier;1;Rsko;MC;NULL;2020-2024
+2501;BIRDS OF A FEATHER;93;Billie Eilish;MC;alt-pop;2020-2024
+2502;Little Window - Live Studio Session;3;FINNEAS;MC;NULL;2020-2024
+2503;Not Like Us;92;Kendrick Lamar;MC;MySpotigramBot;2020-2024
+2504;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;MC;NULL;2020-2024
+2505;That’s So True;91;Gracie Abrams;MC;love at first listen;2020-2024
+2506;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;MC;NULL;2020-2024
+2507;Clean Baby Sleep White Noise (Loopable);91;Dream Supplier, Baby Sleeps, Background White Noise;MC;NULL;2020-2024
+2508;Hurt;12;OneRepublic;MC;NULL;2020-2024
+2509;APT.;91;ROSÉ, Bruno Mars;MC;NULL;2020-2024
+2510;Passenger Princess;6;Aminé, Smino;MC;NULL;2020-2024
+2511;tv off (feat. lefty gunplay);90;Kendrick Lamar, Lefty Gunplay;MC;NULL;2020-2024
+2512;Dead Flowers;0;Boldy James;MC;NULL;2020-2024
+2513;WILDFLOWER;90;Billie Eilish;MC;edu e marco;2020-2024
+2514;I Ain't Sayin' - Performance;2;Jordan Davis;MC;NULL;2020-2024
+2515;Sailor Song;89;Gigi Perez;MC;indie folk;2020-2024
+2516;Family Feud - Live at The Ford;2;FINNEAS;MC;NULL;2020-2024
+2517;Good Luck, Babe!;89;Chappell Roan;MC;synthpop;2020-2024
+2518;What A Woman Can Do - Acoustic;0;Maddie & Tae;MC;NULL;2020-2024
+2519;luther (with sza);89;Kendrick Lamar, SZA;MC;NULL;2020-2024
+2520;Lindo Momento;21;Julliany Souza;MC;NULL;2020-2024
+2521;luther (with sza);88;Kendrick Lamar, SZA;MC;NULL;2020-2024
+2522;Seu Astral / Mistérios;11;Fiorella;MC;NULL;2020-2024
+2523;DENIAL IS A RIVER;88;Doechii;MC;Hip-Hop;2020-2024
+2524;Rodeo (Remix);9;Lah Pat, Flo Milli;MC;NULL;2020-2024
+2525;Si Antes Te Hubiera Conocido;87;KAROL G;MC;latin;2020-2024
+2526;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;MC;NULL;2020-2024
+2527;APT.;87;ROSÉ, Bruno Mars;MC;NULL;2020-2024
+2528;Circles;7;SAINt JHN;MC;NULL;2020-2024
+2529;squabble up;87;Kendrick Lamar;MC;hyphy;2020-2024
+2530;4:30;7;Haze, Mucco;MC;NULL;2020-2024
+2531;Timeless (feat. Playboi Carti);87;The Weeknd, Playboi Carti;MC;NULL;2020-2024
+2532;Selfmade Babylon;6;Bausa, Bozza;MC;NULL;2020-2024
+2533;One Of The Girls (with JENNIE, Lily Rose Depp);87;The Weeknd, JENNIE, Lily-Rose Depp;MC;NULL;2020-2024
+2534;Standard;6;Einar, A36;MC;NULL;2020-2024
+2535;Like Him (feat. Lola Young);86;Tyler, The Creator, Lola Young;MC;NULL;2020-2024
+2536;Tussi Code Mari;5;Marcianeke, Crismj;MC;NULL;2020-2024
+2537;Messy;86;Lola Young;MC;indie rock;2020-2024
+2538;Pasatiempo;4;La China, ECKO;MC;NULL;2020-2024
+2539;blue;86;yung kai;MC;indie;2020-2024
+2540;Das riecht gut / Ça Sent Bon;4;Team Karacho, Roger Rekless;MC;NULL;2020-2024
+2541;Qué Pasaría...;86;Rauw Alejandro, Bad Bunny;MC;NULL;2020-2024
+2542;Dużo Ciebie Mi;4;Lemon;MC;polish;2020-2024
+2543;Taste;86;Sabrina Carpenter;MC;pop;2020-2024
+2544;Babylon - Live;4;Tamino;MC;NULL;2020-2024
+2545;Loco;86;Neton Vega;MC;NULL;2020-2024
+2546;Fam*ly (feat. Tiji Jojo, DADA & LEX);3;BAD HOP, Tiji Jojo, Dada, LEX;MC;NULL;2020-2024
+2547;Who;86;Jimin;MC;homosexual;2020-2024
+2548;Happier Than Ever - Live From Disney’s Happier Than Ever/A Love Letter to Los Angeles;3;Billie Eilish;MC;NULL;2020-2024
+2549;Scarabocchi;72;Olly, Juli;IT;NULL;2020-2024
+2550;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;IT;NULL;2020-2024
+2551;BUIO DAVANTI;70;Lazza;IT;MySpotigramBot;2020-2024
+2552;Hurt;12;OneRepublic;IT;NULL;2020-2024
+2553;VERTEBRE;69;SETTEMBRE;IT;Italy;2020-2024
+2554;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;IT;NULL;2020-2024
+2555;Quei ricordi là;69;Olly, Juli;IT;NULL;2020-2024
+2556;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;IT;NULL;2020-2024
+2557;GLI SBANDATI HANNO PERSO;69;Marracash;IT;MySpotigramBot;2020-2024
+2558;Ferrari (feat. Luciano);0;Capo Plaza, Luciano;IT;NULL;2020-2024
+2559;Amore Disperato;69;Achille Lauro;IT;NULL;2020-2024
+2560;Circles;7;SAINt JHN;IT;NULL;2020-2024
+2561;LEI;68;Marracash;IT;MySpotigramBot;2020-2024
+2562;Rodeo (Remix);9;Lah Pat, Flo Milli;IT;NULL;2020-2024
+2563;BAMBOLA (feat. Niky Savage);68;Artie 5ive, Niky Savage;IT;NULL;2020-2024
+2564;Passenger Princess;6;Aminé, Smino;IT;NULL;2020-2024
+2565;Devastante;68;Olly, Juli;IT;NULL;2020-2024
+2566;Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile);3;Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra;IT;NULL;2020-2024
+2567;Tu Me Quieres - Prod. by Higashi x Roberto Ferrante;68;Baby Gang, Omega, Higashi, Roberto Ferrante;IT;NULL;2020-2024
+2568;Still countin / Poppin;0;Yeat;IT;NULL;2020-2024
+2569;Per due come noi;67;Olly, Angelina Mango, Juli;IT;NULL;2020-2024
+2570;Don't Play by the Rules;3;D.T.E, PREZIOSO;IT;NULL;2020-2024
+2571;Die With A Smile;96;Lady Gaga, Bruno Mars;IT;NULL;2020-2024
+2572;Un'estate normale;0;Nek;IT;NULL;2020-2024
+2573;Si Antes Te Hubiera Conocido;87;KAROL G;IT;latin;2020-2024
+2574;EA2 (The Beginning of the Era);1;Lil Uzi Vert;IT;NULL;2020-2024
+2575;That’s So True;91;Gracie Abrams;IT;love at first listen;2020-2024
+2576;J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda;3;Johann Sebastian Bach, Carolin Widmann;IT;NULL;2020-2024
+2577;Born With a Broken Heart;77;Damiano David;IT;alternative pop;2020-2024
+2578;Family Feud - Live at The Ford;2;FINNEAS;IT;NULL;2020-2024
+2579;APT.;91;ROSÉ, Bruno Mars;IT;NULL;2020-2024
+2580;Ghosts / Slowing Down;0;Scarlet House;IT;NULL;2020-2024
+2581;Not Like Us;92;Kendrick Lamar;IT;MySpotigramBot;2020-2024
+2582;XI COMANDAMENTO - VASCO LIVE XXII;0;Vasco Rossi;IT;NULL;2020-2024
+2583;BIRDS OF A FEATHER;93;Billie Eilish;IT;alt-pop;2020-2024
+2584;Rid Of Me - Live;3;Still Woozy;IT;NULL;2020-2024
+2585;Sailor Song;89;Gigi Perez;IT;indie folk;2020-2024
+2586;Mentalità di mare;0;Ivan;IT;NULL;2020-2024
+2587;Gata Only;82;FloyyMenor, Cris Mj;IT;NULL;2020-2024
+2588;Il cielo di Roma - Live Session;0;Orang3;IT;NULL;2020-2024
+2589;tv off (feat. lefty gunplay);90;Kendrick Lamar, Lefty Gunplay;IT;NULL;2020-2024
+2590;Ana Wingii;0;Wingii;IT;NULL;2020-2024
+2591;Messy;86;Lola Young;IT;indie rock;2020-2024
+2592;Glass: Philip Glass: Les enfants terribles: The Somnambulist - Part 2;0;Philip Glass, Katia & Marielle Labèque;IT;NULL;2020-2024
+2593;Good Luck, Babe!;89;Chappell Roan;IT;synthpop;2020-2024
+2594;Babylon - Live;4;Tamino;IT;NULL;2020-2024
+2595;Move;80;Adam Port, Stryv, Keinemusik, Orso, Malachiii;IT;NULL;2020-2024
+2596;Tuck Your Chain;0;Money Man, Danny Towers;IT;NULL;2020-2024
+2597;Q U E V A S H A C E R H O Y ?;81;Omar Courtz, De La Rose;IT;NULL;2020-2024
+2598;Dead Flowers;0;Boldy James;IT;NULL;2020-2024
+2599;Die With A Smile;96;Lady Gaga, Bruno Mars;SI;NULL;2020-2024
+2600;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;SI;NULL;2020-2024
+2601;BASS;60;Jala Brat, Buba Corelli;SI;NULL;2020-2024
+2602;Hurt;12;OneRepublic;SI;NULL;2020-2024
+2603;BLAKA BLAKA;60;Jala Brat, Buba Corelli, Elena;SI;NULL;2020-2024
+2604;Babylon - Live;4;Tamino;SI;NULL;2020-2024
+2605;"Anđeo - From ""Sram""";57;Miach, Hiljson Mandela;SI;NULL;2020-2024
+2606;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;SI;NULL;2020-2024
+2607;That’s So True;91;Gracie Abrams;SI;love at first listen;2020-2024
+2608;Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile);3;Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra;SI;NULL;2020-2024
+2609;BIRDS OF A FEATHER;93;Billie Eilish;SI;alt-pop;2020-2024
+2610;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;SI;NULL;2020-2024
+2611;Voice;57;Nucci;SI;NULL;2020-2024
+2612;Don't Play by the Rules;3;D.T.E, PREZIOSO;SI;NULL;2020-2024
+2613;SEXDRIVE;58;Jala Brat, Buba Corelli;SI;NULL;2020-2024
+2614;Bank of Wildflowers (feat. Georgia);0;William Orbit, Georgia;SI;NULL;2020-2024
+2615;KEHLANI;57;Jala Brat, Buba Corelli;SI;NULL;2020-2024
+2616;Rodeo (Remix);9;Lah Pat, Flo Milli;SI;NULL;2020-2024
+2617;Fantazija;54;Grše, Miach;SI;NULL;2020-2024
+2618;Passenger Princess;6;Aminé, Smino;SI;NULL;2020-2024
+2619;Bez Koda;56;Jala Brat, Buba Corelli;SI;NULL;2020-2024
+2620;Family Feud - Live at The Ford;2;FINNEAS;SI;NULL;2020-2024
+2621;Sailor Song;89;Gigi Perez;SI;indie folk;2020-2024
+2622;Little Window - Live Studio Session;3;FINNEAS;SI;NULL;2020-2024
+2623;Palme;51;Ano, Mili;SI;NULL;2020-2024
+2624;4:30;7;Haze, Mucco;SI;NULL;2020-2024
+2625;VVS;53;Voyage, BakaPrase;SI;NULL;2020-2024
+2626;EA2 (The Beginning of the Era);1;Lil Uzi Vert;SI;NULL;2020-2024
+2627;Not Like Us;92;Kendrick Lamar;SI;MySpotigramBot;2020-2024
+2628;Playa (feat. Ella Bands);0;A Boogie Wit da Hoodie, Ella Bands;SI;NULL;2020-2024
+2629;Forza;53;Grše;SI;NULL;2020-2024
+2630;Full Round Table;0;CQ Wrestling;SI;NULL;2020-2024
+2631;VRATI JE TATI;56;Jala Brat, Buba Corelli;SI;NULL;2020-2024
+2632;Vivien;1;††† (Crosses);SI;NULL;2020-2024
+2633;APT.;91;ROSÉ, Bruno Mars;SI;NULL;2020-2024
+2634;Dead Flowers;0;Boldy James;SI;NULL;2020-2024
+2635;KINGSTON;56;Jala Brat, Buba Corelli;SI;NULL;2020-2024
+2636;Circles;7;SAINt JHN;SI;NULL;2020-2024
+2637;Mangio Pasta;53;Peki, Grše;SI;NULL;2020-2024
+2638;DUMBAI;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;SI;NULL;2020-2024
+2639;Karneval II;53;Sajfer;SI;NULL;2020-2024
+2640;Swimming with Sharks;0;New Hope Club;SI;NULL;2020-2024
+2641;tv off (feat. lefty gunplay);90;Kendrick Lamar, Lefty Gunplay;SI;NULL;2020-2024
+2642;I Ain't Sayin' - Performance;2;Jordan Davis;SI;NULL;2020-2024
+2643;WILDFLOWER;90;Billie Eilish;SI;edu e marco;2020-2024
+2644;Cono Hielo;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;SI;NULL;2020-2024
+2645;MAKAROV;56;Jala Brat, Buba Corelli;SI;NULL;2020-2024
+2646;Uzi The Earthling! (TV Show Theme);0;Lil Uzi Vert;SI;pop rock;2020-2024
+2647;BLUR;55;Jala Brat, Buba Corelli;SI;NULL;2020-2024
+2648;Poca Fe (En vivo desde Santiago);0;Cami;SI;NULL;2020-2024
+2649;BASS;60;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2650;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;HR;NULL;2020-2024
+2651;"Anđeo - From ""Sram""";57;Miach, Hiljson Mandela;HR;NULL;2020-2024
+2652;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;HR;NULL;2020-2024
+2653;BLAKA BLAKA;60;Jala Brat, Buba Corelli, Elena;HR;NULL;2020-2024
+2654;Aimer à moitié;2;Calema;HR;NULL;2020-2024
+2655;SEXDRIVE;58;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2656;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;HR;NULL;2020-2024
+2657;KEHLANI;57;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2658;Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile);3;Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra;HR;NULL;2020-2024
+2659;VRATI JE TATI;56;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2660;Hurt;12;OneRepublic;HR;NULL;2020-2024
+2661;Bez Koda;56;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2662;4:30;7;Haze, Mucco;HR;NULL;2020-2024
+2663;Bajadeira;52;Peki, Hiljson Mandela;HR;NULL;2020-2024
+2664;Circles;7;SAINt JHN;HR;NULL;2020-2024
+2665;Voice;57;Nucci;HR;NULL;2020-2024
+2666;Rodeo (Remix);9;Lah Pat, Flo Milli;HR;NULL;2020-2024
+2667;KINGSTON;56;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2668;Don't Play by the Rules;3;D.T.E, PREZIOSO;HR;NULL;2020-2024
+2669;BLUR;55;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2670;Standard;6;Einar, A36;HR;NULL;2020-2024
+2671;Fantazija;54;Grše, Miach;HR;NULL;2020-2024
+2672;Она любила музыку;0;Dima Bilan, Nataliya Vlasova;HR;NULL;2020-2024
+2673;MAKAROV;56;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2674;Gyal Dem Time (feat. Teejay);0;Shaggy, Teejay;HR;NULL;2020-2024
+2675;Mangio Pasta;53;Peki, Grše;HR;NULL;2020-2024
+2676;Delli (feat. Adel);0;Ricky Rich, Adel;HR;NULL;2020-2024
+2677;Žrla Frla;52;Crni Cerak, Cunami Flo, Neloe;HR;NULL;2020-2024
+2678;EA2 (The Beginning of the Era);1;Lil Uzi Vert;HR;NULL;2020-2024
+2679;Ganga i Rera;49;Peki, Vojko V;HR;NULL;2020-2024
+2680;Little Window - Live Studio Session;3;FINNEAS;HR;NULL;2020-2024
+2681;Forza;53;Grše;HR;NULL;2020-2024
+2682;Bank of Wildflowers (feat. Georgia);0;William Orbit, Georgia;HR;NULL;2020-2024
+2683;Led;50;Miach, Grše;HR;NULL;2020-2024
+2684;Passenger Princess;6;Aminé, Smino;HR;NULL;2020-2024
+2685;Ako ne znaš šta je bilo;48;Marko Perković Thompson, Hrvatske ruže;HR;NULL;2020-2024
+2686;Last Night In Kingston;3;Konan;HR;NULL;2020-2024
+2687;Die With A Smile;96;Lady Gaga, Bruno Mars;HR;NULL;2020-2024
+2688;Party Jumpin’;2;Jamie Brown, Marshmello;HR;NULL;2020-2024
+2689;Ankaran;51;Hiljson Mandela, Biba;HR;NULL;2020-2024
+2690;Babylon - Live;4;Tamino;HR;NULL;2020-2024
+2691;Japan;52;Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2692;DUMBAI;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;HR;NULL;2020-2024
+2693;7ICE;53;Sajfer, Jala Brat, Buba Corelli;HR;NULL;2020-2024
+2694;Dead Flowers;0;Boldy James;HR;NULL;2020-2024
+2695;Palme;51;Ano, Mili;HR;NULL;2020-2024
+2696;Rid Of Me - Live;3;Still Woozy;HR;NULL;2020-2024
+2697;KISS;44;Baks;HR;NULL;2020-2024
+2698;Family Feud - Live at The Ford;2;FINNEAS;HR;NULL;2020-2024
+2699;Die With A Smile;96;Lady Gaga, Bruno Mars;BA;NULL;2020-2024
+2700;Circles;7;SAINt JHN;BA;NULL;2020-2024
+2701;BIRDS OF A FEATHER;93;Billie Eilish;BA;alt-pop;2020-2024
+2702;4:30;7;Haze, Mucco;BA;NULL;2020-2024
+2703;Not Like Us;92;Kendrick Lamar;BA;MySpotigramBot;2020-2024
+2704;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;BA;NULL;2020-2024
+2705;That’s So True;91;Gracie Abrams;BA;love at first listen;2020-2024
+2706;Passenger Princess;6;Aminé, Smino;BA;NULL;2020-2024
+2707;Clean Baby Sleep White Noise (Loopable);91;Dream Supplier, Baby Sleeps, Background White Noise;BA;NULL;2020-2024
+2708;Hurt;12;OneRepublic;BA;NULL;2020-2024
+2709;APT.;91;ROSÉ, Bruno Mars;BA;NULL;2020-2024
+2710;123 (feat. Yasin);2;Cherrie, Yasin;BA;NULL;2020-2024
+2711;tv off (feat. lefty gunplay);90;Kendrick Lamar, Lefty Gunplay;BA;NULL;2020-2024
+2712;EA2 (The Beginning of the Era);1;Lil Uzi Vert;BA;NULL;2020-2024
+2713;WILDFLOWER;90;Billie Eilish;BA;edu e marco;2020-2024
+2714;Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile);3;Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra;BA;NULL;2020-2024
+2715;Sailor Song;89;Gigi Perez;BA;indie folk;2020-2024
+2716;Rodeo (Remix);9;Lah Pat, Flo Milli;BA;NULL;2020-2024
+2717;Good Luck, Babe!;89;Chappell Roan;BA;synthpop;2020-2024
+2718;Horror Story;0;Tay Savage, Rah Swish;BA;NULL;2020-2024
+2719;luther (with sza);89;Kendrick Lamar, SZA;BA;NULL;2020-2024
+2720;Babylon - Live;4;Tamino;BA;NULL;2020-2024
+2721;luther (with sza);88;Kendrick Lamar, SZA;BA;NULL;2020-2024
+2722;Yasak Aşk / Aşk-ı Memnu - Live;0;Toygar Işıklı, Break of Reality;BA;NULL;2020-2024
+2723;DENIAL IS A RIVER;88;Doechii;BA;Hip-Hop;2020-2024
+2724;Dead Flowers;0;Boldy James;BA;NULL;2020-2024
+2725;Si Antes Te Hubiera Conocido;87;KAROL G;BA;latin;2020-2024
+2726;Family Feud - Live at The Ford;2;FINNEAS;BA;NULL;2020-2024
+2727;APT.;87;ROSÉ, Bruno Mars;BA;NULL;2020-2024
+2728;Postcards - Acoustic Version;1;Mackenzy Mackay;BA;NULL;2020-2024
+2729;squabble up;87;Kendrick Lamar;BA;hyphy;2020-2024
+2730;Aimer à moitié;2;Calema;BA;NULL;2020-2024
+2731;Timeless (feat. Playboi Carti);87;The Weeknd, Playboi Carti;BA;NULL;2020-2024
+2732;Kalt wie Eis (feat. Tommy);0;Ciro, Tommy;BA;NULL;2020-2024
+2733;One Of The Girls (with JENNIE, Lily Rose Depp);87;The Weeknd, JENNIE, Lily-Rose Depp;BA;NULL;2020-2024
+2734;Lindo Momento;21;Julliany Souza;BA;NULL;2020-2024
+2735;Like Him (feat. Lola Young);86;Tyler, The Creator, Lola Young;BA;NULL;2020-2024
+2736;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;BA;NULL;2020-2024
+2737;Messy;86;Lola Young;BA;indie rock;2020-2024
+2738;Seu Astral / Mistérios;11;Fiorella;BA;NULL;2020-2024
+2739;blue;86;yung kai;BA;indie;2020-2024
+2740;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;BA;NULL;2020-2024
+2741;Qué Pasaría...;86;Rauw Alejandro, Bad Bunny;BA;NULL;2020-2024
+2742;Selfmade Babylon;6;Bausa, Bozza;BA;NULL;2020-2024
+2743;Taste;86;Sabrina Carpenter;BA;pop;2020-2024
+2744;Standard;6;Einar, A36;BA;NULL;2020-2024
+2745;Loco;86;Neton Vega;BA;NULL;2020-2024
+2746;Tussi Code Mari;5;Marcianeke, Crismj;BA;NULL;2020-2024
+2747;Who;86;Jimin;BA;homosexual;2020-2024
+2748;Pasatiempo;4;La China, ECKO;BA;NULL;2020-2024
+2749;Die With A Smile;96;Lady Gaga, Bruno Mars;ME;NULL;2020-2024
+2750;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;ME;NULL;2020-2024
+2751;BIRDS OF A FEATHER;93;Billie Eilish;ME;alt-pop;2020-2024
+2752;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;ME;NULL;2020-2024
+2753;Not Like Us;92;Kendrick Lamar;ME;MySpotigramBot;2020-2024
+2754;Delli (feat. Adel);0;Ricky Rich, Adel;ME;NULL;2020-2024
+2755;That’s So True;91;Gracie Abrams;ME;love at first listen;2020-2024
+2756;123 (feat. Yasin);2;Cherrie, Yasin;ME;NULL;2020-2024
+2757;Clean Baby Sleep White Noise (Loopable);91;Dream Supplier, Baby Sleeps, Background White Noise;ME;NULL;2020-2024
+2758;Hurt;12;OneRepublic;ME;NULL;2020-2024
+2759;APT.;91;ROSÉ, Bruno Mars;ME;NULL;2020-2024
+2760;僕は頑張るよっ feat. ano;1;Shinsei Kamattechan, Ano;ME;NULL;2020-2024
+2761;tv off (feat. lefty gunplay);90;Kendrick Lamar, Lefty Gunplay;ME;NULL;2020-2024
+2762;Babylon - Live;4;Tamino;ME;NULL;2020-2024
+2763;WILDFLOWER;90;Billie Eilish;ME;edu e marco;2020-2024
+2764;Circles;7;SAINt JHN;ME;NULL;2020-2024
+2765;Sailor Song;89;Gigi Perez;ME;indie folk;2020-2024
+2766;J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda;3;Johann Sebastian Bach, Carolin Widmann;ME;NULL;2020-2024
+2767;Good Luck, Babe!;89;Chappell Roan;ME;synthpop;2020-2024
+2768;EA2 (The Beginning of the Era);1;Lil Uzi Vert;ME;NULL;2020-2024
+2769;luther (with sza);89;Kendrick Lamar, SZA;ME;NULL;2020-2024
+2770;BABY GANGSTA;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;ME;NULL;2020-2024
+2771;luther (with sza);88;Kendrick Lamar, SZA;ME;NULL;2020-2024
+2772;DUMBAI;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;ME;NULL;2020-2024
+2773;DENIAL IS A RIVER;88;Doechii;ME;Hip-Hop;2020-2024
+2774;Uzi The Earthling! (TV Show Theme);0;Lil Uzi Vert;ME;pop rock;2020-2024
+2775;Si Antes Te Hubiera Conocido;87;KAROL G;ME;latin;2020-2024
+2776;Ti voglio richiamare;0;Yanomi, blame, Chakra;ME;NULL;2020-2024
+2777;APT.;87;ROSÉ, Bruno Mars;ME;NULL;2020-2024
+2778;Lindo Momento;21;Julliany Souza;ME;NULL;2020-2024
+2779;squabble up;87;Kendrick Lamar;ME;hyphy;2020-2024
+2780;Seu Astral / Mistérios;11;Fiorella;ME;NULL;2020-2024
+2781;Timeless (feat. Playboi Carti);87;The Weeknd, Playboi Carti;ME;NULL;2020-2024
+2782;Rodeo (Remix);9;Lah Pat, Flo Milli;ME;NULL;2020-2024
+2783;One Of The Girls (with JENNIE, Lily Rose Depp);87;The Weeknd, JENNIE, Lily-Rose Depp;ME;NULL;2020-2024
+2784;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;ME;NULL;2020-2024
+2785;Like Him (feat. Lola Young);86;Tyler, The Creator, Lola Young;ME;NULL;2020-2024
+2786;4:30;7;Haze, Mucco;ME;NULL;2020-2024
+2787;Messy;86;Lola Young;ME;indie rock;2020-2024
+2788;Selfmade Babylon;6;Bausa, Bozza;ME;NULL;2020-2024
+2789;blue;86;yung kai;ME;indie;2020-2024
+2790;Standard;6;Einar, A36;ME;NULL;2020-2024
+2791;Qué Pasaría...;86;Rauw Alejandro, Bad Bunny;ME;NULL;2020-2024
+2792;Passenger Princess;6;Aminé, Smino;ME;NULL;2020-2024
+2793;Taste;86;Sabrina Carpenter;ME;pop;2020-2024
+2794;Tussi Code Mari;5;Marcianeke, Crismj;ME;NULL;2020-2024
+2795;Loco;86;Neton Vega;ME;NULL;2020-2024
+2796;Pasatiempo;4;La China, ECKO;ME;NULL;2020-2024
+2797;Who;86;Jimin;ME;homosexual;2020-2024
+2798;Das riecht gut / Ça Sent Bon;4;Team Karacho, Roger Rekless;ME;NULL;2020-2024
+2799;Die With A Smile;96;Lady Gaga, Bruno Mars;AL;NULL;2020-2024
+2800;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;AL;NULL;2020-2024
+2801;BIRDS OF A FEATHER;93;Billie Eilish;AL;alt-pop;2020-2024
+2802;Hurt;12;OneRepublic;AL;NULL;2020-2024
+2803;Not Like Us;92;Kendrick Lamar;AL;MySpotigramBot;2020-2024
+2804;Seu Astral / Mistérios;11;Fiorella;AL;NULL;2020-2024
+2805;That’s So True;91;Gracie Abrams;AL;love at first listen;2020-2024
+2806;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;AL;NULL;2020-2024
+2807;Clean Baby Sleep White Noise (Loopable);91;Dream Supplier, Baby Sleeps, Background White Noise;AL;NULL;2020-2024
+2808;Circles;7;SAINt JHN;AL;NULL;2020-2024
+2809;APT.;91;ROSÉ, Bruno Mars;AL;NULL;2020-2024
+2810;4:30;7;Haze, Mucco;AL;NULL;2020-2024
+2811;tv off (feat. lefty gunplay);90;Kendrick Lamar, Lefty Gunplay;AL;NULL;2020-2024
+2812;Tussi Code Mari;5;Marcianeke, Crismj;AL;NULL;2020-2024
+2813;WILDFLOWER;90;Billie Eilish;AL;edu e marco;2020-2024
+2814;Das riecht gut / Ça Sent Bon;4;Team Karacho, Roger Rekless;AL;NULL;2020-2024
+2815;Sailor Song;89;Gigi Perez;AL;indie folk;2020-2024
+2816;Babylon - Live;4;Tamino;AL;NULL;2020-2024
+2817;Good Luck, Babe!;89;Chappell Roan;AL;synthpop;2020-2024
+2818;Happier Than Ever - Live From Disney’s Happier Than Ever/A Love Letter to Los Angeles;3;Billie Eilish;AL;NULL;2020-2024
+2819;luther (with sza);89;Kendrick Lamar, SZA;AL;NULL;2020-2024
+2820;Little Window - Live Studio Session;3;FINNEAS;AL;NULL;2020-2024
+2821;luther (with sza);88;Kendrick Lamar, SZA;AL;NULL;2020-2024
+2822;J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda;3;Johann Sebastian Bach, Carolin Widmann;AL;NULL;2020-2024
+2823;DENIAL IS A RIVER;88;Doechii;AL;Hip-Hop;2020-2024
+2824;Rid Of Me - Live;3;Still Woozy;AL;NULL;2020-2024
+2825;Si Antes Te Hubiera Conocido;87;KAROL G;AL;latin;2020-2024
+2826;TV - Live From Singapore’s Cloud Forest;3;Billie Eilish;AL;NULL;2020-2024
+2827;APT.;87;ROSÉ, Bruno Mars;AL;NULL;2020-2024
+2828;Last Night In Kingston;3;Konan;AL;NULL;2020-2024
+2829;squabble up;87;Kendrick Lamar;AL;hyphy;2020-2024
+2830;I Ain't Sayin' - Performance;2;Jordan Davis;AL;NULL;2020-2024
+2831;Timeless (feat. Playboi Carti);87;The Weeknd, Playboi Carti;AL;NULL;2020-2024
+2832;Party Jumpin’;2;Jamie Brown, Marshmello;AL;NULL;2020-2024
+2833;One Of The Girls (with JENNIE, Lily Rose Depp);87;The Weeknd, JENNIE, Lily-Rose Depp;AL;NULL;2020-2024
+2834;Family Feud - Live at The Ford;2;FINNEAS;AL;NULL;2020-2024
+2835;Like Him (feat. Lola Young);86;Tyler, The Creator, Lola Young;AL;NULL;2020-2024
+2836;Aimer à moitié;2;Calema;AL;NULL;2020-2024
+2837;Messy;86;Lola Young;AL;indie rock;2020-2024
+2838;Cono Hielo;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;AL;NULL;2020-2024
+2839;blue;86;yung kai;AL;indie;2020-2024
+2840;Qué Pasaría...;86;Rauw Alejandro, Bad Bunny;AL;NULL;2020-2024
+2841;DUMBAI;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;AL;NULL;2020-2024
+2842;Taste;86;Sabrina Carpenter;AL;pop;2020-2024
+2843;Pode Ir Embora / Vagalumes / Trânsito Parado;1;Fiorella;AL;NULL;2020-2024
+2844;Loco;86;Neton Vega;AL;NULL;2020-2024
+2845;Na Nossa Sala / Amor e Amor - Ao Vivo;1;Rodriguinho, Gaab, Mr. Dan;AL;NULL;2020-2024
+2846;Who;86;Jimin;AL;homosexual;2020-2024
+2847;Vamos Fugir / Aqui É O Seu Lugar;1;Fiorella;AL;NULL;2020-2024
+2848;DOLCE GABBANA;63;TOQUEL, FLY LO, Beyond;GR;NULL;2020-2024
+2849;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;GR;NULL;2020-2024
+2850;Gia Sena;62;Saske, Grandbois, Th Mark;GR;NULL;2020-2024
+2851;Circles;7;SAINt JHN;GR;NULL;2020-2024
+2852;ILEGAL;63;TOQUEL, FLY LO, Beyond;GR;NULL;2020-2024
+2853;Dead Flowers;0;Boldy James;GR;NULL;2020-2024
+2854;TAMAM;62;RACK, Sin Laurent;GR;NULL;2020-2024
+2855;Hurt;12;OneRepublic;GR;NULL;2020-2024
+2856;MOU ZITAS;61;TOQUEL, FLY LO, Beyond;GR;NULL;2020-2024
+2857;Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile);3;Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra;GR;NULL;2020-2024
+2858;AUTOS;60;Sicario;GR;NULL;2020-2024
+2859;Passenger Princess;6;Aminé, Smino;GR;NULL;2020-2024
+2860;SHOOTER ME TN;60;RACK;GR;NULL;2020-2024
+2861;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;GR;NULL;2020-2024
+2862;PELIGROSA;60;TOQUEL, FLY LO, Beyond;GR;NULL;2020-2024
+2863;Rodeo (Remix);9;Lah Pat, Flo Milli;GR;NULL;2020-2024
+2864;Xiliometra;60;APON;GR;NULL;2020-2024
+2865;TV - Live From Singapore’s Cloud Forest;3;Billie Eilish;GR;NULL;2020-2024
+2866;Alitiki Agapi;59;LEX, Dof Twogee;GR;NULL;2020-2024
+2867;Happier Than Ever - Live From Disney’s Happier Than Ever/A Love Letter to Los Angeles;3;Billie Eilish;GR;NULL;2020-2024
+2868;Nyxterides;59;LEX, Dof Twogee;GR;NULL;2020-2024
+2869;Babylon - Live;4;Tamino;GR;NULL;2020-2024
+2870;Normal;58;Roi 6/12;GR;NULL;2020-2024
+2871;RESPECT MY MOOD (Official Music Video);0;DUSTY LOCANE, J Hound;GR;NULL;2020-2024
+2872;Kataramenos;58;Roi 6/12;GR;NULL;2020-2024
+2873;EA2 (The Beginning of the Era);1;Lil Uzi Vert;GR;NULL;2020-2024
+2874;Xeiroteri Genia;58;LEX, Dof Twogee;GR;NULL;2020-2024
+2875;Vivien;1;††† (Crosses);GR;NULL;2020-2024
+2876;MA BELLA;58;RACK, TOQUEL, Beyond;GR;NULL;2020-2024
+2877;4:30;7;Haze, Mucco;GR;NULL;2020-2024
+2878;Petheno;57;Roi 6/12;GR;NULL;2020-2024
+2879;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;GR;NULL;2020-2024
+2880;Frena;57;Roi 6/12;GR;NULL;2020-2024
+2881;Little Window - Live Studio Session;3;FINNEAS;GR;NULL;2020-2024
+2882;ISOS;58;Sicario;GR;NULL;2020-2024
+2883;J.S. Bach: Violin Partita No. 2 in D Minor, BWV 1004 - I. Allemanda;3;Johann Sebastian Bach, Carolin Widmann;GR;NULL;2020-2024
+2884;ODIGAO STIN VROXI;56;TOQUEL, FLY LO, Beyond, Mike G, Ioannis;GR;NULL;2020-2024
+2885;Don't Play by the Rules;3;D.T.E, PREZIOSO;GR;NULL;2020-2024
+2886;ANATOLI;57;Marina Satti;GR;NULL;2020-2024
+2887;FAKE - BRITs 2022 Rising Star Live Session;1;Lola Young;GR;NULL;2020-2024
+2888;Skoni;56;TOQUEL;GR;NULL;2020-2024
+2889;Das riecht gut / Ça Sent Bon;4;Team Karacho, Roger Rekless;GR;NULL;2020-2024
+2890;Se Periptosi Pou;56;Anna Vissi;GR;cyprus;2020-2024
+2891;Chapa;0;JACASVI, lil Matt;GR;NULL;2020-2024
+2892;Vorias;57;APON;GR;NULL;2020-2024
+2893;Family Feud - Live at The Ford;2;FINNEAS;GR;NULL;2020-2024
+2894;Feggari;56;APON;GR;NULL;2020-2024
+2895;123 (feat. Yasin);2;Cherrie, Yasin;GR;NULL;2020-2024
+2896;Die With A Smile;96;Lady Gaga, Bruno Mars;GR;NULL;2020-2024
+2897;Standard;6;Einar, A36;GR;NULL;2020-2024
+2898;Die With A Smile;96;Lady Gaga, Bruno Mars;MT;NULL;2020-2024
+2899;Hurt;12;OneRepublic;MT;NULL;2020-2024
+2900;BIRDS OF A FEATHER;93;Billie Eilish;MT;alt-pop;2020-2024
+2901;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;MT;NULL;2020-2024
+2902;That’s So True;91;Gracie Abrams;MT;love at first listen;2020-2024
+2903;Not Like Us;92;Kendrick Lamar;MT;MySpotigramBot;2020-2024
+2904;Don't Play by the Rules;3;D.T.E, PREZIOSO;MT;NULL;2020-2024
+2905;APT.;91;ROSÉ, Bruno Mars;MT;NULL;2020-2024
+2906;Circles;7;SAINt JHN;MT;NULL;2020-2024
+2907;Good Luck, Babe!;89;Chappell Roan;MT;synthpop;2020-2024
+2908;Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile);3;Sergei Rachmaninoff, Martin James Bartlett, Joshua Weilerstein, London Philharmonic Orchestra;MT;NULL;2020-2024
+2909;tv off (feat. lefty gunplay);90;Kendrick Lamar, Lefty Gunplay;MT;NULL;2020-2024
+2910;Risk - Live From The Tonight Show With Jimmy Fallon;8;Gracie Abrams;MT;NULL;2020-2024
+2911;Sailor Song;89;Gigi Perez;MT;indie folk;2020-2024
+2912;Elixir;1;Tommy Saint;MT;NULL;2020-2024
+2913;I Adore You (feat. Daecolm);80;HUGEL, Topic, Arash, Daecolm;MT;NULL;2020-2024
+2914;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;MT;NULL;2020-2024
+2915;Messy;86;Lola Young;MT;indie rock;2020-2024
+2916;Standard;6;Einar, A36;MT;NULL;2020-2024
+2917;WILDFLOWER;90;Billie Eilish;MT;edu e marco;2020-2024
+2918;Она любила музыку;0;Dima Bilan, Nataliya Vlasova;MT;NULL;2020-2024
+2919;Lose Control;85;Teddy Swims;MT;soul;2020-2024
+2920;Party Jumpin’;2;Jamie Brown, Marshmello;MT;NULL;2020-2024
+2921;Timeless (feat. Playboi Carti);87;The Weeknd, Playboi Carti;MT;NULL;2020-2024
+2922;Rid Of Me - Live;3;Still Woozy;MT;NULL;2020-2024
+2923;DENIAL IS A RIVER;88;Doechii;MT;Hip-Hop;2020-2024
+2924;Passenger Princess;6;Aminé, Smino;MT;NULL;2020-2024
+2925;Too Sweet;80;Hozier;MT;irish;2020-2024
+2926;EA2 (The Beginning of the Era);1;Lil Uzi Vert;MT;NULL;2020-2024
+2927;Beautiful Things;85;Benson Boone;MT;pop;2020-2024
+2928;Little Window - Live Studio Session;3;FINNEAS;MT;NULL;2020-2024
+2929;The Door;82;Teddy Swims;MT;pop;2020-2024
+2930;Last Night In Kingston;3;Konan;MT;NULL;2020-2024
+2931;APT.;87;ROSÉ, Bruno Mars;MT;NULL;2020-2024
+2932;Family Feud - Live at The Ford;2;FINNEAS;MT;NULL;2020-2024
+2933;ME JALO;85;Fuerza Regida, Grupo Frontera;MT;NULL;2020-2024
+2934;Vivien;1;††† (Crosses);MT;NULL;2020-2024
+2935;Move;80;Adam Port, Stryv, Keinemusik, Orso, Malachiii;MT;NULL;2020-2024
+2936;Cono Hielo;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;MT;NULL;2020-2024
+2937;luther (with sza);89;Kendrick Lamar, SZA;MT;NULL;2020-2024
+2938;Tuck Your Chain;0;Money Man, Danny Towers;MT;NULL;2020-2024
+2939;Messy;83;Lola Young;MT;indie rock;2020-2024
+2940;Postcards - Acoustic Version;1;Mackenzy Mackay;MT;NULL;2020-2024
+2941;Stumblin' In;79;CYRIL;MT;cover;2020-2024
+2942;Rodeo (Remix);9;Lah Pat, Flo Milli;MT;NULL;2020-2024
+2943;Taste;86;Sabrina Carpenter;MT;pop;2020-2024
+2944;DUMBAI;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;MT;NULL;2020-2024
+2945;I Love You, I'm Sorry;84;Gracie Abrams;MT;peter;2020-2024
+2946;BABY GANGSTA;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;MT;NULL;2020-2024
+2947;Die With A Smile;96;Lady Gaga, Bruno Mars;CY;NULL;2020-2024
+2948;That’s So True - Live From Radio City Music Hall;20;Gracie Abrams;CY;NULL;2020-2024
+2949;DOLCE GABBANA;63;TOQUEL, FLY LO, Beyond;CY;NULL;2020-2024
+2950;Hurt;12;OneRepublic;CY;NULL;2020-2024
+2951;ILEGAL;63;TOQUEL, FLY LO, Beyond;CY;NULL;2020-2024
+2952;Circles;7;SAINt JHN;CY;NULL;2020-2024
+2953;Alitiki Agapi;59;LEX, Dof Twogee;CY;NULL;2020-2024
+2954;Family Feud - Live at The Ford;2;FINNEAS;CY;NULL;2020-2024
+2955;Xiliometra;60;APON;CY;NULL;2020-2024
+2956;La Carta Que Nunca Te Escribí - Remix;0;Lu Decker, Dudi;CY;NULL;2020-2024
+2957;Gia Sena;62;Saske, Grandbois, Th Mark;CY;NULL;2020-2024
+2958;Rodeo (Remix);9;Lah Pat, Flo Milli;CY;NULL;2020-2024
+2959;MOU ZITAS;61;TOQUEL, FLY LO, Beyond;CY;NULL;2020-2024
+2960;Standard;6;Einar, A36;CY;NULL;2020-2024
+2961;BIRDS OF A FEATHER;93;Billie Eilish;CY;alt-pop;2020-2024
+2962;All We Got (feat. KIDDO);14;Robin Schulz, KIDDO;CY;NULL;2020-2024
+2963;Xeiroteri Genia;58;LEX, Dof Twogee;CY;NULL;2020-2024
+2964;FAKE - BRITs 2022 Rising Star Live Session;1;Lola Young;CY;NULL;2020-2024
+2965;TAMAM;62;RACK, Sin Laurent;CY;NULL;2020-2024
+2966;Little Window - Live Studio Session;3;FINNEAS;CY;NULL;2020-2024
+2967;Not Like Us;92;Kendrick Lamar;CY;MySpotigramBot;2020-2024
+2968;EA2 (The Beginning of the Era);1;Lil Uzi Vert;CY;NULL;2020-2024
+2969;Se Periptosi Pou;56;Anna Vissi;CY;cyprus;2020-2024
+2970;Party Jumpin’;2;Jamie Brown, Marshmello;CY;NULL;2020-2024
+2971;PELIGROSA;60;TOQUEL, FLY LO, Beyond;CY;NULL;2020-2024
+2972;ILMSY (MOVES);0;Rotimi;CY;NULL;2020-2024
+2973;Nyxterides;59;LEX, Dof Twogee;CY;NULL;2020-2024
+2974;Passenger Princess;6;Aminé, Smino;CY;NULL;2020-2024
+2975;AUTOS;60;Sicario;CY;NULL;2020-2024
+2976;Last Night In Kingston;3;Konan;CY;NULL;2020-2024
+2977;SHOOTER ME TN;60;RACK;CY;NULL;2020-2024
+2978;Она любила музыку;0;Dima Bilan, Nataliya Vlasova;CY;NULL;2020-2024
+2979;ISOS;58;Sicario;CY;NULL;2020-2024
+2980;Мотыльки;0;Glukoza, KYIVSTONER;CY;NULL;2020-2024
+2981;ANATOLI;57;Marina Satti;CY;NULL;2020-2024
+2982;Babylon - Live;4;Tamino;CY;NULL;2020-2024
+2983;WILDFLOWER;90;Billie Eilish;CY;edu e marco;2020-2024
+2984;4:30;7;Haze, Mucco;CY;NULL;2020-2024
+2985;MA BELLA;58;RACK, TOQUEL, Beyond;CY;NULL;2020-2024
+2986;Tuck Your Chain;0;Money Man, Danny Towers;CY;NULL;2020-2024
+2987;That’s So True;91;Gracie Abrams;CY;love at first listen;2020-2024
+2988;Ghosts / Slowing Down;0;Scarlet House;CY;NULL;2020-2024
+2989;Vorias;57;APON;CY;NULL;2020-2024
+2990;Animals in the Ocean;0;Blippi;CY;NULL;2020-2024
+2991;tv off (feat. lefty gunplay);90;Kendrick Lamar, Lefty Gunplay;CY;NULL;2020-2024
+2992;Uzi The Earthling! (TV Show Theme);0;Lil Uzi Vert;CY;pop rock;2020-2024
+2993;Normal;58;Roi 6/12;CY;NULL;2020-2024
+2994;Cancelaram o Carnaval;0;POCAH, HITMAKER;CY;NULL;2020-2024
+2995;Feggari;56;APON;CY;NULL;2020-2024
+2996;DUMBAI;1;CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso;CY;NULL;2020-2024
